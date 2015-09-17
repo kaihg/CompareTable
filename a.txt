@@ -1,0 +1,1743 @@
+AAA	OnAir Switzerland Sarl	ONAIR	OnAir1	OnAir	1800 (GSM)	901	15		8988298	2014-12-02
+AAM	Maritime Communications Partner AS	Maritime Communications Partner AS	Maritime Communications Partner AS	MCP	1800 (GSM)	901	12		8988232	2014-11-20
+ABW	New Millennium Telecom Services NV	Digicel	DIGICEL	DIGICEL	1800 (GSM)	363	20	2	8929702	2014-10-03
+ABW	New Millennium Telecom Services NV	Digicel	DIGICEL	DIGICEL	900 (GSM)	363	20	2	8929702	2014-10-03
+ABW	Servicio di Telecomunicacion di Aruba	SETAR GSM	SETAR	SETAR	2100 (3G)	363	012		8929786	2014-10-31
+ABW	Servicio di Telecomunicacion di Aruba	SETAR GSM	SETAR	SETAR	1800 (GSM)	363	01		8929786	2014-10-31
+ABW	Servicio di Telecomunicacion di Aruba	SETAR GSM	SETAR	SETAR	1800 (LTE)	363	01		8929786	2014-10-31
+ABW	Servicio di Telecomunicacion di Aruba	SETAR GSM	SETAR	SETAR	1900 (GSM)	363	01		8929786	2014-10-31
+ABW	Servicio di Telecomunicacion di Aruba	SETAR GSM	SETAR	SETAR	900 (GSM)	363	01		8929786	2014-10-31
+AFG	Afghan Wireless Communication Company	AWCC	AF AWCC	AWCC	900 (GSM)	412	01	"0,1"	899301	2012-02-09
+AFG	Afghan Wireless Communication Company	AWCC	AF AWCC	AWCC	1800 (GSM)	412	01	"0,1"	899301	2012-02-09
+AFG	Etisalat Afghanistan	Etisalat Afghanistan	Etisalat Af	Etisalat	1800 (GSM)	412	50	7	8993501	2007-03-22
+AFG	Etisalat Afghanistan	Etisalat Afghanistan	Etisalat Af	Etisalat	900 (GSM)	412	50	7	8993501	2007-03-22
+AFG	MTN Afghanistan	MTN Afghanistan	MTN AF	MTN	1800 (GSM)	412	40	"4,5"	899340	2012-02-01
+AFG	MTN Afghanistan	MTN Afghanistan	MTN AF	MTN	900 (GSM)	412	40	"4,5"	899340	2012-02-01
+AFG	Telecom Development Company Afghanistan Ltd.	ROSHAN	ROSHAN	ROSHAN	900 (GSM)	412	20	"2,3"	899379	2011-10-20
+AGO	Unitel S.A.	UNITEL	UNITEL	UNITEL	900 (GSM)	631	02	7	8924402	2014-07-28
+AGO	Unitel S.A.	UNITEL	UNITEL	UNITEL	1800 (LTE)	631	02		8924402	2014-07-28
+AGO	Unitel S.A.	UNITEL	UNITEL	UNITEL	1800 (GSM)	631	02	7	8924402	2014-07-28
+AGO	Unitel S.A.	UNITEL	UNITEL	UNITEL	2100 (3G)	631	02		8924402	2014-07-28
+AIA	Cable & Wireless (Anguilla) Ltd	LIME	LIME	LIME	850 (GSM)	365	840		8901010	2012-05-18
+ALB	ALBtelecom sh.a.	Eagle Mobile	EAGLE AL	EAGLE AL	1800 (GSM)	276	03	"0,7"	8935503	2014-07-02
+ALB	ALBtelecom sh.a.	Eagle Mobile	EAGLE AL	EAGLE AL	2100 (3G)	276	03		8935503	2014-07-02
+ALB	ALBtelecom sh.a.	Eagle Mobile	EAGLE AL	EAGLE AL	900 (GSM)	276	03	"0,7"	8935503	2014-07-02
+ALB	Albanian Mobile Communications sh.a	A M C MOBIL	A M C	A M C	1800 (GSM)	276	01	1	8935501	2014-11-18
+ALB	Albanian Mobile Communications sh.a	A M C MOBIL	A M C	A M C	900 (GSM)	276	01	1	8935501	2014-11-18
+ALB	PLUS COMMUNICATION	PLUS	PLUS AL	PLUS AL	1800 (GSM)	276	04		8935504	2012-03-02
+ALB	PLUS COMMUNICATION	PLUS	PLUS AL	PLUS AL	900 (GSM)	276	04		8935504	2012-03-02
+ALB	Vodafone Albania	Vodafone	Vodafone AL	Voda AL	1800 (GSM)	276	02	"0,5"	8935502	2012-03-05
+ALB	Vodafone Albania	Vodafone	Vodafone AL	Voda AL	900 (GSM)	276	02	"0,5"	8935502	2012-03-05
+AND	Servei De Telecomunicacions dAndorra	ANDORRA TELECOM	MOBILAND	M-AND	900 (GSM)	213	03		8937603	2014-09-30
+AND	Servei De Telecomunicacions dAndorra	ANDORRA TELECOM	MOBILAND	M-AND	2100 (3G)	213	03		8937603	2014-09-30
+AND	Servei De Telecomunicacions dAndorra	ANDORRA TELECOM	MOBILAND	M-AND	1800 (GSM)	213	03		8937603	2014-09-30
+ANT	Cura?ao Telecom N.V.	Digicel Curacao	Digicel	Digicel	900 (GSM)	362	69	6	8959996	2014-05-21
+ANT	Cura?ao Telecom N.V.	Digicel Curacao	Digicel	Digicel	1800 (GSM)	362	69	6	8959996	2014-05-21
+ANT	Setel N.V.	UTS Wireless Curacao	CHIPPIE	CHIPPIE	900 (GSM)	362	91	7	8959991	2014-10-03
+ANT	Telcell N.V.	Telcell N.V.	Telcell GSM	Telcell	900 (GSM)	362	51		8959951	2001-10-25
+ANT	Telefonia Bonairiano NV (Telbo)	Kla	Kla	Kla	900 (GSM)	362	78		8936278	2014-05-21
+ANT	Telefonia Bonairiano NV (Telbo)	Kla	Kla	Kla	1900 (3G)	362	78		8936278	2014-05-21
+ANT	Telefonia Bonairiano NV (Telbo)	Kla	Kla	Kla	2100 (3G)	362	78		8936278	2014-05-21
+ARE	Emirates Integrated Telecommunications Company PJSC	du	du	du	2100 (3G)	424	03		8997103	2012-07-05
+ARE	Emirates Integrated Telecommunications Company PJSC	du	du	du	1800 (GSM)	424	03	"5,7"	8997103	2012-07-05
+ARE	Emirates Integrated Telecommunications Company PJSC	du	du	du	900 (GSM)	424	03	"5,7"	8997103	2012-07-05
+ARE	Emirates Telecom Corp-ETISALAT	ETISALAT	ETISALAT	ETISALAT	2100 (3G)	424	02		899711	2012-07-05
+ARE	Emirates Telecom Corp-ETISALAT	ETISALAT	ETISALAT	ETISALAT	900 (GSM)	424	02	6	899711	2013-08-06
+ARG	AMX Argentina S.A.	CLARO ARGENTINA	CLARO ARGENTINA	CLARO AR	1900 (GSM)	722	310	4	8954310	2008-03-18
+ARG	AMX Argentina S.A.	CLARO ARGENTINA	CLARO ARGENTINA	CLARO AR	850 (GSM)	722	310	4	8954310	2008-03-18
+ARG	Telecom Personal SA	Personal	AR PERSONAL	AR TP	1900 (GSM)	722	341	"0,1"	8954341	2012-07-05
+ARG	Telecom Personal SA	Personal	AR PERSONAL	AR TP	850 (GSM)	722	341	"0,1"	8954341	2012-07-05
+ARG	Telef?nica M?viles Argentina S.A.	Movistar	Movistar	Movistar	850 (GSM)	722	010	7	 895401	2014-10-07
+ARG	Telef?nica M?viles Argentina S.A.	Movistar	Movistar	Movistar	1900 (GSM)	722	07	7	895407	2014-10-07
+ARM	ArmenTel	ARMGSM	Beeline AM	Beeline	1800 (GSM)	283	01	"0,1,2"	8937401	2012-02-22
+ARM	ArmenTel	ARMGSM	Beeline AM	Beeline	900 (GSM)	283	01	"0,1,2"	8937401	2012-02-22
+ARM	K Telecom CJSC	MTS Armenia	MTS ARM	MTS Arm	1800 (GSM)	283	05	"0,5"	8937405	2012-02-21
+ARM	K Telecom CJSC	MTS Armenia	MTS ARM	MTS Arm	900 (GSM)	283	05	"0,5"	8937405	2012-02-21
+ARM	K Telecom CJSC	MTS Armenia	MTS ARM	MTS Arm	2100 (3G)	283	05		8937405	2012-07-05
+ARM	K Telecom CJSC	MTS Armenia	MTS ARM	MTS Arm	1900 (3G)	283	05		8937405	2012-07-05
+ARM	Orange Armenia CJSC	Orange	Orange AM	Orange	2100 (3G)	283	10		8937410	2012-03-26
+ARM	Orange Armenia CJSC	Orange	Orange AM	Orange	900 (3G)	283	10		8937410	2012-03-26
+ARM	Orange Armenia CJSC	Orange	Orange AM	Orange	1800 (GSM)	283	10		8937410	2012-03-26
+ARM	Orange Armenia CJSC	Orange	Orange AM	Orange	900 (GSM)	283	10		8937410	2012-03-26
+ASM	"American Samoa License, Inc."	BLUESKY	Bluesky Communications	BLUESKY	850 (3G)	544	110		891684	2012-03-26
+ASM	"American Samoa License, Inc."	BLUESKY	Bluesky Communications	BLUESKY	850 (GSM)	544	110		891684	2012-05-02
+ASM	"American Samoa License, Inc."	BLUESKY	Bluesky Communications	BLUESKY	1900 (GSM)	544	110		891684	2012-05-02
+ATG	Antigua Public Utilities Authority (APUA)	APUA imobile	APUA imobile	imobile	1900 (GSM)	344	030	"0,1"	8901030	2012-02-21
+ATG	Antigua Wireless Ventures Limited	Digicel Antigua & Barbuda	Cingular	Cingular	900 (GSM)	344	930		891380	2014-10-07
+ATG	Cable & Wireless Antigua and Barbuda Ltd	LIME	LIME	LIME	850 (GSM)	344	920		8901011	2012-05-18
+AUS	SingTel Optus Pty Limited	YES OPTUS	YES OPTUS	Optus	900 (3G)	505	02		896102	2014-10-07
+AUS	SingTel Optus Pty Limited	YES OPTUS	YES OPTUS	Optus	2100 (3G)	505	02		896102	2014-10-07
+AUS	SingTel Optus Pty Limited	YES OPTUS	YES OPTUS	Optus	1800 (GSM)	505	02	"4,5"	896102	2014-10-07
+AUS	SingTel Optus Pty Limited	YES OPTUS	YES OPTUS	Optus	700 (LTE)	505	02		896102	2014-10-07
+AUS	SingTel Optus Pty Limited	YES OPTUS	YES OPTUS	Optus	900 (GSM)	505	02	"4,5"	896102	2014-10-07
+AUS	Telstra Corporation Limited	Telstra MobileNet	Telstra Mobile	Telstra	900 (GSM)	505	01	0	896101	2014-07-21
+AUS	Telstra Corporation Limited	Telstra MobileNet	Telstra Mobile	Telstra	1800 (LTE)	505	01		896101	2014-07-21
+AUS	Telstra Corporation Limited	Telstra MobileNet	Telstra Mobile	Telstra	2100 (3G)	505	01		896101	2014-07-21
+AUS	Telstra Corporation Limited	Telstra MobileNet	Telstra Mobile	Telstra	850 (3G)	505	01		896101	2014-07-21
+AUS	Telstra Corporation Limited	Telstra MobileNet	Telstra Mobile	Telstra	1800 (GSM)	505	01	0	896101	2014-07-21
+AUS	Vodafone Pacific Limited	Hutchison 3G Australia Pty	3TELSTRA	3TELSTRA	2100 (3G)	505	06		896106	2005-01-24
+AUS	Vodafone Pacific Limited	Vodafone	vodafone AU	voda AU	900 (GSM)	505	03	2	896103	2013-04-09
+AUS	Vodafone Pacific Limited	Vodafone	vodafone AU	voda AU	1800 (GSM)	505	03	2	896103	2013-04-09
+AUT	A1 Telekom Austria AG 	A1	A1	A1	1800 (GSM)	232	01	"0,4"	894301	2014-06-09
+AUT	A1 Telekom Austria AG 	A1	A1	A1	2100 (3G)	232	01		894301	2014-06-09
+AUT	A1 Telekom Austria AG 	A1	A1	A1	2600 (LTE)	232	01		894301	2014-06-09
+AUT	A1 Telekom Austria AG 	A1	A1	A1	900 (GSM)	232	01	"0,4"	894301	2014-06-09
+AUT	A1 Telekom Austria AG 	A1	A1	A1	2100 (3G)	232	12		894301	2014-06-09
+AUT	A1 Telekom Austria AG 	A1	A1	A1	900 (GSM)	232	12	"0,4"	894301	2014-06-09
+AUT	A1 Telekom Austria AG 	A1	A1	A1	1800 (GSM)	232	12	"0,4"	894301	2014-06-09
+AUT	A1 Telekom Austria AG 	A1	A1	A1	800 (LTE)	232	01		894301	2014-06-09
+AUT	Hutchison Drei Austria GmbH	3 AT	3 AT	3 AT	1800 (LTE)	232	05		894305	2014-12-03
+AUT	Hutchison Drei Austria GmbH	3 AT	3 AT	3 AT	1800 (GSM)	232	05	"0,4"	894305	2014-12-03
+AUT	Hutchison Drei Austria GmbH	3 AT	3 AT	3 AT	2100 (3G)	232	05		894305	2014-12-03
+AUT	Hutchison Drei Austria GmbH	3 AT	3 AT	3 AT	1800  (LTE)	232	10		894310	2014-12-03
+AUT	Hutchison Drei Austria GmbH	3 AT	3 AT	3 AT	2100 (3G)	232	10		894310	2014-12-03
+AUT	Hutchison Drei Austria GmbH	3 AT	3 AT	3 AT	900 (GSM)	232	05	0.4	894305	2014-12-03
+AUT	Hutchison Drei Austria GmbH	3 AT	3 AT	3 AT	2600 (LTE)	232	10		894310	2014-12-03
+AUT	Hutchison Drei Austria GmbH	3 AT	3 AT	3 AT	2600 (LTE)	232	05		894305	2014-12-03
+AUT	T-Mobile Austria GmbH	T-Mobile Austria	T-Mobile A	TMA	1800 (GSM)	232	03	"0,4"	894303	2014-05-08
+AUT	T-Mobile Austria GmbH	T-Mobile Austria	T-Mobile A	TMA	900 (GSM)	232	03	"0,4"	894303	2014-05-08
+AUT	T-Mobile Austria GmbH	T-Mobile Austria	T-Mobile A	TMA	2100 (3G)	232	03		894303	2014-05-08
+AUT	T-Mobile Austria GmbH	Tele-ring	telering	telering	1800 (GSM)	232	07	"0,4"	894307	2014-05-08
+AUT	T-Mobile Austria GmbH	Tele-ring	telering	telering	2100 (3G)	232	07		894307	2014-05-08
+AUT	T-Mobile Austria GmbH	Tele-ring	telering	telering	900 (GSM)	232	07	"0,4"	894307	2014-05-08
+AZE	Azercell Telecom LLC	AZERCELL GSM	AZE - AZERCELL GSM	ACELL	900 (GSM)	400	01	1	8999401	2003-07-09
+AZE	Azercell Telecom LLC	AZERCELL GSM	AZE - AZERCELL GSM	ACELL	2100 (3G)	400	01		8999401	2012-10-04
+AZE	Azerfon LLC	Nar Mobile	AZ Nar	Nar	1800 (GSM)	400	04	"4,5"	8999404	2012-02-23
+AZE	Azerfon LLC	Nar Mobile	AZ Nar	Nar	2100 (3G)	400	04		8999404	2012-07-05
+AZE	Bakcell Limited Liable Company	Bakcell LLC	BAKCELL AZ	BAKCELL	2100 (3G)	400	02		8999455	2014-04-17
+AZE	Bakcell Limited Liable Company	Bakcell LLC	BAKCELL AZ	BAKCELL	1800 (GSM)	400	02	3	8999455	2014-04-17
+AZE	Bakcell Limited Liable Company	Bakcell LLC	BAKCELL AZ	BAKCELL	900 (GSM)	400	02	3	8999455	2014-04-17
+BDI	Africell PLC Company	AFRICELL PLC COMPANY	BDI TEMPO-AFRICELL	TEMPO-AF	900 (GSM)	642	02	"0,4"	8925702	2012-03-28
+BDI	Econet Wireless Burundi PLC	Econet Wireless Burundi	BDI ECONET	EWB	2100 (3G)	642	01		8964201	2012-09-25
+BDI	Econet Wireless Burundi PLC	Econet Wireless Burundi	BDI ECONET	EWB	1900 (3G)	642	01		8964201	2012-09-25
+BDI	Econet Wireless Burundi PLC	Econet Wireless Burundi	BDI ECONET	EWB	900 (GSM)	642	01	7	8964201	2012-09-25
+BDI	Econet Wireless Burundi PLC	Econet Wireless Burundi	BDI ECONET	EWB	1800 (GSM)	642	01	7	8964201	2012-09-25
+BDI	LACELL SU	Smart Mobile	SMART	SMART	1800 (GSM)	642	07	3	8925707	2009-05-25
+BDI	ONATEL	ONATEL	ONATEL BDI	ONATEL	900 (GSM)	642	03	5	8964203	2005-07-07
+BDI	U-Com Burundi S.A.	U-COM Burundi	TELECEL-BDI	BDITL	900 (GSM)	642	82	"0,3"	8925782	2014-08-15
+BEL	BASE Company NV/SA	BASE Company NV/SA	BASE	BASE	2100 (3G)	206	20		8932030	2014-10-02
+BEL	BASE Company NV/SA	BASE Company NV/SA	BASE	BASE	1800 (GSM)	206	20	2	8932030	2014-10-02
+BEL	BASE Company NV/SA	BASE Company NV/SA	BASE	BASE	1800 (LTE)	206	20		8932030	2014-10-02
+BEL	BASE Company NV/SA	BASE Company NV/SA	BASE	BASE	900 (GSM)	206	20	2	8932030	2014-10-02
+BEL	Belgacom SA/NV	PROXIMUS	BEL PROXIMUS	PROXI	1800 (GSM)	206	01	1	893200	2003-06-03
+BEL	Belgacom SA/NV	PROXIMUS	BEL PROXIMUS	PROXI	900 (GSM)	206	01	1	893200	2003-06-03
+BEL	Mobistar S.A.	Mobistar	B mobistar	mobi*	1800 (GSM)	206	10	5	893202	2014-04-17
+BEL	Mobistar S.A.	Mobistar	B mobistar	mobi*	2100 (3G)	206	10		893202	2014-04-17
+BEL	Mobistar S.A.	Mobistar	B mobistar	mobi*	900 (GSM)	206	10	5	893202	2014-04-17
+BEN	Bell Benin Communications (BBCOM)	Bell Benin Communication BBCOM	BELL BENIN COMMUNICATION	BBCOM	1800 (GSM)	616	04	3	8922904	2012-01-31
+BEN	Bell Benin Communications (BBCOM)	Bell Benin Communication BBCOM	BELL BENIN COMMUNICATION	BBCOM	900 (GSM)	616	04	3	8922904	2012-01-31
+BEN	Etisalat Benin S.A	ETISALAT BENIN	ETISALAT BENIN	ETISALAT	900 (GSM)	616	02	4	8922902	2012-01-25
+BEN	Glomobile Benin Limited	GloBenin	GloBenin	GloBenin	900 (GSM)	616	05	5	8922905	2007-12-11
+BEN	Glomobile Benin Limited	GloBenin	GloBenin	GloBenin	1800 (GSM)	616	05	5	8922905	2007-12-11
+BEN	Spacetel-Benin	Spacetel-Benin	MTN BENIN	MTNBENIN	900 (GSM)	616	03	7	8922903	2014-06-13
+BEN	Spacetel-Benin	Spacetel-Benin	MTN BENIN	MTNBENIN	1800 (GSM)	616	03	7	8922903	2014-06-13
+BFA	Airtel Burkina Faso S.A.	Airtel	Airtel	Airtel	900 (GSM)	613	02	"0,5"	8922602	2014-07-21
+BGD	Airtel Bangladesh Limited	Airtel	Airtel	Airtel	1800 (GSM)	470	07		8947007	2013-02-20
+BGD	Banglalink Digital Communications Ltd.	Banglalink	Banglalink	B-LINK	900 (GSM)	470	03		8988033	2014-03-20
+BGD	Grameenphone Ltd	Grameenphone	Grameenphone	Grameen	900 (GSM)	470	01	"0,4"	898801	2012-04-18
+BGD	Grameenphone Ltd	Grameenphone	Grameenphone	Grameen	1800 (GSM)	470	01	"0,4"	898801	2012-04-18
+BGD	Robi Axiata Limited	Robi	BGD ROBI AXIATA	ROBI	900 (GSM)	470	0		8988002	2014-07-02
+BGD	Teletalk Bangladesh Ltd	Teletalk Bangladesh Ltd	BGD bMobile	bMobile	900 (GSM)	470	04	"0,7"	8947015	2012-04-24
+BGR	Bulgarian Telecommunications Company AD	Vivacom	Vivacom	Vivacom	1800 (GSM)	284	03	4	8935903	2012-04-24
+BGR	Bulgarian Telecommunications Company AD	Vivacom	Vivacom	Vivacom	900 (GSM)	284	03	4	8935903	2012-04-24
+BGR	Bulgarian Telecommunications Company AD	Vivacom	Vivacom	Vivacom	2100 (3G)	284	03		8935903	2012-04-19
+BGR	Bulgarian Telecommunications Company AD	Vivacom	Vivacom	Vivacom	900 (3G)	284	03		8935903	2012-04-19
+BGR	Mobiltel EAD	Mobiltel EAD	Mtel	Mtel	900 (GSM)	284	01		8935901	2014-04-22
+BGR	Mobiltel EAD	Mobiltel EAD	Mtel	Mtel	2100 (3G)	284	01		8935901	2014-04-22
+BGR	Mobiltel EAD	Mobiltel EAD	Mtel	Mtel	1800 (GSM)	284	01	1	8935901	2014-04-22
+BGR	Mobiltel EAD	Mobiltel EAD	Mtel	Mtel	900 (3G)	284	01		8935901	2014-04-22
+BGR	Telenor Bulgaria EAD	Telenor	Telenor BG	Telenor 	2100 (3G)	284	05		8935905	2014-11-07
+BGR	Telenor Bulgaria EAD	Telenor	Telenor BG	Telenor 	900 (GSM)	284	05	5	8935905	2014-11-07
+BGR	Telenor Bulgaria EAD	Telenor	Telenor BG	Telenor 	1800 (GSM)	284	05	5	8935905	2014-11-07
+BGR	Telenor Bulgaria EAD	Telenor	Telenor BG	Telenor 	900 (3G)	284	05		8935905	2014-11-07
+BHR	Bahrain Telecommunications Company	BATELCO	BATELCO	BATELCO	900 (GSM)	426	01	3	8997301	2001-07-31
+BHR	VIVA Bahrain B.S.C. Closed	VIVA	VIVA BH	VIVA BH	2100 (3G)	426	04		8997304	2010-03-19
+BHR	VIVA Bahrain B.S.C. Closed	VIVA	VIVA BH	VIVA BH	1800 (GSM)	426	04		8997304	2010-03-19
+BHR	Zain Bahrain B.S.C	Zain BH	Zain BH	Zain BH	2100 (3G)	426	02		8997302	2012-07-05
+BHR	Zain Bahrain B.S.C	Zain BH	Zain BH	Zain BH	900 (GSM)	426	02	"0,1"	8997302	2012-04-25
+BHR	Zain Bahrain B.S.C	Zain BH	Zain BH	Zain BH	1800 (GSM)	426	02	"0,1"	8997302	2012-04-25
+BHS	The Bahamas Telecommunications Company Ltd.	The Bahamas Telecommunications Company Ltd	BTC	BTC	850 (3G)	364	39		891282	2014-10-31
+BHS	The Bahamas Telecommunications Company Ltd.	The Bahamas Telecommunications Company Ltd	BTC	BTC	1900 (GSM)	364	39		891282	2014-10-31
+BIH	"BH Telecom, Joint Stock Company, Sarajevo"	BH Mobile	BH Mobile	BHMobile	1800 (GSM)	218	90		8938701	2012-07-05
+BIH	"BH Telecom, Joint Stock Company, Sarajevo"	BH Mobile	BH Mobile	BHMobile	900 (GSM)	218	90		8938701	2012-07-05
+BIH	"BH Telecom, Joint Stock Company, Sarajevo"	BH Mobile	BH Mobile	BHMobile	2100 (3G)	218	90		8938701	2012-12-19
+BIH	Public Enterprise Croatian Telecom JSC	Croatian Telecom Inc	HT HR	HT HR	2100  (3G)	219	01		8938598	2014-07-28
+BIH	Public Enterprise Croatian Telecom JSC	Croatian Telecom Inc	HT HR	HT HR	900 (GSM)	219	01		8938598	2014-07-28
+BIH	RS Telecommunications  JSC Banja Luka	m:tel	m:tel	m:tel	900 (GSM)	218	05	6	8938705	2014-12-16
+BIH	RS Telecommunications  JSC Banja Luka	m:tel	m:tel	m:tel	2100 (3G)	218	05		8938705	2014-12-16
+BIH	RS Telecommunications  JSC Banja Luka	m:tel	m:tel	m:tel	1800 (GSM)	218	05	6	8938705	2014-12-16
+BLR	Belarusian Telecommunications Network CJSC	Belarusian Telecommunications Network CJSC	life:) BY	life:)BY	2100 (3G)	257	04		8937503	2014-06-13
+BLR	Belarusian Telecommunications Network CJSC	Belarusian Telecommunications Network CJSC	life:) BY	life:)BY	1800 (GSM)	257	04		8937503	2014-06-13
+BLR	Belarusian Telecommunications Network CJSC	Belarusian Telecommunications Network CJSC	life:) BY	life:)BY	900 (GSM)	257	04		8937503	2014-06-13
+BLR	JLLC Mobile TeleSystems	MTS	MTS BY	MTS	900 (GSM)	257	02	1	8937502	2004-04-13
+BLR	JLLC Mobile TeleSystems	MTS	MTS BY	MTS	1800 (GSM)	257	02	1	8937502	2004-04-13
+BLR	Unitary enterprise velcom	VELCOM	BY VELCOM	VELCOM	1800 (GSM)	257	01	0	8937501	2014-05-07
+BLR	Unitary enterprise velcom	VELCOM	BY VELCOM	VELCOM	900 (GSM)	257	01	0	8937501	2014-05-07
+BLZ	Belize Telemedia Limited	Belize Telecommunications	BTL	BTL	1900 (GSM)	702	67	"0,1"	8950167	2012-05-09
+BMU	Bermuda Digital Communications Limited	CELLONE	CELLONE	CELLONE	850 (3G)	350	000		891351	2012-10-03
+BMU	Bermuda Digital Communications Limited	CELLONE	CELLONE	CELLONE	1900 (GSM)	350	000		891351	2012-10-03
+BMU	Telecommunications (Bermuda & West Indies) Ltd	Digicel Bermuda	Cingular	Cingular	2100 (3G)	350	010		89310380	2014-10-07
+BMU	Telecommunications (Bermuda & West Indies) Ltd	Digicel Bermuda	Cingular	Cingular	1900 (GSM)	350	010		89310380	2014-10-07
+BOL	Entel SA	Entel	BOMOV	EMOVIL	1800 (GSM)	736	02	2	8959102	2004-04-13
+BOL	Entel SA	Entel	BOMOV	EMOVIL	900 (GSM)	736	02	2	8959102	2004-04-13
+BOL	Entel SA	Entel	BOMOV	EMOVIL	850 (3G)	736	02	2	8959102	2012-12-17
+BOL	Nuevatel PCS De Bolivia SA	Nuevatel PCS De Bolivia	VIVA	VIVA	1900 (GSM)	736	01	1	8959101	2007-04-23
+BOL	Telefonica Celular de Bolivia S.A.	TIGO BOLIVIA	TIGO	TIGO	850 (GSM)	736	03	1	8959103	2014-06-03
+BRA	Algar Telecom S.A.	Algar Telecom	Algar Telecom	Algar	900 (GSM)	724	34		895534	2014-05-07
+BRA	Algar Telecom S.A.	Algar Telecom	Algar Telecom	Algar	900 (GSM)	724	32		895000	2014-05-07
+BRA	Algar Telecom S.A.	Algar Telecom	Algar Telecom	Algar	1800 (GSM)	724	34		895534	2014-05-07
+BRA	Algar Telecom S.A.	Algar Telecom	Algar Telecom	Algar	900 (GSM)	724	33		895533	2014-05-07
+BRA	Algar Telecom S.A.	Algar Telecom	Algar Telecom	Algar	1800 (GSM)	724	32		895000	2014-05-07
+BRA	Algar Telecom S.A.	Algar Telecom	Algar Telecom	Algar	1800 (GSM)	724	33		895533	2014-05-07
+BRA	Claro S.A	Claro	Claro	Claro	850 (3G)	724	05		8955053	2014-06-13
+BRA	Claro S.A	Claro	Claro	Claro	1800 (GSM)	724	05		8955050	2014-06-13
+BRA	Claro S.A	Claro	Claro	Claro	2100 (3G)	724	05		8955053	2014-06-13
+BRA	Claro S.A	Claro	Claro	Claro	2600 (LTE)	724	05		8955053	2014-06-13
+BRA	Claro S.A	Claro	Claro	Claro	900 (GSM)	724	05		8955050	2014-06-13
+BRA	Nextel Servi?os de Telecomunica??es Ltda	Nextel Brasil	Nextel Brasil	Nextel	2100 (3G)	724	39		895563	2014-07-02
+BRA	Nextel Servi?os de Telecomunica??es Ltda	Nextel Brasil	Nextel Brasil	Nextel	1900 (3G)	724	39		895563	2014-07-02
+BRA	Oi M?vel S.A	Oi	Oi	Oi	1800 (GSM)	724	24		895524	2014-06-09
+BRA	Oi M?vel S.A	Oi	Oi	Oi	1800 (GSM)	724	31		895531	2014-06-09
+BRA	Oi M?vel S.A	Oi	Oi	Oi	1800 (GSM)	724	16		895516	2014-06-09
+BRA	Oi M?vel S.A	Oi	Oi	Oi	900 (GSM)	724	24		895524	2014-06-09
+BRA	Sercomtel Celular S/A	Sercomtel Celular S/A	BRA SCTL	SCTL	850 (3G)	724	15		895515	2012-05-23
+BRA	Sercomtel Celular S/A	Sercomtel Celular S/A	BRA SCTL	SCTL	1800 (GSM)	724	15	"0,4"	895515	2012-05-18
+BRA	Sercomtel Celular S/A	Sercomtel Celular S/A	BRA SCTL	SCTL	900 (GSM)	724	15	"0,4"	895515	2012-05-18
+BRA	TIM Celular S.A.	TIM BRASIL	TIM BRASIL	TIM	1800 (GSM)	724	03	"0,2"	8955	2014-10-07
+BRA	TIM Celular S.A.	TIM BRASIL	TIM BRASIL	TIM	2100 (3G)	724	02		8955	2014-10-07
+BRA	TIM Celular S.A.	TIM BRASIL	TIM BRASIL	TIM	1800 (GSM)	724	02	"0,2"	8955	2014-10-07
+BRA	TIM Celular S.A.	TIM BRASIL	TIM BRASIL	TIM	850 (3G)	724	02		8955	2014-10-07
+BRA	TIM Celular S.A.	TIM BRASIL	TIM BRASIL	TIM	2100 (3G)	724	03		8955	2014-10-07
+BRA	TIM Celular S.A.	TIM BRASIL	TIM BRASIL	TIM	1800 (GSM)	724	04	"0,2"	8955	2014-10-07
+BRA	TIM Celular S.A.	TIM BRASIL	TIM BRASIL	TIM	850 (3G)	724	03		8955	2014-10-07
+BRA	TIM Celular S.A.	TIM BRASIL	TIM BRASIL	TIM	2100 (3G)	724	04		8955	2014-10-07
+BRA	TIM Celular S.A.	TIM BRASIL	TIM BRASIL	TIM	850 (3G)	724	04		8955	2014-10-07
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	2600 (LTE)	724	06		895506	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	2100 (3G)	724	10		895510	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	2600 (LTE)	724	23		895523	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	850 (3G)	724	06		895506	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	2100 (3G)	724	06		895506	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	1900 (GSM)	724	06		895506	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	900 (GSM)	724	06		895506	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	1800 (GSM)	724	06		895506	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	700 (LTE)	724	11		895511	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	700 (LTE)	724	10		 895510	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	700 (LTE)	724	06		895506	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	850 (3G)	724	11		895511	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	850 (GSM)	724	23		895523	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	2100 (3G)	724	11		895511	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	1800 (GSM)	724	11		895511	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	2600 (LTE)	724	10		895510	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	850 (3G)	724	10		895510	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	900 (GSM)	724	11		895511	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	850 (GSM)	724	06		895506	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	1800 (GSM)	724	10		895510	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	850 (3G)	724	23		895523	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	850 (GSM)	724	10		895510	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	1900 (GSM)	724	11		895511	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	1900 (GSM)	724	10		895510	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	850 (GSM)	724	11		895511	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	700 (LTE)	724	23		895523	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	900 (GSM)	724	23		895523	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	2100 (3G)	724	23		895523	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	1800 (GSM)	724	23		895523	2014-11-18
+BRA	Vivo S.A.	Vivo	VIVO	VIVO	2600 (LTE)	724	11		895511	2014-11-18
+BRB	Cable & Wireless (Barbados) Ltd	LIME	LIME	LIME	1900 (GSM)	342	600	1	8901012	2012-05-18
+BRB	Digicel (Barbados) Limited	Digicel	DIGICEL	DIGICEL	900 (GSM)	342	750	2	890105	2004-11-05
+BRB	Digicel (Barbados) Limited	Digicel	DIGICEL	DIGICEL	1800 (GSM)	342	750	2	890105	2004-11-05
+BRB	Digicel (Barbados) Limited	Digicel (Barbados) Limited	DIGICEL	DIGICEL	2100 (3G)	342	750		890105	2012-07-02
+BRN	DataStream Technology	DTSCom	BRU-DSTCom	DSTCom	900 (GSM)	528	11	4	8967311	2004-05-11
+BRN	Progresif Cellular Sdn Bhd	PCSB	PCSB	PCSB	2100 (3G)	528	02		8967381	2014-07-18
+BTN	B-Mobile	B-Mobile	BT B-Mobile	B-Mobile	900 (GSM)	402	11	1	8997511	2012-03-13
+BTN	"Tashi InfoComm Ltd, Thimphu"	TASHICELL	TASHICELL	TASHICEL	1800 (GSM)	402	77		8997577	2014-06-13
+BTN	"Tashi InfoComm Ltd, Thimphu"	TASHICELL	TASHICELL	TASHICEL	900 (GSM)	402	77		8997577	2014-06-13
+BWA	Botswana Telecommunications Corporation	beMOBILE	beMOBILE	beMOBILE	900 (GSM)	652	04	0	8926704	2013-02-26
+BWA	Botswana Telecommunications Corporation	beMOBILE	beMOBILE	beMOBILE	1800 (GSM)	652	04	0	8926704	2013-02-26
+BWA	Mascom Wireless (Pty) Limited	MASCOM	BW MASCOM	MASCOM	900 (GSM)	652	01	3	8926701	2004-04-13
+BWA	Orange (Botswana) Pty Limited	ORANGE	Orange	Orange	900 (GSM)	652	02	7	8926702	2004-04-13
+CAF	Atlantique Telecom Centrafrique SA	ETISALAT	ETISALAT RCA	ETISALAT	900 (GSM)	623	01	"0,7"	8923601	2012-01-16
+CAF	Nationlink Telecom	Azur-RCA	NationLink	NL-RCA	900 (GSM)	623	04	"0,1"	8923604	2012-05-10
+CAF	Telecel Centrafrique SA	Telecel Centrafrique SA	Telecel	Telecel	900 (GSM)	623	02	5	8962302	2014-12-03
+CAN	Bell Mobility Inc.	Bell Mobility	Bell	Bell	850 (3G)	302	610		89302610	2014-03-20
+CAN	Bell Mobility Inc.	Bell Mobility	Bell	Bell	2600 (LTE)	302	610		89302610	2014-03-20
+CAN	Bell Mobility Inc.	Bell Mobility	Bell	Bell	1700 (LTE)	302	610		89302610	2014-03-20
+CAN	Bell Mobility Inc.	Bell Mobility	Bell	Bell	1900 (3G)	302	610		89302610	2014-03-20
+CAN	Bell Mobility Inc.	Bell Mobility	Bell	Bell	2500 (LTE)	302	610		89302610	2014-03-20
+CAN	Bell Mobility Inc.	Bell Mobility	Bell	Bell	2100 (LTE)	302	610		89302610	2014-03-20
+CAN	Bell Mobility Inc.	Bell shared with TELUS & SaskTel	FastRoam	FastRoam	1900 (3G)	302	880			2014-03-20
+CAN	Bell Mobility Inc.	Bell shared with TELUS & SaskTel	FastRoam	FastRoam	850 (3G)	302	880			2014-03-20
+CAN	Bragg Communications Inc	Bragg Communications Inc	Eastlink	Eastlink	1700 (3G)	302	270		891035	2012-01-15
+CAN	Bragg Communications Inc	Bragg Communications Inc	Eastlink	Eastlink	2100 (3G)	302	270		891035	2012-01-15
+CAN	Data & Audio-Visual Enterprises Wireless Inc. (DAVE)	Data & Audio-Visual Enterprises Wireless Inc. (DAVE)	Mobilicity	Mobilici	2100 (3G)	302	320		891320	2014-06-13
+CAN	Data & Audio-Visual Enterprises Wireless Inc. (DAVE)	Data & Audio-Visual Enterprises Wireless Inc. (DAVE)	Mobilicity	Mobilici	1700 (3G)	302	320		891320	2014-06-13
+CAN	Execulink Telecom Inc	Execulink Telecom	Execulink Telecom	ETI	850 (GSM)	302	340		8901302	2014-04-22
+CAN	MTS Inc.	MTS	MTS	MTS	850 (GSM)	302	660		891660	2014-10-17
+CAN	Rogers Wireless Inc	FIDO	Fido	Fido	1900 (GSM)	302	370	"0,4"	8930237	2014-12-03
+CAN	Rogers Wireless Inc	Rogers Wireless	Rogers Wireless	ROGERS	1900 (3G)	302	720		8930272	2014-12-03
+CAN	Rogers Wireless Inc	Rogers Wireless	Rogers Wireless	ROGERS	850 (3G)	302	720		8930272	2014-12-03
+CAN	Rogers Wireless Inc	Rogers Wireless	Rogers Wireless	ROGERS	1900 (GSM)	302	720	"0,5"	8930272	2014-12-03
+CAN	Rogers Wireless Inc	Rogers Wireless	Rogers Wireless	ROGERS	850 (GSM)	302	720	"0,5"	8930272	2014-12-03
+CAN	Rogers Wireless Inc	Rogers Wireless	Rogers Wireless	ROGERS	1700 (LTE)	302	720		8930272	2014-12-03
+CAN	Rogers Wireless Inc	Rogers Wireless	Rogers Wireless	ROGERS	2100 (3G)	302	720		8930272	2014-12-03
+CAN	Rogers Wireless Inc	Rogers Wireless	Rogers Wireless	ROGERS	2100 (LTE)	302	720		8930272	2014-12-03
+CAN	SaskTel	SaskTel	SaskTel	SaskTel	1900 (3G)	302	780		89302780	2012-11-07
+CAN	SaskTel	SaskTel	SaskTel	SaskTel	850 (3G)	302	780		89302780	2012-11-07
+CAN	SaskTel	SaskTel shared with Bell & TELUS	FastRoam	FastRoam	850 (3G)	302	880			2012-11-07
+CAN	SaskTel	SaskTel shared with Bell & TELUS	FastRoam	FastRoam	1900 (3G)	302	880			2012-11-07
+CAN	TELUS Communications Company	TELUS	TELUS	TELUS	850 (3G)	302	220		891223	2012-11-07
+CAN	TELUS Communications Company	TELUS	TELUS	TELUS	1900 (3G)	302	220		891223	2012-11-07
+CAN	TELUS Communications Company	TELUS shared with Bell & SaskTel	FastRoam	FastRoam	1900 (3G)	302	880			2012-11-07
+CAN	TELUS Communications Company	TELUS shared with Bell & SaskTel	FastRoam	FastRoam	850 (3G)	302	880			2012-11-07
+CAN	TerreStar Solutions Inc	TerreStar Solutions	CAN TerreStar Solutions	TStarSol	2100 (3G)	302	730		8930273	2010-04-01
+CAN	WIND Mobile Corp.	WIND Mobile Corp	WIND	WIND	1700 (3G)	302	490		8930249	2014-12-02
+CAN	Wightman Telecom Ltd	Wightman Telecom	Wightman	Wightman	850 (GSM)	302	940		8930294	2010-12-02
+CHE	Orange Communications SA	Orange	Orange CH	Orange	1800 (GSM)	228	03	"1,5"	894103	2013-02-20
+CHE	Sunrise Communications AG	Sunrise	Sunrise	Sunrise	1800 (GSM)	228	02	"1,5,6"	894102	2012-05-22
+CHE	Sunrise Communications AG	Sunrise	Sunrise	Sunrise	2100 (3G)	228	02		894102	2012-05-22
+CHE	Sunrise Communications AG	Sunrise	Sunrise	Sunrise	900 (GSM)	228	02	"1,5,6"	894102	2012-05-22
+CHE	Swisscom (Switzerland) Ltd	Swisscom	Swisscom	Swisscom	2100 (3G)	228	01		894101	2012-09-12
+CHE	Swisscom (Switzerland) Ltd	Swisscom	Swisscom	Swisscom	900 (GSM)	228	01	"1,5"	894101	2012-09-12
+CHE	Swisscom (Switzerland) Ltd	Swisscom	Swisscom	Swisscom	1800 (GSM)	228	01	"1,5"	894101	2012-09-12
+CHL	CLARO CHILE SA	CLARO CHILE	CLARO CHL	ClaroCHL	1900 (GSM)	730	03		8956030	2006-11-09
+CHL	Entel PCS Telecomunicaciones S.A.	ENTEL PCS	ENTEL PCS	ENTEL	1900 (GSM)	730	10	1	895610	2014-12-03
+CHL	Entel PCS Telecomunicaciones S.A.	ENTEL PCS	ENTEL PCS	ENTEL	1900 (3G)	730	10	0	895610	2014-12-03
+CHL	Nextel S.A.	Nextel Chile	Nextel 3G	Nextel3G	2100 (3G)	730	09			2011-01-26
+CHL	Nextel S.A.	Nextel Chile	Nextel 3G	Nextel3G	1700 (3G)	730	09			2011-01-26
+CHL	Telef?nica M?vil de Chile S.A.	Telefonica Movil de Chile	Movistar	Movistar	850 (3G)	730	02		895602	2014-04-11
+CHL	Telef?nica M?vil de Chile S.A.	Telefonica Movil de Chile	Movistar	Movistar	1900 (GSM)	730	02	5	895602	2014-04-11
+CHL	Telef?nica M?vil de Chile S.A.	Telefonica Movil de Chile	Movistar	Movistar	850 (GSM)	730	02	5	895602	2014-04-11
+CHL	Telef?nica M?vil de Chile S.A.	Telefonica Movil de Chile	Movistar	Movistar	850 (3G)	730	07		895602	2014-04-11
+CHL	Telef?nica M?vil de Chile S.A.	Telefonica Movil de Chile	Movistar	Movistar	850 (GSM)	730	07	5	895602	2014-04-11
+CHL	Telef?nica M?vil de Chile S.A.	Telefonica Movil de Chile	Movistar	Movistar	1900 (GSM)	730	07	5	895602	2014-04-11
+CHL	"VTR MOVIL, S.A."	VTR MOVIL  S.A	CHL VTR	VTR	2100 (3G)	730	08		895608	2012-07-04
+CHL	"VTR MOVIL, S.A."	VTR MOVIL  S.A	CHL VTR	VTR	1700 (3G)	730	08		895608	2012-07-04
+CHN	China Mobile Limited	CHINA MOBILE	CHINA MOBILE	CMCC	900 (GSM)	460	00	"4,6,7"	898600	2014-09-16
+CHN	China Telecommunications Corporation	China Telecom	CHN-CT	CT	800 (CDMA)	460	11		898611	2014-10-31
+CHN	China Telecommunications Corporation	China Telecom	CHN-CT	CT	2000 (CDMA)	460	11		898611	2014-10-31
+CHN	China Unicom	CHINA UNICOM GSM	CHN-UNICOM	UNICOM	900 (GSM)	460	01	5	898601	2014-10-31
+CHN	China Unicom	CHINA UNICOM GSM	CHN-UNICOM	UNICOM	2100 (3G)	460	01		898601	2014-10-31
+CIV	Atlantique Telecom Cote d'Ivoire	ETISALAT	ETISALAT CI	ETISALAT	900 (GSM)	612	02	"0,7"	8922502	2012-03-05
+CIV	Atlantique Telecom Cote d'Ivoire	ETISALAT	ETISALAT CI	ETISALAT	1800 (GSM)	612	02	"0,7"	8922502	2012-03-05
+CIV	Comium Ivory Coast Inc	Comium Ivory Coast INC.	KoZ	KoZ	900 (GSM)	612	04		8922504	2012-04-24
+CIV	Comium Ivory Coast Inc	Comium Ivory Coast INC.	KoZ	KoZ	1800 (GSM)	612	04		8922504	2012-04-24
+CIV	MTN C?TE D'IVOIRE S.A.	MTN	MTN CI	MTN CI	900 (GSM)	612	05	"4,5,6"	8922505	2012-07-05
+CIV	Orange CI	Orange CI	Orange CI	Orange	900 (GSM)	612	03		8922503	2004-04-13
+CMR	MTN Cameroon Ltd	MTN Cameroon	MTN CAM	MTN CAM	900 (GSM)	624	01	"0,7"	8923701	2012-07-05
+CMR	Orange Cameroun SA	Orange	Orange CAM	Orange	900 (GSM)	624	02		8923702	2014-12-03
+CMR	VIETTEL CAMEROUN S.A.R.L 	Nexttel	Nexttel	Nexttel	1800 (GSM)	624	04		8923704	2014-09-30
+CMR	VIETTEL CAMEROUN S.A.R.L 	Nexttel	Nexttel	Nexttel	900 (GSM)	624	04		8923704	2014-09-30
+COD	AIRTEL CONGO RDC SA	Airtel	Airtel	Airtel	900 (GSM)	630	02	"0,1"	8924302	2014-09-10
+COD	Africell RDC sprl	Africell RDC	Africell RDC	AFRICELL	1800 (GSM)	630	90	"4,6"	8924390	2013-01-25
+COD	Africell RDC sprl	Africell RDC	Africell RDC	AFRICELL	900 (GSM)	630	90	"4,6"	8924390	2013-01-25
+COD	Congo Chine Telecom Sarl	Orange RDC	Orange RDC	Orange	1800 (GSM)	630	86	"4,5,6"	8924384	2012-12-19
+COD	Congo Chine Telecom Sarl	Orange RDC	Orange RDC	Orange	900 (GSM)	630	86	"4,5,6"	8924384	2012-12-19
+COD	Congo Chine Telecom Sarl	Orange RDC	Orange RDC	Orange	2100 (3G)	630	86		8924384	2012-12-20
+COD	TIGO	TIGO	TIGO DRC	TIGO	2100 (3G)	630	89		8924389	2013-04-11
+COD	TIGO	TIGO	TIGO DRC	TIGO	1800 (GSM)	630	89	"2,3"	8924389	2013-02-11
+COD	Vodacom Congo (RDC) sprl	Vodacom Congo	Vodacom Congo	VODACOM	900 (GSM)	630	01	1	8924301	2014-12-03
+COD	Vodacom Congo (RDC) sprl	Vodacom Congo	Vodacom Congo	VODACOM	1800 (GSM)	630	01	1	8924301	2014-12-03
+COD	Yozma Timeturns s.p.r.l.	YTT	CD Smart	Smart	1800 (GSM)	630	88	"0,6,7"	8924388	2012-03-13
+COD	Yozma Timeturns s.p.r.l.	YTT	CD Smart	Smart	900 (GSM)	630	88	"0,6,7"	8924388	2012-03-13
+COG	Airtel Congo SA	Airtel	Airtel	Airtel	900 (GSM)	629	01		8924201	2014-08-13
+COG	EQUATEUR TELECOM CONGO S.A (ETC)	Azur Congo	AZUR COG	AZUR COG	1800 (GSM)	629	02		8924202	2012-07-05
+COG	EQUATEUR TELECOM CONGO S.A (ETC)	Azur Congo	AZUR COG	AZUR COG	900 (GSM)	629	02		8924202	2012-07-05
+COG	MTN CONGO S.A	Libertis Telecom	COG MTN	MTN-CG	900 (GSM)	629	10	5	8962910	2006-05-12
+COG	Warid Congo JSC	Warid Congo	Airtel	Airtel	1800 (GSM)	629	07		8962907	2014-07-28
+COG	Warid Congo JSC	Warid Congo	Airtel	Airtel	900 (GSM)	629	07		8962907	2014-07-28
+COK	Telecom Cook Islands	Telecom Cook Islands	CK KOKANET	KOKANET	900 (GSM)	548	01	"0,1"	8954801	2012-07-05
+COL	Colombia Movil S.A.	Tigo	COL MOV / TIGO	TIGO COL	1900 (GSM)	732	111		8957732	2014-10-31
+COL	Colombia Movil S.A.	Tigo	COL MOV / TIGO	TIGO COL	1900 (GSM)	732	103		8957732	2014-10-31
+COL	Comunicacion Celular SA Comcel SA	Claro	Claro	Claro	1900 (GSM)	732	101		8957101	2012-06-22
+COL	Comunicacion Celular SA Comcel SA	Claro	Claro	Claro	850 (GSM)	732	101		8957101	2012-06-22
+COL	Comunicacion Celular SA Comcel SA	Claro	Claro	Claro	1900 (3G)	732	101		8957101	2012-06-22
+COL	Comunicacion Celular SA Comcel SA	Claro	Claro	Claro	850 (3G)	732	101		8957101	2012-06-22
+COL	Telefonica Moviles Colombia S.A.	Movistar	Movistar	Movistar	850 (GSM)	732	123	"0,7"	8957123	2013-02-20
+COL	Telefonica Moviles Colombia S.A.	Movistar	Movistar	Movistar	1900 (GSM)	732	123	"0,7"	8957123	2013-02-20
+COM	Societe Nationale des Telecommunications (Comores Telecom)	HURI	HURI	HURI	900 (GSM)	654	01	"0,1"	8926901	2012-07-05
+CPV	"UNITEL T+ TELECOMUNICAC?ES, Sociedade Unipessoal S.A."	UNITEL T+ TELECOMUNICAC?ES	UNITEL T+	UNITELT+	1800 (GSM)	625	02	"0,1"	8923802	2014-10-17
+CPV	"UNITEL T+ TELECOMUNICAC?ES, Sociedade Unipessoal S.A."	UNITEL T+ TELECOMUNICAC?ES	UNITELT+	UNITELT+	2100 (3G)	625	02	"0,1"	8923802	2014-10-17
+CPV	"UNITEL T+ TELECOMUNICAC?ES, Sociedade Unipessoal S.A."	UNITEL T+ TELECOMUNICAC?ES	UNITEL T+	UNITELT+	900 (GSM)	625	02	"0,1"	8923802	2014-10-17
+CRI	"Claro CR Telecomunicaciones, S.A."	Claro CR	CLARO CR	CLARO CR	1800 (GSM)	712	03		8950603	2011-09-21
+CRI	I.C.E. (Instituto Costarricense de Electricidad)	I.C.E.	I.C.E.	I.C.E.	1800 (GSM)	712	01	0	8950601	2011-05-26
+CRI	I.C.E. (Instituto Costarricense de Electricidad)	I.C.E.	I.C.E.	I.C.E.	850 (3G)	712	02		8950601	2012-07-05
+CRI	I.C.E. (Instituto Costarricense de Electricidad)	I.C.E.	I.C.E.	I.C.E.	1800 (GSM)	712	02	0	8950601	2011-05-26
+CRI	I.C.E. (Instituto Costarricense de Electricidad)	I.C.E.	I.C.E.	I.C.E.	850 (3G)	712	01		8950601	2012-07-05
+CRI	"Telef?nica de Costa Rica TC, S.A."	Movistar	Movistar	Movistar	2100 (3G)	712	04		8950604	2012-10-23
+CRI	"Telef?nica de Costa Rica TC, S.A."	Movistar	Movistar	Movistar	850 (3G)	712	04		8950604	2012-10-23
+CRI	"Telef?nica de Costa Rica TC, S.A."	Movistar	Movistar	Movistar	1800 (GSM)	712	04	"0,4"	8950604	2012-10-23
+CUB	"Empresa de Telecommunicaciones de Cuba, SA (ETECSA)"	ETECSA	CUBACEL	CUBACEL	900 (GSM)	368	01		895301	2012-01-31
+CYM	Cable & Wireless (Cayman Islands) Ltd	LIME	LIME	LIME	1900 (GSM)	346	140	1	8901015	2012-05-18
+CYM	Cable & Wireless (Cayman Islands) Ltd	LIME	LIME	LIME	850 (GSM)	346	140	1	8901015	2012-05-18
+CYP	Cyprus Telecommunications Authority	Cytamobile-Vodafone	Cyta-Voda	CytaVoda	900 (GSM)	280	01	3	8935701	2014-11-13
+CYP	Cyprus Telecommunications Authority	Cytamobile-Vodafone	Cyta-Voda	CytaVoda	1800 (GSM)	280	01	3	8935701	2014-11-13
+CYP	MTN Cyprus Limited	MTN	MTN	MTN	1800 (GSM)	280	10	7	8935710	2007-06-21
+CYP	MTN Cyprus Limited	MTN	MTN	MTN	2100 (3G)	280	10		8935710	2012-07-05
+CYP	MTN Cyprus Limited	MTN	MTN	MTN	900 (GSM)	280	10	7	8935710	2007-06-21
+CZE	O2 Czech Republic a.s.	O2 CZ	O2 CZ	O2 CZ	1800 (GSM)	230	02	1	894202	2014-12-03
+CZE	O2 Czech Republic a.s.	O2 CZ	O2 CZ	O2 CZ	900 (GSM)	230	02	1	894202	2014-12-03
+CZE	T-Mobile Czech Republic a.s.	T-Mobile CZ	T-Mobile CZ	TMO CZ	1800 (GSM)	230	01	5	894201	2004-04-14
+CZE	T-Mobile Czech Republic a.s.	T-Mobile CZ	T-Mobile CZ	TMO CZ	900 (GSM)	230	01	5	894201	2004-04-14
+CZE	Vodafone Czech Republic a.s.	Vodafone	Vodafone CZ	Vodafone	900 (GSM)	230	03	1	894203	2006-02-10
+CZE	Vodafone Czech Republic a.s.	Vodafone	Vodafone CZ	Vodafone	1800 (GSM)	230	03	1	894203	2006-02-10
+DEU	E-Plus Mobilfunk GmbH & Co. KG	E-Plus	E-Plus	E-Plus	1800 (GSM)	262	03	3	894921	2014-12-03
+DEU	E-Plus Mobilfunk GmbH & Co. KG	E-Plus	E-Plus	E-Plus	1800 (LTE)	262	03		894921	2014-12-03
+DEU	E-Plus Mobilfunk GmbH & Co. KG	E-Plus	E-Plus	E-Plus	2100 (3G)	262	03		894921	2014-12-03
+DEU	Telef?nica Germany GmbH & Co. OHG	O2 Germany	O2 de	O2 de	2100 (3G)	262	08		894922	2014-12-16
+DEU	Telef?nica Germany GmbH & Co. OHG	O2 Germany	O2 de	O2 de	1800 (GSM)	262	08	7	894922	2014-12-16
+DEU	Telef?nica Germany GmbH & Co. OHG	O2 Germany	O2 de	O2 de	2600 (LTE)	262	08		894922	2014-12-16
+DEU	Telef?nica Germany GmbH & Co. OHG	O2 Germany	O2 de	O2 de	2600 (LTE)	262	07		894922	2014-12-16
+DEU	Telef?nica Germany GmbH & Co. OHG	O2 Germany	O2 de	O2 de	2100 (3G)	262	07		894922	2014-12-16
+DEU	Telef?nica Germany GmbH & Co. OHG	O2 Germany	O2 de	O2 de	1800 (GSM)	262	07	7	894922	2014-12-16
+DEU	Telekom Deutschland GmbH	Telekom Deutschland GmbH	Telekom.de	TDG	1800 (GSM)	262	01	3	894902	2012-01-15
+DEU	Telekom Deutschland GmbH	Telekom Deutschland GmbH	Telekom.de	TDG	900 (GSM)	262	01	3	894902	2012-01-15
+DEU	Telekom Deutschland GmbH	Telekom Deutschland GmbH	Telekom.de	TDG	2100 (3G)	262	01		894902	2012-07-05
+DEU	Vodafone D2 GmbH	Vodafone	Vodafone.de	Vodafone	900 (GSM)	262	02	7	894920	2012-09-17
+DEU	Vodafone D2 GmbH	Vodafone	Vodafone.de	Vodafone	1800 (GSM)	262	02	7	894920	2012-09-17
+DEU	Vodafone D2 GmbH	Vodafone	Vodafone.de	Vodafone	2100 (3G)	262	02		894920	2012-09-17
+DJI	Djibouti Telecom SA	Evatis	DJ EVATIS	EVATIS	900 (GSM)	638	01		8925301	2004-04-14
+DMA	Cable & Wireless Dominica Ltd	LIME	LIME	LIME	850 (GSM)	366	110	1	8901016	2012-05-18
+DMA	Wireless Ventures (Dominica) Ltd.	Digicel Dominica	Cingular	Cingular	900 (GSM)	366	020		89310380	2004-12-21
+DMA	Wireless Ventures (Dominica) Ltd.	Digicel Dominica	Cingular	Cingular	1900 (GSM)	366	020		89310380	2004-12-21
+DNK	Hi3G Denmark ApS	3 DK	3 DK	3 DK	2100 (3G)	238	06		894506	2010-12-20
+DNK	TDC A/S	TDC Mobil	DK TDC	TDC	2100 (3G)	238	01		894501	2014-10-02
+DNK	TDC A/S	TDC Mobil	DK TDC	TDC	900 (GSM)	238	01	1	894501	2014-10-02
+DNK	TDC A/S	TDC Mobil	DK TDC	TDC	1800 (GSM)	238	01	1	894501	2014-10-02
+DNK	TDC A/S	TDC Mobil	DK TDC	TDC	900 (3G)	238	01		894501	2014-10-02
+DNK	Telenor A/S	Telenor DK	Telenor DK	TelenoDK	2100 (3G)	238	02		894502	2014-12-03
+DNK	Telenor A/S	Telenor DK	Telenor DK	TelenoDK	900 (GSM)	238	77	5	894502	2014-12-03
+DNK	Telenor A/S	Telenor DK	Telenor DK	TelenoDK	1800 (GSM)	238	77	5	894502	2014-12-03
+DNK	Telenor A/S	Telenor DK	Telenor DK	TelenoDK	900 (3G)	238	77		894502	2014-12-03
+DNK	Telenor A/S	Telenor DK	Telenor DK	TelenoDK	1800 (GSM)	238	02	5	894502	2014-12-03
+DNK	Telenor A/S	Telenor DK	Telenor DK	TelenoDK	900 (GSM)	238	02	5	894502	2014-12-03
+DNK	Telenor A/S	Telenor DK	Telenor DK	TelenoDK	2100 (3G)	238	77		894502	2014-12-03
+DNK	Telenor A/S	Telenor DK	Telenor DK	TelenoDK	900 (3G)	238	02		894502	2014-12-03
+DNK	Telenor A/S	Telia-Telenor DK	Telia-Telenor DK	TT DK	900 (GSM)	238	66		894502	2014-12-03
+DNK	Telenor A/S	Telia-Telenor DK	Telia-Telenor DK	TT DK	1800 (GSM)	238	66		894502	2014-12-03
+DNK	Telenor A/S	Telia-Telenor DK	Telia-Telenor DK	TT DK	900 (3G)	238	66		894502	2014-12-03
+DNK	Telenor A/S	Telia-Telenor DK	Telia-Telenor DK	TT DK	2100 (3G)	238	66		894502	2014-12-03
+DNK	Telia Nattjanster Norden AB	TeliaSonera DK	Telia DK	Telia	1800 (GSM)	238	20	1	894504	2013-01-28
+DNK	Telia Nattjanster Norden AB	TeliaSonera DK	Telia DK	Telia	900 (GSM)	238	20	1	894504	2013-01-28
+DNK	Telia Nattjanster Norden AB	TeliaSonera DK	Telia-Telenor DK	TT DK	2100 (3G)	238	66		894504	2012-12-12
+DNK	Telia Nattjanster Norden AB	TeliaSonera DK	Telia-Telenor DK	TT DK	900 (GSM)	238	66	"1,5"	894504	2012-12-12
+DNK	Telia Nattjanster Norden AB	TeliaSonera DK	Telia-Telenor DK	TT DK	1800 (GSM)	238	66	"1,5"	894504	2012-12-12
+DNK	Telia Nattjanster Norden AB	TeliaSonera DK	Telia DK	Telia	2100 (3G)	238	20		894504	2013-01-28
+DOM	"Compa?ia Dominicana de Telefonos, S.A."	CLARO GSM	CLARO DOM	ClaroDOM	850 (GSM)	370	02	"0,1"	890102	2012-03-05
+DOM	"Compa?ia Dominicana de Telefonos, S.A."	CLARO GSM	CLARO DOM	ClaroDOM	1900 (GSM)	370	02	"0,1"	890102	2012-03-05
+DOM	"Compa?ia Dominicana de Telefonos, S.A."	"Compa?ia Dominicana de Telefonos, S.A."	CLARO DOM	ClaroDOM	850 (3G)	370	02		890102	2012-07-05
+DOM	Orange Dominicana S.A.	ORANGE	Orange	Orange	1800 (GSM)	370	01	0	890101	2013-02-20
+DOM	Orange Dominicana S.A.	ORANGE	Orange	Orange	1900 (GSM)	370	01	0	890101	2013-02-20
+DOM	Orange Dominicana S.A.	ORANGE	Orange	Orange	900 (GSM)	370	01	0	890101	2013-02-20
+DOM	Trilogy Dominicana S.A.	Trilogy Dominicana	VIVA	VIVA	1900 (GSM)	370	04			2011-08-05
+DZA	ATM MOBILIS	Mobilis	ALG Mobilis	Mobilis	1800 (GSM)	603	01	5	8921301	2005-02-17
+DZA	ATM MOBILIS	Mobilis	ALG Mobilis	Mobilis	900 (GSM)	603	01	5	8921301	2005-02-17
+DZA	Orascom Telecom Algerie Spa	Djezzy	Djezzy	Djezzy	900 (GSM)	603	02	"0,3"	8921302	2012-07-05
+DZA	Orascom Telecom Algerie Spa	Djezzy	Djezzy	Djezzy	1800 (GSM)	603	02	"0,3"	8921302	2012-07-05
+DZA	Wataniya T?l?com Alg?rie	Ooredoo Algerie	Ooredoo 	Ooredoo	900 (GSM)	603	03		8921303	2014-03-20
+DZA	Wataniya T?l?com Alg?rie	Ooredoo Algerie	Ooredoo 	Ooredoo	1800 (GSM)	603	03		8921303	2014-03-20
+ECU	Conecel S.A. (Consorcio Ecuatoriano de Telecomunicaciones S.A.)	Claro Ecuador	CLARO	CLARO	850 (3G)	740	01		8959301	2012-07-05
+ECU	Conecel S.A. (Consorcio Ecuatoriano de Telecomunicaciones S.A.)	Claro Ecuador	CLARO	CLARO	850 (GSM)	740	01		8959301	2012-07-05
+ECU	Corporaci?n Nacional de Telecomunicaciones CNT E.P.	CNT	CNT	CNT	1900 (GSM)	740	02		8959302	2014-07-02
+ECU	Otecel Sociedad An?nima	MOVISTAR	Movistar	Movistar	2100 (3G)	740	00		8959300	2015-01-05
+ECU	Otecel Sociedad An?nima	MOVISTAR	Movistar	Movistar	850 (GSM)	740	00	"0,7"	8959300	2015-01-05
+EGY	ECMS-Mobinil	Mobinil	EGY MobiNiL	MobiNiL	900 (GSM)	602	01		8920012	2012-07-05
+EGY	Etisalat Misr	Etisalat	Etisalat	Etisalat	2100 (3G)	602	03		8920033	2013-02-20
+EGY	Etisalat Misr	Etisalat	Etisalat	Etisalat	1800 (GSM)	602	03		8920033	2013-02-20
+EGY	Etisalat Misr	Etisalat	Etisalat	Etisalat	900 (GSM)	602	03		8920033	2013-02-20
+EGY	Vodafone Egypt Telecommunications S.A.E	vodafone	vodafone EG	voda EG	900 (GSM)	602	02	"0,4"	892002	2013-04-09
+ESP	France Telecom Espa?a S.A.U.	Orange	Orange	Orange	2100 (3G)	214	03		893401	2012-07-05
+ESP	France Telecom Espa?a S.A.U.	Orange	Orange	Orange	900 (GSM)	214	03	2	893401	2012-07-05
+ESP	France Telecom Espa?a S.A.U.	Orange	Orange	Orange	1800 (GSM)	214	03	2	893401	2012-07-05
+ESP	Telefonica Moviles Espana S.A.	Movistar	Movistar	Movistar	1800 (GSM)	214	07		893407	2012-07-05
+ESP	Telefonica Moviles Espana S.A.	Movistar	Movistar	Movistar	900 (GSM)	214	07		893407	2012-07-05
+ESP	Telefonica Moviles Espana S.A.	Movistar	Movistar	Movistar	2100 (3G)	214	07		893407	2012-07-05
+ESP	"Vodafone Espa?a, S.A.U."	vodafone	vodafone	voda ES	1800 (GSM)	214	01	5	893456	2014-12-16
+ESP	"Vodafone Espa?a, S.A.U."	vodafone	vodafone	voda ES	2100 (3G)	214	01		893456	2014-12-16
+ESP	"Vodafone Espa?a, S.A.U."	vodafone	vodafone	voda ES	900 (GSM)	214	01	5	893456	2014-12-16
+ESP	"Xfera M?viles, S.A."	YOIGO	YOIGO	YOIGO	2100 (3G)	214	04		893404	2014-12-03
+ESP	"Xfera M?viles, S.A."	YOIGO	YOIGO	YOIGO	1800 (GSM)	214	04		893404	2014-12-03
+EST	AS Eesti Telekom	EMT	EMT	EMT	1800 (GSM)	248	01	3	8937201	2014-10-03
+EST	AS Eesti Telekom	EMT	EMT	EMT	900 (GSM)	248	01	3	8937201	2014-10-03
+EST	AS Eesti Telekom	EMT	EMT	EMT	2100 (3G)	248	01		8937201	2014-10-03
+EST	AS Eesti Telekom	EMT	EMT	EMT	2600 (LTE)	248	01		8937201	2014-10-03
+EST	Elisa Eesti AS	Elisa Eesti	EE Elisa	Elisa	2100 (3G)	248	02		8937202	2014-09-16
+EST	Elisa Eesti AS	Elisa Eesti	EE Elisa	Elisa	900 (GSM)	248	02	1	8937202	2014-09-16
+EST	Elisa Eesti AS	Elisa Eesti	EE Elisa	Elisa	1800 (GSM)	248	02	1	8937202	2014-09-16
+EST	Tele2 Eesti AS	Tele2	Tele2 EE	Tele2 EE	900 (GSM)	248	03	7	8937203	2010-03-30
+EST	Tele2 Eesti AS	Tele2	Tele2 EE	Tele2 EE	1800 (GSM)	248	03	7	8937203	2010-03-30
+ETH	Ethio Telecom	ETH MTN	ETH MTN	ET-MTN	900 (GSM)	636	01	1	8925101	2014-12-03
+FIN	DNA Ltd	DNA Ltd	DNA	DNA	1800 (GSM)	244	12	"0,4"	8935806	2014-12-03
+FIN	DNA Ltd	DNA Ltd	DNA	DNA	900 (3G)	244	03		8935806	2014-12-03
+FIN	DNA Ltd	DNA Ltd	DNA	DNA	900 (GSM)	244	03	"0,4"	8935806	2014-12-03
+FIN	DNA Ltd	DNA Ltd	DNA	DNA	900 (3G)	244	12		8935806	2014-12-03
+FIN	DNA Ltd	DNA Ltd	DNA	DNA	900 (GSM)	244	12	"0,4"	8935806	2014-12-03
+FIN	DNA Ltd	DNA Ltd	DNA	DNA	2100 (3G)	244	03		8935806	2014-12-03
+FIN	DNA Ltd	DNA Ltd	DNA	DNA	2100 (3G)	244	12		8935806	2014-12-03
+FIN	DNA Ltd	DNA Ltd	DNA	DNA	1800 (GSM)	244	03	"0,4"	8935806	2014-12-03
+FIN	DNA Ltd	DNA Ltd	DNA	DNA	900 (3G)	244	03		8935804	2014-12-03
+FIN	DNA Ltd	DNA Ltd	DNA	DNA	900 (3G)	244	03		8935804	2014-12-03
+FIN	DNA Ltd	DNA Ltd	DNA	DNA	900 (GSM)	244	12	"0,4"	8935804	2014-12-03
+FIN	DNA Ltd	DNA Ltd	DNA	DNA	1800 (GSM)	244	03	"0,4"	8935804	2014-12-03
+FIN	DNA Ltd	DNA Ltd	DNA	DNA	900 (GSM)	244	03	"0,4"	8935804	2014-12-03
+FIN	DNA Ltd	DNA Ltd	DNA	DNA	1800 (GSM)	244	12	"0,4"	8935804	2014-12-03
+FIN	DNA Ltd	DNA Ltd	DNA	DNA	900 (3G)	244	12		8935804	2014-12-03
+FIN	DNA Ltd	DNA Ltd	DNA	DNA	900 (3G)	244	12		8935804	2014-12-03
+FIN	Elisa Corporation	Elisa Corporation	FI elisa	elisa	1800 (LTE)	244	05		8935802	2014-04-17
+FIN	Elisa Corporation	Elisa Corporation	FI elisa	elisa	2100 (LTE)	244	05		8935802	2014-04-17
+FIN	Elisa Corporation	Elisa Corporation	FI elisa	elisa	2100 (3G)	244	05		8935802	2014-04-17
+FIN	Elisa Corporation	Elisa Corporation	FI elisa	elisa	900 (3G)	244	05		8935809	2014-04-17
+FIN	Elisa Corporation	Elisa Corporation	FI elisa	elisa	1800 (GSM)	244	05	4	8935802	2014-04-17
+FIN	Elisa Corporation	Elisa Corporation	FI elisa	elisa	1800 (GSM)	244	05	4	8935809	2014-04-17
+FIN	Elisa Corporation	Elisa Corporation	FI elisa	elisa	1800 (LTE)	244	05		8935809	2014-04-17
+FIN	Elisa Corporation	Elisa Corporation	FI elisa	elisa	2100 (LTE)	244	05		8935809	2014-04-17
+FIN	Elisa Corporation	Elisa Corporation	FI elisa	elisa	900 (GSM)	244	05	4	8935809	2014-04-17
+FIN	Elisa Corporation	Elisa Corporation	FI elisa	elisa	900 (3G)	244	05		8935802	2014-04-17
+FIN	Elisa Corporation	Elisa Corporation	FI elisa	elisa	2100 (3G)	244	05		8935809	2014-04-17
+FIN	Elisa Corporation	Elisa Corporation	FI elisa	elisa	900 (GSM)	244	05	4	8935802	2014-04-17
+FIN	TeliaSonera Finland Oyj	SONERA	FI SONERA	SONERA	2100 (3G)	244	91		8935801	2014-12-03
+FIN	TeliaSonera Finland Oyj	SONERA	FI SONERA	SONERA	1800 (GSM)	244	91	0	8935801	2014-12-03
+FIN	TeliaSonera Finland Oyj	SONERA	FI SONERA	SONERA	900 (GSM)	244	91	0	8935801	2014-12-03
+FIN	?lands Telekommunikation Ab	Alands Telekommunikation Ab	FI AMT	FI AMT	2100 (3G)	244	14		8935807	2014-08-15
+FIN	?lands Telekommunikation Ab	Alands Telekommunikation Ab	FI AMT	FI AMT	900 (GSM)	244	14	"0,4"	8935807	2014-08-15
+FJI	Digicel (Fiji) Limited	Digicel (Fiji) Limited	DIGICEL	DIGICEL	900 (GSM)	542	02	"0,2"	8967902	2012-07-05
+FJI	Digicel (Fiji) Limited	Digicel (Fiji) Limited	DIGICEL	DIGICEL	900 (3G)	542	02		8967902	2012-07-05
+FJI	Vodafone Fiji Limited	VODAFONE	FJ VODAFONE	VODAFONE	2100 (3G)	542	01		8967901	2014-12-03
+FJI	Vodafone Fiji Limited	VODAFONE	FJ VODAFONE	VODAFONE	900 (GSM)	542	01	2	8967901	2014-12-03
+FLK	Sure South Atlantic Limited	Sure South Atlantic Limited	Sure FLK	Sure	900 (GSM)	750	001		8950001	2014-06-13
+FLK	Sure South Atlantic Limited	Sure South Atlantic Limited	Sure FLK	Sure	1800 (GSM)	750	001		8950001	2014-06-13
+FRA	Bouygues Telecom	Bouygues Telecom	F-Bouygues Telecom	BYTEL	900 (GSM)	208	20	4	893320	2012-09-19
+FRA	Bouygues Telecom	Bouygues Telecom	F-Bouygues Telecom	BYTEL	1800 (GSM)	208	20	4	893320	2012-09-19
+FRA	Bouygues Telecom	Bouygues Telecom	F-Bouygues Telecom	BYTEL	2100 (3G)	208	20		893320	2012-09-19
+FRA	Bouygues Telecom	Bouygues Telecom (Contact)	F - Contact	Contact	1800 (GSM)	208	88	"4,7"	893320	2012-09-19
+FRA	Bouygues Telecom	Bouygues Telecom (Contact)	F - Contact	Contact	900 (GSM)	208	88	"4,7"	893320	2012-09-19
+FRA	Free Mobile	Free Mobile	Free	Free	2100 (3G)	208	15		893315	2011-03-03
+FRA	Free Mobile	Free Mobile	Free	Free	900 (3G)	208	15		893315	2011-03-03
+FRA	Orange Caraibe	Orange	F-Orange	Orange	900 (GSM)	340	01		8959001	2004-04-14
+FRA	Orange France	Orange France	Orange F	Orange	2100 (3G)	208	01		893301	2012-03-09
+FRA	Orange France	Orange France	F-Contact	Contact	1800 (GSM)	208	02	0	893301	2013-02-11
+FRA	Orange France	Orange France	F-Contact	Contact	900 (GSM)	208	02	0	893301	2013-02-11
+FRA	Orange France	Orange France	Orange F	Orange	900 (3G)	208	01		893301	2012-03-09
+FRA	Soci?t? Fran?aise du Radiot?l?phone S.A.	SFR	F SFR	SFR	2600 (LTE)	208	10		893310	2014-12-03
+FRA	Soci?t? Fran?aise du Radiot?l?phone S.A.	SFR	F SFR	SFR	1800 (GSM)	208	09		893310	2014-12-03
+FRA	Soci?t? Fran?aise du Radiot?l?phone S.A.	SFR	F SFR	SFR	900 (GSM)	208	10		893310	2014-12-03
+FRA	Soci?t? Fran?aise du Radiot?l?phone S.A.	SFR	F SFR	SFR	1800 (GSM)	208	10		893310	2014-12-03
+FRA	Soci?t? Fran?aise du Radiot?l?phone S.A.	SFR	F SFR	SFR	900 (3G )	208	10		893310	2014-12-03
+FRA	Soci?t? Fran?aise du Radiot?l?phone S.A.	SFR	F SFR	SFR	800 (LTE)	208	10		893310	2014-12-03
+FRA	Soci?t? Fran?aise du Radiot?l?phone S.A.	SFR	F SFR	SFR	2100 (3G )	208	10		893310	2014-12-03
+FRA	Soci?t? Fran?aise du Radiot?l?phone S.A.	SFR	F SFR	SFR	900 (3G )	208	09		893310	2014-12-03
+FRA	Soci?t? Fran?aise du Radiot?l?phone S.A.	SFR	F SFR	SFR	900 (GSM)	208	09		893310	2014-12-03
+FRA	Soci?t? Fran?aise du Radiot?l?phone S.A.	SFR	F SFR	SFR	2100 (3G )	208	09		893310	2014-12-03
+FRA	Soci?t? Fran?aise du Radiot?l?phone S.A.	SFR (Contact)	F - Contact	Contact	1800 (GSM)	208	13		893310	2014-12-03
+FRA	Soci?t? Fran?aise du Radiot?l?phone S.A.	SFR (Contact)	F - Contact	Contact	900 (GSM)	208	13		893310	2014-12-03
+FRA	Soci?t? Fran?aise du Radiot?l?phone S.A.	SFR (FEMTO)	SFR FEMTO	SFRFEMTO	2100 (3G)	208	11		893310	2014-12-03
+FRO	Faroese Telecom	Faroese Telecom	Foroya Tele	FT-GSM	900 (3G)	288	01		8929801	2012-09-13
+FRO	Faroese Telecom	Faroese Telecom	Foroya Tele	FT-GSM	2100 (3G)	288	01		8929801	2012-09-13
+FRO	Faroese Telecom	Faroese Telecom	Foroya Tele	FT-GSM	900 (GSM)	288	01	0	8929801	2012-09-13
+FRO	P/F Kall	VODAFONE FO	VODAFONE FO	VODAFONE	2100 (3G)	288	02		8929829	2014-12-03
+FRO	P/F Kall	VODAFONE FO	VODAFONE FO	VODAFONE	2100 (3G)	288	02		8929802	2014-12-03
+FRO	P/F Kall	VODAFONE FO	VODAFONE FO	VODAFONE	900 (GSM)	288	02		8929802	2014-12-03
+FRO	P/F Kall	VODAFONE FO	VODAFONE FO	VODAFONE	900 (GSM)	288	02		8929829	2014-12-03
+FSM	FSM Telecommunications Corporation	FSM Telecommunications Corporation	FSM Telecom	FSMTC	900 (GSM)	550	01	"0,1"	8969101	2012-07-05
+GAB	Atlantique Telecom Gabon S.A.	ETISALAT GABON	ETISALAT GAB	ETISALAT	900 (GSM)	628	02	"0,4"	8924101	2012-01-16
+GAB	Celtel Gabon S.A.	Airtel	Airtel	Airtel	900 (GSM)	628	03	2	8924103	2014-09-16
+GAB	Libertis S.A.	LIBERTIS	LIBERTIS	LIBERTIS	900 (GSM)	628	01	"0,3"	8924101	2012-08-09
+GBR	AeroMobile AS	AeroMobile	AeroMobile	AeroMob	1800 (GSM)	901	14		8988299	2013-03-13
+GBR	Everything Everywhere Limited	Orange	EE	EE	1800 (GSM)	234	33	5	894412	2012-11-21
+GBR	Everything Everywhere Limited	Orange	EE	EE	2100 (3G)	234	33		894412	2012-12-17
+GBR	Everything Everywhere Limited	T-Mobile	EE	EE	1800 (GSM)	234	30	2	894430	2012-11-21
+GBR	Everything Everywhere Limited	T-Mobile	EE	EE	1800 (GSM)	234	32	2	894430	2012-11-21
+GBR	Everything Everywhere Limited	T-Mobile	EE	EE	1800 (GSM)	234	31	2	894430	2012-11-21
+GBR	Everything Everywhere Limited	T-Mobile	EE	EE	2100 (3G)	234	32		894430	2012-12-17
+GBR	Everything Everywhere Limited	T-Mobile	EE	EE	2100 (3G)	234	31		894430	2012-12-17
+GBR	Everything Everywhere Limited	T-Mobile	EE	EE	2100 (3G)	234	30		894430	2012-12-17
+GBR	Hutchison 3G UK Ltd	3	3 UK	3 UK	2100 (3G)	234	20		894420	2004-04-16
+GBR	Inmarsat Ventures Plc	Inmarsat	Inmarsat	INX	Satellite (GSM)	901	11		8987099	2013-03-12
+GBR	JT (Guernsey) Limited	JT	JT	JT	2100 (3G)	234	50		894450	2012-09-14
+GBR	JT (Guernsey) Limited	JT	JT	JT	1800 (GSM)	234	50		894450	2012-09-14
+GBR	JT (Jersey) Ltd	JT	JT	JT	1800 (GSM)	234	50		894450	2012-09-17
+GBR	JT (Jersey) Ltd	JT	JT	JT	2100 (3G)	234	50		894450	2012-09-14
+GBR	JT (Jersey) Ltd	JT	JT	JT	900 (GSM)	234	50		894450	2012-09-17
+GBR	Manx Telecom	Manx Telecom	Manx Telecom	MANX	900 (GSM)	234	58	1	894453	2014-05-08
+GBR	Manx Telecom	Manx Telecom	Manx Telecom	MANX	2100 (3G)	234	58		894453	2014-05-08
+GBR	Marathon Telecom Limited	Marathon Telecom Limited	Marathon	Marathon	1900 (3G)	234	28		894403	2010-12-09
+GBR	Marathon Telecom Limited	Marathon Telecom Limited	Marathon	Marathon	2100 (3G)	234	28		894403	2010-12-09
+GBR	Sure (Guernsey) Limited	Sure (Guernsey) Limited	Sure	Sure	2100 (3G)	234	55		894455	2013-07-31
+GBR	Sure (Guernsey) Limited	Sure (Guernsey) Limited	Sure	Sure	900 (GSM)	234	55		894455	2013-07-31
+GBR	Sure (Isle of Man) Limited	Sure (Isle of Man) Limited	Sure	Sure	900 (GSM)	234	55		894455	2013-07-31
+GBR	Sure (Isle of Man) Limited	Sure (Isle of Man) Limited	Sure	Sure	2100 (3G)	234	55		894455	2013-07-31
+GBR	Sure (Isle of Man) Limited	Sure (Isle of Man) Limited	Sure	Sure	1800 (GSM)	234	55		894455	2013-07-31
+GBR	Sure (Jersey) Limited	Sure (Jersey) Limited	Sure	Sure	2100 (3G)	234	55		894455	2013-07-31
+GBR	Sure (Jersey) Limited	Sure (Jersey) Limited	Sure	Sure	1800 (GSM)	234	55		894455	2013-07-31
+GBR	Sure (Jersey) Limited	Sure (Jersey) Limited	Sure	Sure	900 (GSM)	234	55		894455	2013-07-31
+GBR	TeleWare PLC	PMN	PMN UK	PMN	1800 (GSM)	234	19		89	2011-11-16
+GBR	Telef?nica UK Limited	O2 (UK)	O2 - UK	O2 - UK	900 (GSM)	234	10	2	894411	2013-05-01
+GBR	Telef?nica UK Limited	O2 (UK)	O2 - UK	O2 - UK	1800 (GSM)	234	10	2	894411	2013-05-01
+GBR	Telef?nica UK Limited	O2 (UK)	O2 - UK	O2 - UK	2100 (3G)	234	10		894411	2013-05-01
+GBR	VODAFONE Ltd	vodafone	vodafone UK	voda UK	900 (GSM)	234	15	6	894410	2013-04-09
+GBR	VODAFONE Ltd	vodafone	vodafone UK	voda UK	1800 (GSM)	234	15	6	894410	2013-04-09
+GEO	Geocell Ltd	GEOCELL	GEO-GEOCELL	GCELL	1800 (GSM)	282	01	5	8999501	2012-07-05
+GEO	Geocell Ltd	GEOCELL	GEO-GEOCELL	GCELL	900 (GSM)	282	01	5	8999501	2012-07-05
+GEO	Magticom Ltd	Magticom LTD	MAGTI-GSM-GEO	MAGTI	1800 (GSM)	282	02	2	8999597	2012-07-05
+GEO	Magticom Ltd	Magticom LTD	MAGTI-GSM-GEO	MAGTI	900 (GSM)	282	02	2	8999597	2012-07-05
+GEO	Mobitel LLC	Mobitel	BEELINE GE	BEELINE	1800 (GSM)	282	04		8999504	2006-11-22
+GHA	Airtel Ghana Limited	Airtel	Airtel	Airtel	900 (GSM)	620	06		8923306	2014-08-13
+GHA	Airtel Ghana Limited	Airtel	Airtel	Airtel	1800 (GSM)	620	06		8923306	2014-08-13
+GHA	Ghana Telecommunications Company Ltd	Vodafone Ghana	GH Vodafone	Vodafone	900 (GSM)	620	02	"0,2"	8923302	2012-07-05
+GHA	Scancom Ltd	MTN	GH MTN	MTN	900 (GSM)	620	01		8923301	2007-05-10
+GIB	CTS Gibraltar Ltd	CTS Mobile	CTS	CTS	2100 (3G)	266	06		8926606	2009-07-16
+GIB	Eazi Telecom Limited	Eazi Telecom Limited	Shine	Shine	2100 (3G)	266	09		8935009	2012-07-12
+GIB	Eazi Telecom Limited	Shine	Shine	Shine	1800 (GSM)	266	09		8935009	2012-05-25
+GIB	Gibtelecom Limited	GIBTEL	GIBTEL GSM	GIBTEL	900 (GSM)	266	01	3	8935001	2012-07-05
+GIN	Areeba Guinea	MTN	GNMTN	GNAreeba	900 (GSM)	611	04	"1,2"	8922404	2012-08-01
+GIN	Areeba Guinea	MTN	GNMTN	GNAreeba	1800 (GSM)	611	04	"1,2"	8922404	2012-08-01
+GIN	Orange Guinee SA	Orange Guinee	Orange GN	ORANGEGN	900 (GSM)	611	01		8922401	2007-06-26
+GIN	Orange Guinee SA	Orange Guinee	Orange GN	ORANGEGN	1800 (GSM)	611	01		8922401	2007-06-26
+GIN	Sotelgui sa	LAGUI	GN LAGUI	LAGUI	900 (GSM)	611	02	0	8922402	2012-07-05
+GLP	Dauphin Telecom	DAUPHIN	DAUPHIN	DAUPHIN	1800 (GSM)	340	08	3	893400810+8	2009-04-22
+GLP	Dauphin Telecom	DAUPHIN	DAUPHIN	DAUPHIN	900 (GSM)	340	08	3	893400810+8	2009-04-22
+GLP	Digicel Antilles Fran?aise Guyane	Digicel	Digicel	DigicelF	2100 (3G)	340	20		8959620	2014-12-03
+GLP	Digicel Antilles Fran?aise Guyane	Digicel	Digicel	DigicelF	900 (GSM)	340	20	"4,5"	8959620	2014-12-03
+GMB	Africell (Gambia) Ltd	AFRICELL	AFRICELL	AFRICELL	900 (GSM)	607	02			2012-08-09
+GMB	Africell (Gambia) Ltd	AFRICELL	AFRICELL	AFRICELL	1800 (GSM)	607	02			2012-08-09
+GMB	Comium Gambia Ltd	Comium Gambia	GM COMIUM	GMCOMIUM	900 (GSM)	607	03		8922003	2006-11-22
+GMB	Comium Gambia Ltd	Comium Gambia	GM COMIUM	GMCOMIUM	1800 (GSM)	607	03		8922003	2006-11-22
+GMB	Gambia Telecommunications Cellular Company Ltd (Gamcell)	GAMCELL	GAMCEL	GAMCEL	900 (GSM)	607	01		8922001	2001-09-18
+GMB	QCELL Limited	Qcell	Qcell	QC	900 (GSM)	607	04		8922004	2012-10-19
+GMB	QCELL Limited	Qcell	Qcell	QC	2100 (3G)	607	04		8922004	2012-10-19
+GNB	Spacetel Guinee-Bissau SA	MTN	MTN	MTN	900 (GSM)	632	02	"1,2,3"	8924502	2012-07-05
+GNB	Spacetel Guinee-Bissau SA	MTN	MTN	MTN	1800 (GSM)	632	02	"1,2,3"	8924502	2012-07-05
+GNQ	GETESA	Orange GQ	GNQ01	GETESA	900 (GSM)	627	01			2002-10-22
+GNQ	Green Com S.A.	Green Com	GNQ-Muni	Muni-GQ	900 (GSM)	627	03	7	8924003	2014-03-20
+GNQ	Green Com S.A.	Green Com	GNQ-Muni	Muni-GQ	1800 (GSM)	627	03	7	8924003	2014-03-20
+GRC	COSMOTE - Mobile Telecommunications S.A.	COSMOTE	GR COSMOTE	C-OTE	900 (GSM)	202	01	7	893001	2012-07-05
+GRC	COSMOTE - Mobile Telecommunications S.A.	COSMOTE	GR COSMOTE	C-OTE	1800 (GSM)	202	01	7	893001	2012-07-05
+GRC	Vodafone-Panafon	vodafone	vodafone GR	voda GR	900 (GSM)	202	05	0	8930050	2013-04-09
+GRC	Wind Hellas Telecommunications S.A.	WIND	WIND GR	WIND	900 (GSM)	202	10	4	"893010, 893009"	2012-12-17
+GRC	Wind Hellas Telecommunications S.A.	WIND	WIND GR	WIND	1800 (GSM)	202	09	4	"893010, 893009"	2012-12-17
+GRC	Wind Hellas Telecommunications S.A.	WIND	WIND GR	WIND	2100 (3G)	202	09		"893010, 893009"	2012-12-17
+GRC	Wind Hellas Telecommunications S.A.	WIND	WIND GR	WIND	2100 (3G)	202	10		"893010, 893009"	2012-12-17
+GRC	Wind Hellas Telecommunications S.A.	WIND	WIND GR	WIND	1800 (GSM)	202	10	4	"893010, 893009"	2012-12-17
+GRC	Wind Hellas Telecommunications S.A.	WIND	WIND GR	WIND	900 (GSM)	202	09	4	"893010, 893009"	2012-12-17
+GRD	Cable & Wireless Grenada Ltd	LIME	LIME	LIME	850 (GSM)	352	110	7	8901017	2012-05-18
+GRD	Digicel Grenada Ltd.	Digicel	DIGICEL	DIGICEL	900 (GSM)	352	030	0	8901050	2004-11-05
+GRD	Digicel Grenada Ltd.	Digicel	DIGICEL	DIGICEL	1800 (GSM)	352	030	0	8901050	2004-11-05
+GRL	TELE Greenland  A/S	TELE Greenland	TELE Greenland	TELE GRL	900 (GSM)	290	01	"0,1"	8929901	2012-07-05
+GTM	COMCEL-Communicaciones Celulares Sociedad Anonima	COMCEL GUATEMALA	Comcel_GSM	COMCEL	850 (GSM)	704	02	1		2013-05-16
+GTM	"Telecomunicaciones de Guatemala, S.A. (TELGUA)"	CLARO	CLARO GTM	CLAROGTM	900 (GSM)	704	01		8950201	2014-04-17
+GTM	"Telecomunicaciones de Guatemala, S.A. (TELGUA)"	CLARO	CLARO GTM	CLAROGTM	1900 (GSM)	704	01		8950201	2014-04-17
+GTM	"Telecomunicaciones de Guatemala, S.A. (TELGUA)"	CLARO	CLARO GTM	CLAROGTM	1900 (3G)	704	01		8950201	2014-04-17
+GTM	"Telefonica Moviles Guatemala, SA"	Telefonica	Movistar	Movistar	1900 (GSM)	704	03	4	8950203	2013-02-20
+GUF	Outremer Telecom	Outremer	ONLY	ONLY	900 (GSM)	340	02	"0,1"	"8959402, 8959602, 8959002"	2012-07-05
+GUF	Outremer Telecom	Outremer	ONLY	ONLY	1800 (GSM)	340	02	"0,1"	"8959402, 8959602, 8959002"	2012-07-05
+GUM	"Docomo Pacific, Inc."	DOCOMO PACIFIC INC	USA DOCOMO PACIFIC	DOCOMOPA	1900 (3G)	310	370		 891377	2014-10-07
+GUM	"Docomo Pacific, Inc."	DOCOMO PACIFIC INC	USA DOCOMO PACIFIC	DOCOMOPA	850 (3G)	310	370		 891377	2014-10-07
+GUM	"Docomo Pacific, Inc."	DOCOMO PACIFIC INC	USA DOCOMO PACIFIC	DOCOMOPA	1900 (GSM)	310	370		 891377	2014-10-07
+GUM	"Docomo Pacific, Inc."	DOCOMO PACIFIC INC	USA DOCOMO PACIFIC	DOCOMOPA	700 (LTE)	310	370		 891377	2014-10-07
+GUM	Pulse Mobile LLC	Pulse Mobile LLC	GTA	GTA	1900 (GSM)	310	140	1	8901000	2014-05-21
+GUM	Pulse Mobile LLC	Pulse Mobile LLC	GTA	GTA	850 (GSM)	310	140	1	8901000	2014-05-21
+GUM	Pulse Mobile LLC	Pulse Mobile LLC	GTA	GTA	850 (3G)	310	140		8901000	2014-05-21
+GUM	"Wave Runner, LLC"	i CAN_GSM	USA_iCAN	iCAN_GSM	1900 (GSM)	310	400	"0,3"	8901008	2014-08-13
+GUY	Guyana Telephone and Telegraph Company	Cellink Plus	GUY CLNK PLS	CLNKPLS	1800 (GSM)	738	002	"0,0,2"	8959200	2014-06-09
+GUY	Guyana Telephone and Telegraph Company	Cellink Plus	GUY CLNK PLS	CLNKPLS	900 (GSM)	738	002	"0,0,2"	8959200	2014-06-09
+GUY	U-Mobile (Cellular) Inc.	Digicel Guyana	DIGICEL	DIGICEL	900 (GSM)	738	01	"0,1"	8975801	2012-07-05
+HKG	CHINA MOBILE HONG KONG COMPANY LIMITED	China Mobile HK	China Mobile HK	CMHK	1800 (GSM)	454	12	"0,1,4"	"8985212, 8985213"	2013-01-22
+HKG	CHINA MOBILE HONG KONG COMPANY LIMITED	China Mobile HK	China Mobile HK	CMHK	1800 (GSM)	454	13	"0,1,4"	"8985212, 8985213"	2013-01-22
+HKG	CSL Limited	CSL	CSL	CSL	1800 (GSM)	454	02	"1,4"	8985200	2012-07-05
+HKG	CSL Limited	CSL	CSL	CSL	900 (GSM)	454	18	"1,4"	8985200	2012-07-05
+HKG	CSL Limited	CSL	CSL	CSL	1800 (GSM)	454	10	"1,4"	8985210	2012-07-05
+HKG	CSL Limited	CSL	CSL	CSL	1800 (GSM)	454	18	"1,4"	8985200	2012-07-05
+HKG	CSL Limited	CSL	CSL	CSL	900 (GSM)	454	00	"1,4"	8985200	2012-07-05
+HKG	CSL Limited	CSL	CSL	CSL	1800 (GSM)	454	00	"1,4"	8985200	2012-07-05
+HKG	CSL Limited	CSL	CSL	CSL	900 (GSM)	454	02	"1,4"	8985200	2012-07-05
+HKG	Hong Kong Telecommunications (HKT) Limited	HKT	PCCW-HKT	PCCW-HKT	2100 (3G)	454	20		"8985216, 8985219"	2013-02-22
+HKG	Hong Kong Telecommunications (HKT) Limited	HKT	PCCW-HKT	PCCW-HKT	1800 (GSM)	454	16		"8985216, 8985219"	2013-02-22
+HKG	Hong Kong Telecommunications (HKT) Limited	HKT	PCCW-HKT	PCCW-HKT	2100 (3G)	454	16		"8985216, 8985219"	2013-02-22
+HKG	Hong Kong Telecommunications (HKT) Limited	HKT	PCCW-HKT	PCCW-HKT	2600 (LTE)	454	16		"8985216, 8985219"	2013-02-20
+HKG	Hong Kong Telecommunications (HKT) Limited	HKT	PCCW-HKT	PCCW-HKT	1800 (LTE)	454	16		"8985216, 8985219"	2013-02-20
+HKG	Hong Kong Telecommunications (HKT) Limited	HKT	PCCW-HKT	PCCW-HKT	1800 (LTE)	454	19		"8985216, 8985219"	2013-02-20
+HKG	Hong Kong Telecommunications (HKT) Limited	HKT	PCCW-HKT	PCCW-HKT	2600 (LTE)	454	19		"8985216, 8985219"	2013-02-20
+HKG	Hong Kong Telecommunications (HKT) Limited	HKT	PCCW-HKT	PCCW-HKT	2600 (LTE)	454	20		"8985216, 8985219"	2013-02-20
+HKG	Hong Kong Telecommunications (HKT) Limited	HKT	PCCW-HKT	PCCW-HKT	1800 (LTE)	454	20		"8985216, 8985219"	2013-02-20
+HKG	Hong Kong Telecommunications (HKT) Limited	HKT	PCCW-HKT	PCCW-HKT	1800 (GSM)	454	19		"8985216, 8985219"	2013-02-22
+HKG	Hong Kong Telecommunications (HKT) Limited	HKT	PCCW-HKT	PCCW-HKT	2100 (3G)	454	19		"8985216, 8985219"	2013-02-22
+HKG	Hong Kong Telecommunications (HKT) Limited	HKT	PCCW-HKT	PCCW-HKT	1800 (GSM)	454	20		"8985216, 8985219"	2013-02-22
+HKG	Hutchison Telecom (HK) Ltd	3	3(2G)	3(2G)	1800 (GSM)	454	04	"0,1,4"	8985204	2012-12-19
+HKG	Hutchison Telecom (HK) Ltd	3	3	3	900 (3G)	454	03		8985203	2012-12-19
+HKG	Hutchison Telecom (HK) Ltd	3	3	3	2100 (3G)	454	03		8985203	2012-12-19
+HKG	Hutchison Telecom (HK) Ltd	3	3(2G)	3(2G)	900 (GSM)	454	04	"0,1,4"	8985204	2012-12-19
+HKG	SmarTone Mobile Communications Limited	SmarTone HK	SmarTone HK	SMC HK	1800 (GSM)	454	15	"0,1,4"	8985206	2012-07-05
+HKG	SmarTone Mobile Communications Limited	SmarTone HK	SmarTone HK	SMC HK	2100 (3G)	454	17		8985215	2011-11-16
+HKG	SmarTone Mobile Communications Limited	SmarTone HK	SmarTone HK	SMC HK	1800 (GSM)	454	17	"0,1,4"	8985206	2012-07-05
+HKG	SmarTone Mobile Communications Limited	SmarTone HK	SmarTone HK	SMC HK	900 (GSM)	454	15	"0,1,4"	8985206	2012-07-05
+HKG	SmarTone Mobile Communications Limited	SmarTone HK	SmarTone HK	SMC HK	2100 (3G)	454	06		8985215	2011-11-16
+HKG	SmarTone Mobile Communications Limited	SmarTone HK	SmarTone HK	SMC HK	2100 (3G)	454	15		8985215	2011-11-16
+HKG	SmarTone Mobile Communications Limited	SmarTone HK	SmarTone HK	SMC HK	1800 (GSM)	454	06	"0,1,4"	8985206	2012-07-05
+HKG	SmarTone Mobile Communications Limited	SmarTone HK	SmarTone HK	SMC HK	900 (GSM)	454	06	"0,1,4"	8985206	2012-07-05
+HKG	SmarTone Mobile Communications Limited	SmarTone HK	SmarTone HK	SMC HK	900 (GSM)	454	17	"0,1,4"	8985206	2012-07-05
+HND	Empresa Hondurena de Telecomunicaciones HONDUTEL	Empresa Hondurena de Telecomunicaciones	HND	HT - 200	1900 (GSM)	708	030	"1,1"	8970803	2012-07-05
+HND	Servicios de Comunicaciones de Honduras S.A. de C.V.	CLARO GSM	CLARO HND	ClaroHND	1900 (GSM)	708	001	"0,1"	89504001	2012-07-05
+HND	Telefonica Celular S.A (CELTEL)	CELTEL	CELTELHND	CELTEL	850 (GSM)	708	02	6	8970802	2004-02-04
+HRV	Tele2 d.o.o za telekomunikacijske uluge	Tele2	Tele2 HR	Tele2 HR	1800 (GSM)	219	02		89385	2010-03-30
+HRV	VIPnet d.o.o.	VIP-NET	HR VIP	VIP	900 (GSM)	219	10	5	8938591	2004-04-14
+HTI	Communication Cellulaire d'Haiti SA	Comcel	COMCEL	VOILA	850 (GSM)	372	01	1	8950901	2005-09-15
+HTI	National Telecom S.A.	Natcom	Natcom	Natcom	2100 (3G)	372	03		8950903	2014-10-07
+HTI	National Telecom S.A.	Natcom	Natcom	Natcom	900 (GSM)	372	03	"0,3"	8950903	2014-10-07
+HUN	Magyar Telekom Plc	T-Mobile Hungary	Telekom HU	THU	2100 (3G)	216	30		893630	2013-06-03
+HUN	Magyar Telekom Plc	T-Mobile Hungary	Telekom HU	THU	900 (GSM)	216	30	6	893630	2013-06-03
+HUN	Magyar Telekom Plc	T-Mobile Hungary	Telekom HU	THU	1800 (GSM)	216	30	6	893630	2013-06-03
+HUN	Telenor Magyarorszag Zrt	Telenor	Telenor HU	TelenorH	900 (GSM)	216	01	"0,7"	893620	2012-07-05
+HUN	Telenor Magyarorszag Zrt	Telenor	Telenor HU	TelenorH	1800 (GSM)	216	01	"0,7"	893620	2012-07-05
+HUN	Telenor Magyarorszag Zrt	Telenor 3G	Telenor HU	TelenorH	2100 (3G)	216	01		893620	2010-06-17
+HUN	Vodafone Hungary Ltd	vodafone	vodafone HU	voda HU	900 (GSM)	216	70	2	893670	2013-04-09
+HUN	Vodafone Hungary Ltd	vodafone	vodafone HU	voda HU	1800 (GSM)	216	70	2	893670	2013-04-09
+IDN	ACeS International Limited (AIL)	ACeS Indonesia - PT Pasifik Satelit Nusantara	ACeS	ACeS	Satellite (GSM)	510	00		896200	2012-02-21
+IDN	ACeS International Limited (AIL)	ACeS International Limited (AIL)	ACeS	ACeS	Satellite (GSM)	510	00		896200	2012-02-21
+IDN	Excelcom	XL	IND XL	XL	900 (GSM)	510	11	4	8962818	2005-11-17
+IDN	Excelcom	XL	IND XL	XL	1800 (GSM)	510	11	4	8962818	2005-11-17
+IDN	Hutchison CP Telecommunications	3	3	3	2100 (3G)	510	89		896289	2012-07-05
+IDN	Hutchison CP Telecommunications	3	3	3	1800 (GSM)	510	89		896289	2012-07-05
+IDN	PT Indonesian Satellite Corporation Tbk (INDOSAT)	INDOSAT	IND INDOSAT	INDOSAT	900 (GSM)	510	01	3	896201	2004-04-14
+IDN	PT Indonesian Satellite Corporation Tbk (INDOSAT)	INDOSAT	IND INDOSAT	INDOSAT	1800 (GSM)	510	21	1	896221	2013-06-18
+IDN	PT Indonesian Satellite Corporation Tbk (INDOSAT)	INDOSAT	IND INDOSAT	INDOSAT	1800 (GSM)	510	01	3	896201	2004-04-14
+IDN	PT Telekomunikasi Selular	TELKOMSEL	IND TELKOMSEL	T-SEL	1800 (GSM)	510	10	2	896210	2004-04-19
+IDN	PT Telekomunikasi Selular	TELKOMSEL	IND TELKOMSEL	T-SEL	900 (GSM)	510	10	2	896210	2004-04-19
+IDN	PT. AXIS Telekom Indonesia	AXIS	AXIS	AXIS	1800 (GSM)	510	08	5	896208	2010-01-11
+IDN	PT. AXIS Telekom Indonesia	AXIS	AXIS	AXIS	2100 (3G)	510	08		896208	2012-07-05
+IND	Aircel Limited	AIRCEL	AIRCEL	AIRCEL	900 (GSM)	404	42	3	899142	2006-09-01
+IND	Aircel Limited	Aircel	Aircel	Aircel	1800 (GSM)	405	805	4	8991805	2008-07-10
+IND	Aircel Limited	Aircel	Aircel	Aircel	1800 (GSM)	405	803	4	8991803	2008-09-01
+IND	Aircel Limited	Aircel	Aircel	Aircel	1800 (GSM)	405	806	4	8991806	2009-01-27
+IND	Aircel Limited	Aircel	Aircel	Aircel	1800 (GSM)	405	801	4	8991801	2008-09-01
+IND	Aircel Limited	Aircel	Aircel	Aircel	1800 (GSM)	405	800	4	8991800	2008-07-10
+IND	Aircel Limited	Aircel	Aircel	Aircel	1800 (GSM)	405	804	4	8991804	2009-01-27
+IND	Aircel Limited	Aircel	Aircel	Aircel	1800 (GSM)	405	802	4	8991802	2009-01-27
+IND	Bharat Sanchar Nigam Limited	CellOne All India except Delhi & Mumbai	CellOne	CellOne	900 (GSM)	404	79	1	89404	2004-07-22
+IND	Bharat Sanchar Nigam Limited	CellOne Andhra Pradesh	CellOne	CellOne	900 (GSM)	404	73	3	89404	2004-07-22
+IND	Bharat Sanchar Nigam Limited	CellOne Assam	CellOne	CellOne	900 (GSM)	404	38	5	89404	2004-07-22
+IND	Bharat Sanchar Nigam Limited	CellOne Bihar	CellOne	CellOne	900 (GSM)	404	75	7	89404	2004-07-22
+IND	Bharat Sanchar Nigam Limited	CellOne Chennai	CellOne	CellOne	900 (GSM)	404	64	7	89404	2004-07-22
+IND	Bharat Sanchar Nigam Limited	CellOne Gujarat	CellOne	CellOne	900 (GSM)	404	57	3	89404	2004-07-22
+IND	Bharat Sanchar Nigam Limited	CellOne Haryana	CellOne	CellOne	900 (GSM)	404	34	6	89404	2004-07-22
+IND	Bharat Sanchar Nigam Limited	CellOne Himachal Pradesh	CellOne	CellOne	900 (GSM)	404	51	5	89404	2004-07-22
+IND	Bharat Sanchar Nigam Limited	CellOne Jammu & Kashmir	CellOne	CellOne	900 (GSM)	404	62	0	89404	2004-07-22
+IND	Bharat Sanchar Nigam Limited	CellOne Karnataka	CellOne	CellOne	900 (GSM)	404	71	2	89404	2004-07-22
+IND	Bharat Sanchar Nigam Limited	CellOne Kerala	CellOne	CellOne	900 (GSM)	404	72	5	89404	2004-07-22
+IND	Bharat Sanchar Nigam Limited	CellOne Kolkata	CellOne	CellOne	900 (GSM)	404	81	7	89404	2004-07-22
+IND	Bharat Sanchar Nigam Limited	CellOne Madhya Pradesh	CellOne	CellOne	900 (GSM)	404	58	1	89404	2004-07-22
+IND	Bharat Sanchar Nigam Limited	CellOne Maharashtra	CellOne	CellOne	900 (GSM)	404	66	5	89404	2004-07-22
+IND	Bharat Sanchar Nigam Limited	CellOne North East	CellOne	CellOne	900 (GSM)	404	77	3	89404	2004-07-22
+IND	Bharat Sanchar Nigam Limited	CellOne Orissa	CellOne	CellOne	900 (GSM)	404	76	0	89404	2004-07-22
+IND	Bharat Sanchar Nigam Limited	CellOne Punjab	CellOne	CellOne	900 (GSM)	404	53	3	89404	2004-07-22
+IND	Bharat Sanchar Nigam Limited	CellOne Rajasthan	CellOne	CellOne	900 (GSM)	404	59	5	89404	2004-07-22
+IND	Bharat Sanchar Nigam Limited	CellOne Tamil Nadu	CellOne	CellOne	900 (GSM)	404	80	4	89404	2004-07-22
+IND	Bharat Sanchar Nigam Limited	CellOne Uttar Pradesh (East)	CellOne	CellOne	900 (GSM)	404	55	3	89404	2004-07-22
+IND	Bharat Sanchar Nigam Limited	CellOne Uttar Pradesh (West)	CellOne	CellOne	900 (GSM)	404	54	4	89404	2004-07-22
+IND	Bharat Sanchar Nigam Limited	CellOne West Bengal	CellOne	CellOne	900 (GSM)	404	74	2	89404	2004-07-22
+IND	Bharti Airtel Limited	airtel	IND airtel	airtel	1800 (GSM)	404	94		899194	2010-12-13
+IND	Bharti Airtel Limited	airtel	IND airtel	airtel	900 (GSM)	405	52			2013-05-17
+IND	Bharti Airtel Limited	airtel	IND airtel	airtel	900 (GSM)	405	51			2013-05-17
+IND	Bharti Airtel Limited	airtel	IND airtel	airtel	900 (GSM)	404	49	1	899149	2010-12-13
+IND	Bharti Airtel Limited	airtel	IND airtel	airtel	900 (GSM)	404	45	1	899145	2010-12-13
+IND	Bharti Airtel Limited	airtel	IND airtel	airtel	900 (GSM)	405	53			2013-05-17
+IND	Bharti Airtel Limited	airtel	IND airtel	airtel	900 (GSM)	405	54			2013-05-17
+IND	Bharti Airtel Limited	airtel	IND airtel	airtel	1800 (GSM)	404	90		899190	2010-12-13
+IND	Bharti Airtel Limited	airtel	IND airtel	airtel	900 (GSM)	405	56	4	899156	2010-12-17
+IND	Bharti Airtel Limited	airtel	IND airtel	airtel	900 (GSM)	405	55			2013-05-17
+IND	Bharti Airtel Limited	airtel	IND airtel	airtel	1800 (GSM)	404	92		899192	2010-12-13
+IND	Bharti Airtel Limited	airtel	IND airtel	airtel	900 (GSM)	404	40	0	8991400	2010-12-17
+IND	Bharti Airtel Limited	airtel	IND airtel	airtel	1800 (GSM)	404	98		899198	2010-12-13
+IND	Bharti Airtel Limited	airtel	IND airtel	airtel	900 (GSM)	404	02		899102	2010-12-17
+IND	Bharti Airtel Limited	airtel	IND airtel	airtel	900 (GSM)	404	10	1	899110	2010-12-17
+IND	Bharti Airtel Limited	airtel	IND airtel	airtel	1800 (GSM)	404	97		899197	2010-12-13
+IND	Bharti Airtel Limited	airtel	IND airtel	airtel	1800 (GSM)	404	96		899196	2010-12-13
+IND	Bharti Airtel Limited	airtel	IND airtel	airtel	900 (GSM)	404	31	0	899131	2010-12-13
+IND	Bharti Airtel Limited	airtel	IND airtel	airtel	1800 (GSM)	404	93		899193	2010-12-13
+IND	Bharti Airtel Limited	airtel	IND airtel	airtel	1800 (GSM)	404	95		899195	2010-12-13
+IND	Bharti Airtel Limited	airtel	IND airtel	airtel	900 (GSM)	404	03		899103	2010-12-17
+IND	Bharti Hexacom Ltd	AIRTEL	IND airtel	airtel	900 (GSM)	404	70	1	89 91 70	2010-12-17
+IND	Bharti Hexacom Ltd	AIRTEL	IND airtel	airtel	900 (GSM)	404	16	1	899116	2010-12-17
+IND	IDEA Cellular Limited	Idea Cellular Ltd	IDEA	IDEA	1800 (GSM)	405	845		8991845	2012-08-03
+IND	IDEA Cellular Limited	Idea Cellular Ltd	IDEA	IDEA	1800 (GSM)	405	799		8991799	2012-08-03
+IND	IDEA Cellular Limited	Idea Cellular Ltd	IDEA	IDEA	900 (GSM)	404	14	"3,2"	899114	2012-08-03
+IND	IDEA Cellular Limited	Idea Cellular Ltd	IDEA	IDEA	1800 (GSM)	405	848		8991848	2012-08-03
+IND	IDEA Cellular Limited	Idea Cellular Ltd	IDEA	IDEA	1800 (GSM)	405	850		8991850	2012-08-03
+IND	IDEA Cellular Limited	Idea Cellular Ltd	IDEA	IDEA	900 (GSM)	404	12		899112	2012-08-03
+IND	IDEA Cellular Limited	Idea Cellular Ltd	IDEA	IDEA	1800 (GSM)	405	853		8991853	2012-08-03
+IND	IDEA Cellular Limited	Idea Cellular Ltd	IDEA	IDEA	1800 (GSM)	405	852		8991852	2012-08-03
+IND	IDEA Cellular Limited	Idea Cellular Ltd	IDEA	IDEA	1800 (GSM)	405	849		8991849	2012-08-03
+IND	IDEA Cellular Limited	Idea Cellular Ltd	IDEA	IDEA	900 (GSM)	404	19		899119	2012-08-03
+IND	IDEA Cellular Limited	Idea Cellular Ltd	IDEA	IDEA	1800 (GSM)	404	87		899187	2012-08-03
+IND	IDEA Cellular Limited	Idea Cellular Ltd	IDEA	IDEA	1800 (GSM)	404	82		899182	2012-08-03
+IND	IDEA Cellular Limited	Idea Cellular Ltd	IDEA	IDEA	900 (GSM)	404	78	2	899178	2012-08-03
+IND	IDEA Cellular Limited	Idea Cellular Ltd	IDEA	IDEA	1800 (GSM)	404	89		899189	2012-08-03
+IND	IDEA Cellular Limited	Idea Cellular Ltd	IDEA	IDEA	900 (GSM)	404	56		899156	2012-08-03
+IND	IDEA Cellular Limited	Idea Cellular Ltd	IDEA	IDEA	900 (GSM)	404	22	7	899122	2012-08-03
+IND	IDEA Cellular Limited	Idea Cellular Ltd	IDEA	IDEA	900 (GSM)	404	24	7	899124	2012-08-03
+IND	IDEA Cellular Limited	Idea Cellular Ltd	IDEA	IDEA	900 (GSM)	404	44	0	899144	2012-08-03
+IND	IDEA Cellular Limited	Idea Cellular Ltd	IDEA	IDEA	1800 (GSM)	405	70		899170	2012-08-03
+IND	IDEA Cellular Limited	Idea Cellular Ltd	IDEA	IDEA	1800 (GSM)	405	846		8991846	2012-08-03
+IND	IDEA Cellular Limited	Idea Cellular Ltd	IDEA	IDEA	900 (GSM)	404	07	"0,5"	899107	2012-08-03
+IND	IDEA Cellular Limited	Idea Cellular Ltd	IDEA	IDEA	1800 (GSM)	404	04	"0,6"	899104	2012-08-03
+IND	Mahanagar Telephone Nigam Ltd	Mahanagar Telephone Nigam	IN-DOLPHIN	DOLPHIN	900 (GSM)	404	68		899168	2012-07-10
+IND	Mahanagar Telephone Nigam Ltd	Mahanagar Telephone Nigam	IN-DOLPHIN	DOLPHIN	900 (GSM)	404	69		899169	2012-07-10
+IND	Reliance Communications Limited	RELIANCE TELECOM LIMITED	Reliance	RELIANCE	900 (GSM)	404	09	"2,1"	899109	2012-07-05
+IND	Reliance Communications Limited	RELIANCE TELECOM LIMITED	Reliance	RELIANCE	900 (GSM)	404	36	"5,6"	899136	2012-07-05
+IND	Reliance Communications Limited	RELIANCE TELECOM LIMITED	Reliance	RELIANCE	900 (GSM)	404	18	"7,4"	899118	2012-07-05
+IND	Reliance Communications Limited	RELIANCE TELECOM LIMITED	Reliance	RELIANCE	900 (GSM)	404	67	"6,5"	899167	2012-07-05
+IND	Reliance Communications Limited	RELIANCE TELECOM LIMITED	Reliance	RELIANCE	900 (GSM)	404	52	"4,5"	899152	2012-07-05
+IND	Reliance Communications Limited	RELIANCE TELECOM LIMITED	Reliance	RELIANCE	900 (GSM)	404	50	"2,1"	899150	2012-07-05
+IND	Reliance Communications Limited	RELIANCE TELECOM LIMITED	Reliance	RELIANCE	900 (GSM)	404	85	"3,4"	899185	2012-07-05
+IND	Reliance Communications Limited	RELIANCE TELECOM LTD	Reliance	Reliance	1800 (GSM)	404	83	"2,3"	899183	2012-07-05
+IND	Reliance Communications Limited	Reliance Communications Limited	Reliance	Reliance	1800 (GSM)	405	21	1	899121	2008-07-22
+IND	Reliance Communications Limited	Reliance Communications Limited	Reliance	Reliance	1800 (GSM)	405	09	1	899109	2008-07-22
+IND	Reliance Communications Limited	Reliance Communications Limited	Reliance	Reliance	1800 (GSM)	405	22	1	899122	2008-07-22
+IND	Reliance Communications Limited	Reliance Communications Limited	Reliance	Reliance	1800 (GSM)	405	20	1	899122	2008-07-22
+IND	Reliance Communications Limited	Reliance Communications Limited	Reliance	Reliance	1800 (GSM)	405	19	1	899119	2008-07-22
+IND	Reliance Communications Limited	Reliance Communications Limited	Reliance	Reliance	1800 (GSM)	405	11	1	899111	2008-08-29
+IND	Reliance Communications Limited	Reliance Communications Limited	Reliance	Reliance	1800 (GSM)	405	10	1	899110	2008-07-22
+IND	Reliance Communications Limited	Reliance Communications Limited	Reliance	Reliance	1800 (GSM)	405	05	1	899105	2008-07-22
+IND	Reliance Communications Limited	Reliance Communications Limited	Reliance	Reliance	1800 (GSM)	405	01	1	899101	2008-07-22
+IND	Reliance Communications Limited	Reliance Communications Limited	Reliance	Reliance	1800 (GSM)	405	13	1	899113	2008-07-22
+IND	Reliance Communications Limited	Reliance Communications Limited	Reliance	Reliance	1800 (GSM)	405	18	1	899118	2008-07-22
+IND	Reliance Communications Limited	Reliance Communications Limited	Reliance	Reliance	1800 (GSM)	405	07	1	899107	2008-07-22
+IND	Reliance Communications Limited	Reliance Communications Limited	Reliance	Reliance	1800 (GSM)	405	06	1	899106	2008-07-22
+IND	Reliance Communications Limited	Reliance Communications Limited	Reliance	Reliance	1800 (GSM)	405	15	1	899115	2008-07-22
+IND	Reliance Jio Infocomm Limited	Reliance Jio Infocomm Ltd India	IND-JIO	JIO	2300 (TD-LTE )	405	856		8991856	2014-03-12
+IND	Reliance Jio Infocomm Limited	Reliance Jio Infocomm Ltd India	IND-JIO	JIO	2300 (TD-LTE )	405	855		8991855	2014-03-12
+IND	Reliance Jio Infocomm Limited	Reliance Jio Infocomm Ltd India	IND-JIO	JIO	2300 (TD-LTE )	405	854		8991854	2014-03-12
+IND	Reliance Jio Infocomm Limited	Reliance Jio Infocomm Ltd India	IND-JIO	JIO	2300 (TD-LTE )	405	871		8991871	2014-03-12
+IND	Reliance Jio Infocomm Limited	Reliance Jio Infocomm Ltd India	IND-JIO	JIO	2300 (TD-LTE )	405	840		8991840	2014-03-12
+IND	Reliance Jio Infocomm Limited	Reliance Jio Infocomm Ltd India	IND-JIO	JIO	2300 (TD-LTE )	405	859		8991859	2014-03-12
+IND	Reliance Jio Infocomm Limited	Reliance Jio Infocomm Ltd India	IND-JIO	JIO	2300 (TD-LTE )	405	868		8991868	2014-03-12
+IND	Reliance Jio Infocomm Limited	Reliance Jio Infocomm Ltd India	IND-JIO	JIO	2300 (TD-LTE )	405	874		8991874	2014-03-12
+IND	Reliance Jio Infocomm Limited	Reliance Jio Infocomm Ltd India	IND-JIO	JIO	2300 (TD-LTE )	405	866		8991866	2014-03-12
+IND	Reliance Jio Infocomm Limited	Reliance Jio Infocomm Ltd India	IND-JIO	JIO	2300 (TD-LTE )	405	869		8991869	2014-03-12
+IND	Reliance Jio Infocomm Limited	Reliance Jio Infocomm Ltd India	IND-JIO	JIO	2300 (TD-LTE )	405	873		8991873	2014-03-12
+IND	Reliance Jio Infocomm Limited	Reliance Jio Infocomm Ltd India	IND-JIO	JIO	2300 (TD-LTE )	405	870		8991870	2014-03-12
+IND	Reliance Jio Infocomm Limited	Reliance Jio Infocomm Ltd India	IND-JIO	JIO	2300 (TD-LTE )	405	872		8991872	2014-03-12
+IND	Reliance Jio Infocomm Limited	Reliance Jio Infocomm Ltd India	IND-JIO	JIO	2300 (TD-LTE )	405	865		8991865	2014-03-12
+IND	Reliance Jio Infocomm Limited	Reliance Jio Infocomm Ltd India	IND-JIO	JIO	2300 (TD-LTE )	405	867		8991867	2014-03-12
+IND	Reliance Jio Infocomm Limited	Reliance Jio Infocomm Ltd India	IND-JIO	JIO	2300 (TD-LTE )	405	858		8991858	2014-03-12
+IND	Reliance Jio Infocomm Limited	Reliance Jio Infocomm Ltd India	IND-JIO	JIO	2300 (TD-LTE )	405	864		8991864	2014-03-12
+IND	Reliance Jio Infocomm Limited	Reliance Jio Infocomm Ltd India	IND-JIO	JIO	2300 (TD-LTE )	405	860		8991860	2014-03-12
+IND	Reliance Jio Infocomm Limited	Reliance Jio Infocomm Ltd India	IND-JIO	JIO	2300 (TD-LTE )	405	857		8991857	2014-03-12
+IND	Reliance Jio Infocomm Limited	Reliance Jio Infocomm Ltd India	IND-JIO	JIO	2300 (TD-LTE )	405	861		8991861	2014-03-12
+IND	Reliance Jio Infocomm Limited	Reliance Jio Infocomm Ltd India	IND-JIO	JIO	2300 (TD-LTE )	405	863		8991863	2014-03-12
+IND	Reliance Jio Infocomm Limited	Reliance Jio Infocomm Ltd India	IND-JIO	JIO	2300 (TD-LTE )	405	862		8991862	2014-03-12
+IND	Tata Teleservices Ltd	TATA TELESERVICES LTD	TATA DOCOMO	TATA DO	1800 (GSM)	405	043		8991043	2011-11-01
+IND	Tata Teleservices Ltd	TATA TELESERVICES LTD	TATA DOCOMO	TATA DO	1800 (GSM)	405	041		8991041	2011-11-01
+IND	Tata Teleservices Ltd	TATA TELESERVICES LTD	TATA DOCOMO	TATA DO	1800 (GSM)	405	044		8991044	2011-11-01
+IND	Tata Teleservices Ltd	TATA TELESERVICES LTD	TATA DOCOMO	TATA DO	1800 (GSM)	405	046		8991046	2011-11-01
+IND	Tata Teleservices Ltd	TATA TELESERVICES LTD	TATA DOCOMO	TATA DO	1800 (GSM)	405	047		8991047	2011-11-01
+IND	Tata Teleservices Ltd	TATA TELESERVICES LTD	TATA DOCOMO	TATA DO	1800 (GSM)	405	045		8991045	2011-11-01
+IND	Tata Teleservices Ltd	TATA TELESERVICES LTD	TATA DOCOMO	TATA DO	1800 (GSM)	405	042		8991042	2011-11-01
+IND	Tata Teleservices Ltd	TATA TELESERVICES LTD	TATA DOCOMO	TATA DO	1800 (GSM)	405	032		8991032	2011-11-01
+IND	Tata Teleservices Ltd	TATA TELESERVICES LTD	TATA DOCOMO	TATA DO	1800 (GSM)	405	036		8991036	2011-11-01
+IND	Tata Teleservices Ltd	TATA TELESERVICES LTD	TATA DOCOMO	TATA DO	1800 (GSM)	405	035		8991035	2011-11-01
+IND	Tata Teleservices Ltd	TATA TELESERVICES LTD	TATA DOCOMO	TATA DO	1800 (GSM)	405	034		8991034	2011-11-01
+IND	Tata Teleservices Ltd	TATA TELESERVICES LTD	TATA DOCOMO	TATA DO	1800 (GSM)	405	025		8991025	2011-11-01
+IND	Tata Teleservices Ltd	TATA TELESERVICES LTD	TATA DOCOMO	TATA DO	1800 (GSM)	405	027		8991027	2011-11-01
+IND	Tata Teleservices Ltd	TATA TELESERVICES LTD	TATA DOCOMO	TATA DO	1800 (GSM)	405	030		8991030	2011-11-01
+IND	Tata Teleservices Ltd	TATA TELESERVICES LTD	TATA DOCOMO	TATA DO	1800 (GSM)	405	038		8991038	2011-11-01
+IND	Tata Teleservices Ltd	TATA TELESERVICES LTD	TATA DOCOMO	TATA DO	1800 (GSM)	405	031		8991031	2011-11-01
+IND	Tata Teleservices Ltd	TATA TELESERVICES LTD	TATA DOCOMO	TATA DO	1800 (GSM)	405	029		8991029	2011-11-01
+IND	Tata Teleservices Ltd	Tata TeleServices(Maharashtra) Limited	TATA DOCOMO	TATA DO	1800 (GSM)	405	039		8991039	2012-07-11
+IND	Tata Teleservices Ltd	Tata TeleServices(Maharashtra) Limited	TATA DOCOMO	TATA DO	1800 (GSM)	405	037		8991037	2012-07-11
+IND	Unitech Wireless (Tamilnadu) Pvt. Ltd	uninor	IN UNITECH	UNITECH	1800 (GSM)	405	875			2009-08-28
+IND	Unitech Wireless (Tamilnadu) Pvt. Ltd	uninor	IN UNITECH	UNITECH	1800 (GSM)	405	878			2009-08-28
+IND	Unitech Wireless (Tamilnadu) Pvt. Ltd	uninor	IN UNITECH	UNITECH	1800 (GSM)	405	877			2009-08-28
+IND	Unitech Wireless (Tamilnadu) Pvt. Ltd	uninor	IN UNITECH	UNITECH	1800 (GSM)	405	814			2009-08-28
+IND	Unitech Wireless (Tamilnadu) Pvt. Ltd	uninor	IN UNITECH	UNITECH	1800 (GSM)	405	844			2012-10-25
+IND	Unitech Wireless (Tamilnadu) Pvt. Ltd	uninor	IN UNITECH	UNITECH	1800 (GSM)	405	879			2009-08-28
+IND	Unitech Wireless (Tamilnadu) Pvt. Ltd	uninor	IN UNITECH	UNITECH	1800 (GSM)	405	876			2009-08-28
+IND	Unitech Wireless (Tamilnadu) Pvt. Ltd	uninor	IN UNITECH	UNITECH	1800 (GSM)	405	880			2009-08-28
+IND	Unitech Wireless (Tamilnadu) Pvt. Ltd	uninor	IN UNITECH	UNITECH	1800 (GSM)	405	925			2009-08-28
+IND	Unitech Wireless (Tamilnadu) Pvt. Ltd	uninor	IN UNITECH	UNITECH	1800 (GSM)	405	817			2009-08-28
+IND	Unitech Wireless (Tamilnadu) Pvt. Ltd	uninor	IN UNITECH	UNITECH	1800 (GSM)	405	818			2009-08-28
+IND	Unitech Wireless (Tamilnadu) Pvt. Ltd	uninor	IN UNITECH	UNITECH	1800 (GSM)	405	816			2009-08-28
+IND	Unitech Wireless (Tamilnadu) Pvt. Ltd	uninor	IN UNITECH	UNITECH	1800 (GSM)	405	815			2009-08-28
+IND	Unitech Wireless (Tamilnadu) Pvt. Ltd	uninor	IN UNITECH	UNITECH	1800 (GSM)	405	813			2009-08-28
+IND	Unitech Wireless (Tamilnadu) Pvt. Ltd	uninor	IN UNITECH	UNITECH	1800 (GSM)	405	819			2009-08-28
+IND	Unitech Wireless (Tamilnadu) Pvt. Ltd	uninor	IN UNITECH	UNITECH	1800 (GSM)	405	929			2009-08-28
+IND	Unitech Wireless (Tamilnadu) Pvt. Ltd	uninor	IN UNITECH	UNITECH	1800 (GSM)	405	927			2009-08-28
+IND	Unitech Wireless (Tamilnadu) Pvt. Ltd	uninor	IN UNITECH	UNITECH	1800 (GSM)	405	820			2009-08-28
+IND	Unitech Wireless (Tamilnadu) Pvt. Ltd	uninor	IN UNITECH	UNITECH	1800 (GSM)	405	926			2009-08-28
+IND	Unitech Wireless (Tamilnadu) Pvt. Ltd	uninor	IN UNITECH	UNITECH	1800 (GSM)	405	928			2009-08-28
+IND	Unitech Wireless (Tamilnadu) Pvt. Ltd	uninor	IN UNITECH	UNITECH	1800 (GSM)	405	821			2009-08-28
+IND	Unitech Wireless (Tamilnadu) Pvt. Ltd	uninor	IN UNITECH	UNITECH	1800 (GSM)	405	822			2009-08-28
+IND	Videocon Telecommunications Limited	Datacom Solutions Pvt. Ltd.	VIDEOCON	VIDEOCON	1800 (GSM)	405	837		8991837	2014-03-27
+IND	Videocon Telecommunications Limited	Datacom Solutions Pvt. Ltd.	VIDEOCON	VIDEOCON	1800 (GSM)	405	838		8991838	2014-03-27
+IND	Videocon Telecommunications Limited	Datacom Solutions Pvt. Ltd.	VIDEOCON	VIDEOCON	1800 (GSM)	405	836		8991836	2014-03-27
+IND	Videocon Telecommunications Limited	Datacom Solutions Pvt. Ltd.	VIDEOCON	VIDEOCON	1800 (GSM)	405	835		8991835	2014-03-27
+IND	Videocon Telecommunications Limited	Datacom Solutions Pvt. Ltd.	VIDEOCON	VIDEOCON	1800 (GSM)	405	842		8991842	2014-03-27
+IND	Videocon Telecommunications Limited	Datacom Solutions Pvt. Ltd.	VIDEOCON	VIDEOCON	1800 (GSM)	405	834		8991834	2014-03-27
+IND	Videocon Telecommunications Limited	Datacom Solutions Pvt. Ltd.	VIDEOCON	VIDEOCON	1800 (GSM)	405	843		8991843	2014-03-27
+IND	Videocon Telecommunications Limited	Datacom Solutions Pvt. Ltd.	VIDEOCON	VIDEOCON	1800 (GSM)	405	841		8991841	2014-03-27
+IND	Videocon Telecommunications Limited	Datacom Solutions Pvt. Ltd.	VIDEOCON	VIDEOCON	1800 (GSM)	405	839		8991839	2014-03-27
+IND	Videocon Telecommunications Limited	Datacom Solutions Pvt. Ltd.	VIDEOCON	VIDEOCON	1800 (GSM)	405	828		8991828	2014-03-27
+IND	Videocon Telecommunications Limited	Datacom Solutions Pvt. Ltd.	VIDEOCON	VIDEOCON	1800 (GSM)	405	829		8991829	2014-03-27
+IND	Videocon Telecommunications Limited	Datacom Solutions Pvt. Ltd.	VIDEOCON	VIDEOCON	1800 (GSM)	405	827		8991827	2014-03-27
+IND	Videocon Telecommunications Limited	Datacom Solutions Pvt. Ltd.	VIDEOCON	VIDEOCON	1800 (GSM)	405	824		8991824	2014-03-27
+IND	Videocon Telecommunications Limited	Datacom Solutions Pvt. Ltd.	VIDEOCON	VIDEOCON	1800 (GSM)	405	823		8991823	2014-03-27
+IND	Videocon Telecommunications Limited	Datacom Solutions Pvt. Ltd.	VIDEOCON	VIDEOCON	1800 (GSM)	405	830		8991830	2014-03-27
+IND	Videocon Telecommunications Limited	Datacom Solutions Pvt. Ltd.	VIDEOCON	VIDEOCON	1800 (GSM)	405	825		8991825	2014-03-27
+IND	Videocon Telecommunications Limited	Datacom Solutions Pvt. Ltd.	VIDEOCON	VIDEOCON	1800 (GSM)	405	833		8991833	2014-03-27
+IND	Videocon Telecommunications Limited	Datacom Solutions Pvt. Ltd.	VIDEOCON	VIDEOCON	1800 (GSM)	405	832		8991832	2014-03-27
+IND	Videocon Telecommunications Limited	Datacom Solutions Pvt. Ltd.	VIDEOCON	VIDEOCON	1800 (GSM)	405	831		8991831	2014-03-27
+IND	Vodafone India Limited	Vodafone - Andhra Pradesh	Vodafone IN	Vodafone	1800 (GSM)	404	13		899113	2007-08-10
+IND	Vodafone India Limited	Vodafone - Chennai	Vodafone IN	Vodafone	1800 (GSM)	404	84		899184	2007-08-10
+IND	Vodafone India Limited	Vodafone - Delhi	Vodafone IN	Vodafone	1800 (GSM)	404	11	"5,7"	899111	2007-08-10
+IND	Vodafone India Limited	Vodafone - Delhi	Vodafone IN	Vodafone	900 (GSM)	404	11	"5,7"	899111	2007-08-10
+IND	Vodafone India Limited	Vodafone - Gujarat	Vodafone IN	Vodafone	900 (GSM)	404	05	"0,2"	899105	2007-08-10
+IND	Vodafone India Limited	Vodafone - Haryana	Vodafone IN	Vodafone	900 (GSM)	404	01	2	8991010	2007-08-10
+IND	Vodafone India Limited	Vodafone - Karnataka	Vodafone IN	Vodafone	1800 (GSM)	404	86		899186	2007-08-10
+IND	Vodafone India Limited	Vodafone - Kerala	Vodafone IN	Vodafone	900 (GSM)	404	46	2	899146	2007-09-05
+IND	Vodafone India Limited	Vodafone - Kolkata	Vodafone IN	Vodafone	900 (GSM)	404	030	"0,4"	899130	2012-07-05
+IND	Vodafone India Limited	Vodafone - Maharashtra & Goa	Vodafone IN	Vodafone	900 (GSM)	404	27	"6,2"	899127	2012-07-05
+IND	Vodafone India Limited	Vodafone - Mumbai	Vodafone IN	Vodafone	1800 (GSM)	404	20	"0,5"	899120	2012-07-05
+IND	Vodafone India Limited	Vodafone - Mumbai	Vodafone IN	Vodafone	900 (GSM)	404	20	"0,5"	899120	2012-07-05
+IND	Vodafone India Limited	Vodafone - Punjab	Vodafone IN	Vodafone	1800 (GSM)	404	88		899188	2007-08-10
+IND	Vodafone India Limited	Vodafone - Rajasthan	Vodafone IN	Vodafone	900 (GSM)	404	60	4	8991600	2007-08-10
+IND	Vodafone India Limited	Vodafone - Tamil Nadu	Vodafone IN	Vodafone	900 (GSM)	404	43	6	899143	2012-07-05
+IND	Vodafone India Limited	Vodafone - UP East	Vodafone IN	Vodafone	900 (GSM)	404	15	1	8991150	2007-08-10
+IND	Vodafone India Limited	Vodafone - UP West	Vodafone IN	Vodafone	900 (GSM)	405	66		899166	2007-08-10
+IND	Vodafone India Limited	Vodafone - West Bengal	Vodafone IN	Vodafone	900 (GSM)	405	67	7	899167	2007-08-10
+IND	Vodafone India Limited	Vodafone ASSAM	Vodafone IN	Vodafone	1800 (GSM)	405	751	7	8991751	2008-05-09
+IND	Vodafone India Limited	Vodafone BIHAR	Vodafone IN	Vodafone	1800 (GSM)	405	752	7	8991752	2008-05-08
+IND	Vodafone India Limited	Vodafone HIMACHAL PRADESH	Vodafone IN	Vodafone	1800 (GSM)	405	754	7	8991754	2008-05-08
+IND	Vodafone India Limited	Vodafone JAMMU & KASHMIR	Vodafone IN	Vodafone	1800 (GSM)	405	750	7	8991750	2008-05-12
+IND	Vodafone India Limited	Vodafone MADHYA PRADESH	Vodafone IN	Vodafone	1800 (GSM)	405	756	7	8991756	2008-05-09
+IND	Vodafone India Limited	Vodafone NORTHEAST	Vodafone IN	Vodafone	1800 (GSM)	405	755	7	8991755	2008-05-08
+IND	Vodafone India Limited	Vodafone ORISSA	Vodafone IN	Vodafone	1800 (GSM)	405	753	7	8991753	2008-05-09
+IRL	Hutchison 3G Ireland limited	Hutchison 3G Ireland	3 IRL	3 IRL	2100 (3G)	272	05		8935305	2005-03-24
+IRL	Meteor Mobile Telecommunications Limited	Meteor	IRL - METEOR	METEOR	900 (GSM)	272	03	4	8935303	2003-02-07
+IRL	Meteor Mobile Telecommunications Limited	Meteor	IRL - METEOR	METEOR	1800 (GSM)	272	03	4	8935303	2003-02-07
+IRL	Telefonica Ireland Limited	O2-IRL	O2-IRL	O2-IRL	2100 (3G)	272	02		8935302	2013-08-27
+IRL	Telefonica Ireland Limited	O2-IRL	O2-IRL	O2-IRL	1800 (GSM)	272	02	7	8935302	2013-08-27
+IRL	Telefonica Ireland Limited	O2-IRL	O2-IRL	O2-IRL	900 (GSM)	272	02	7	8935302	2013-08-27
+IRL	Vodafone Ireland Ltd.	vodafone	vodafone IE	voda IE	900 (GSM)	272	01	"0,3,4"	8935301	2012-07-05
+IRL	Vodafone Ireland Ltd.	vodafone	vodafone IE	voda IE	1800 (GSM)	272	01	"0,3,4"	8935301	2012-07-05
+IRN	Irancell Telecommunications Services Company	MTN Irancell	MTN Irancell	Irancell	900 (GSM)	432	35		8998432	2008-08-05
+IRN	Irancell Telecommunications Services Company	MTN Irancell	MTN Irancell	Irancell	1800 (GSM)	432	35		8998432	2008-08-05
+IRN	KFZO	TKC	IR KISH	KIFZO	900 (GSM)	432	14	0	8909814	2004-04-16
+IRN	Mobile Telecommunication Company of Iran	MCI	IR-TCI	IR-TCI	1800 (GSM)	432	11	"0,2"	8998110	2014-03-25
+IRN	Mobile Telecommunication Company of Iran	MCI	IR-TCI	IR-TCI	900 (GSM)	432	11	"0,2"	8998110	2014-03-25
+IRN	Rafsanjan Industrial Complex (Coop)	Taliya	Iran Taliya	Taliya	900 (GSM)	432	32		899832	2005-09-07
+IRN	Rightel Communication Services Company	Tamin Telecom	IRN 20	IRN 20	2100 (3G)	432	20		899820	2012-07-10
+IRQ	Asiacell Communications LLC	Asiacell	ASIACELL	ASIACELL	900 (GSM)	418	05	0	8996405	2012-08-13
+IRQ	Atheer Telecom Iraq	Zain Iraq	IRAQNA	IRAQNA	900 (GSM)	418	30		8996430	2003-11-27
+IRQ	Atheer Telecom Iraq	zain IQ	zain IQ	zain IQ	900 (GSM)	418	20	"0,1"	8996420	2012-07-05
+IRQ	Korek Telecom Ltd.	Korek Telecom	KOREK	KOREK	900 (GSM)	418	40		892140	2008-09-23
+ISL	Fjarskipti ehf	Vodafone Iceland	Vodafone	Vodafone	900 (GSM)	274	02	"2,4"	8935402	2007-09-28
+ISL	Fjarskipti ehf	Vodafone Iceland	Vodafone	Vodafone	1800 (GSM)	274	02	"2,4"	8935402	2007-09-28
+ISL	IMC Island ehf	Viking wireless	Viking	Viking	1800 (GSM)	274	04		8935404	2004-04-16
+ISL	Nova ehf.	NOVA	NOVA IS	NOVA	2100 (3G)	274	11		8935411	2007-07-17
+ISL	Siminn hf	NE - On-Waves	On-waves	On-waves	1800 (GSM)	274	08	0	8935408	2011-12-22
+ISL	Siminn hf	NE - On-Waves	On-waves	On-waves	900 (GSM)	274	08	0	8935408	2011-12-22
+ISL	Siminn hf	Siminn	Siminn	Siminn	900 (GSM)	274	12	0	"8935401, 8935412,"	2011-12-22
+ISL	Siminn hf	Siminn	Siminn	Siminn	1800 (GSM)	274	12	0	"8935401, 8935412,"	2011-12-22
+ISL	Siminn hf	Siminn	Siminn	Siminn	1800 (GSM)	274	01	0	"8935401, 8935412,"	2011-12-22
+ISL	Siminn hf	Siminn	Siminn	Siminn	2100 (3G)	274	12		"8935401, 8935412"	2012-07-05
+ISL	Siminn hf	Siminn	Siminn	Siminn	900 (GSM)	274	01	0	"8935401, 8935412,"	2011-12-22
+ISL	Siminn hf	Siminn	Siminn	Siminn	2100 (3G)	274	01		"8935401, 8935412"	2012-07-05
+ISR	Cellcom Israel Ltd.	Cellcom Israel 	Cellcom IL 	Cellcom	850 (3G)	425	02		8997202	2014-04-11
+ISR	Cellcom Israel Ltd.	Cellcom Israel 	Cellcom IL 	Cellcom 	2100 (3G)	425	02		8997202	2014-04-11
+ISR	Cellcom Israel Ltd.	Cellcom Israel 	Cellcom IL 	Cellcom	1800 (GSM)	425	02	"2,3"	8997202	2014-04-11
+ISR	Partner Communications Company Ltd.	Orange IL	Orange IL	OrangeIL	2100 (3G)	425	01		8997201	2014-12-03
+ISR	Partner Communications Company Ltd.	Orange IL	Orange IL	OrangeIL	900 (GSM)	425	01		8997201	2014-12-03
+ISR	Partner Communications Company Ltd.	Orange IL	Orange IL	OrangeIL	1800 (GSM)	425	01		8997201	2014-12-03
+ISR	Pelephone Communication Ltd.	Pelephone	IL Pelephone	PCL	2100 (3G)	425	03		8997250	2014-10-02
+ISR	Pelephone Communication Ltd.	Pelephone	IL Pelephone	PCL	850 (3G)	425	03		8997250	2014-10-02
+ISR	Pelephone Communication Ltd.	Pelephone	IL Pelephone	PCL	1800 (LTE)	425	03		8997250	2014-10-02
+ITA	H3G	H3G	3 ITA	3 ITA	2100 (3G)	222	99		893999	2002-10-30
+ITA	Telecom Italia SpA	TIM	I TIM	TIM	1800 (LTE)	222	01	2	893901	2014-03-20
+ITA	Telecom Italia SpA	TIM	I TIM	TIM	2100 (3G)	222	01		893901	2014-03-20
+ITA	Telecom Italia SpA	TIM	I TIM	TIM	1800 (GSM)	222	01	2	893901	2014-03-20
+ITA	Telecom Italia SpA	TIM	I TIM	TIM	900 (GSM)	222	01	2	893901	2014-03-20
+ITA	Telecom Italia SpA	TIM	I TIM	TIM	800 (LTE)	222	01	2	893901	2014-03-20
+ITA	Telecom Italia SpA	TIM	I TIM	TIM	2600 (LTE)	222	01	2	893901	2014-03-20
+ITA	Telecom Italia SpA	Telecom Italia	TIM@sea	TIM@sea	1800 (GSM)	901	26	2		2014-03-20
+ITA	Telecom Italia SpA	Telecom Italia	TIM@sea	TIM@sea	900 (GSM)	901	26	2		2014-03-20
+ITA	Vodafone Omnitel N.V.	vodafone	vodafone IT	voda IT	900 (GSM)	222	10	6	893910	2004-09-28
+ITA	Vodafone Omnitel N.V.	vodafone	vodafone IT	voda IT	1800 (GSM)	222	10	6	893910	2004-09-28
+ITA	Wind Telecomunicazioni SpA	Wind Telecomunicazioni SpA	I WIND	I WIND	900 (GSM)	222	88	7	893988	2004-04-14
+ITA	Wind Telecomunicazioni SpA	Wind Telecomunicazioni SpA	I WIND	I WIND	1800 (GSM)	222	88	7	893988	2004-04-14
+JAM	Cable & Wireless Jamaica Ltd	LIME	LIME	LIME	1900 (GSM)	338	180	1	8901018	2012-05-18
+JAM	Digicel (Jamaica) Limited	Digicel Jamaica	DIGICEL	DIGICEL	900 (GSM)	338	050	1	891050	2012-09-13
+JAM	Digicel (Jamaica) Limited	Digicel Jamaica	DIGICEL	DIGICEL	1800 (GSM)	338	050	1	891050	2012-09-13
+JEY	JERSEY AIRTEL LIMITED	Airtel-Vodafone	Airtel-Vodafone	ATL-VOD	900 (GSM)	234	03	"0,7"	894476	2012-03-13
+JEY	JERSEY AIRTEL LIMITED	Airtel-Vodafone	Airtel-Vodafone	ATL-VOD	1800 (GSM)	234	03	"0,7"	894476	2012-03-13
+JOR	Jordan Mobile Telephone Services (JMTS)	Zain JO	Zain JO	Zain JO	900 (GSM)	416	01	0	8996201	2013-02-20
+JOR	Petra Jordanian Mobile Telecommunications Company (Orange Jordan)	Orange	Orange	OrangeJO	900 (GSM)	416	77	"4,7"	8996277	2014-04-17
+JOR	Umniah Mobile Company	Umniah	UMNIAH	UMNIAH	1800 (GSM)	416	03	"1,2"	8996203	2012-07-05
+JPN	KDDI Corporation	KDDI Corporation	KDDI	KDDI	1500 (LTE)	440	50		8981300	2012-07-10
+JPN	"NTT DOCOMO, INC."	DOCOMO	JP DOCOMO	DOCOMO	2100 (3G)	440	10		8981100	2008-07-30
+JPN	SOFTBANK MOBILE Corp.	SoftBank	SoftBank	SoftBank	2100 (3G)	440	20		8981200	2006-09-01
+JPN	Ymobile Corporation	Ymobile	Ymobile	Ymobile	1700 (3G)	440	00		898100	2014-07-28
+KAZ	Joint Stock Company ALTEL	ALTEL	ALTEL	ALTEL	850 (3G)	401	07		8999707	2014-08-13
+KAZ	KaR-Tel LLP	Beeline	Beeline KZ	Beeline	900 (GSM)	401	01	3	8999701	2006-11-22
+KAZ	Kcell JSC	KCELL	KZ KCELL	KCELL	900 (GSM)	401	02	"0,7"	8999702	2012-07-05
+KAZ	Mobile Telecom-Service LLP	Tele2	Tele2	Tele2	900 (GSM)	401	77	"1,2"	8999777	2014-05-07
+KEN	Airtel Networks Kenya Limited	Airtel	Airtel	Airtel	900 (GSM)	639	03	"0,1"	8925403	2014-07-28
+KEN	Airtel Networks Kenya Limited	Airtel	Airtel	Airtel	1800 (GSM)	639	03	"0,1"	8925403	2014-07-28
+KEN	Safaricom Limited	Safaricom	Safaricom	SAF-COM	900 (GSM)	639	02	2	8925402	2004-04-16
+KEN	Telkom Kenya Limited	Orange Kenya	GSM Telkom	GSMTKL	1800 (GSM)	639	07		8925407	2011-09-15
+KEN	Telkom Kenya Limited	Orange Kenya	GSM Telkom	GSMTKL	900 (GSM)	639	07		8925407	2011-09-15
+KGZ	Alfa Telecom Joint Stock Company	MEGACOM	MEGACOM	MEGACOM	900 (GSM)	437	05	3	8999605	2006-01-30
+KGZ	Alfa Telecom Joint Stock Company	MEGACOM	MEGACOM	MEGACOM	1800 (GSM)	437	05	3	8999605	2006-01-30
+KGZ	NurTelecom LLC	O!	O!	O!	1800 (GSM)	437	09		8999609	2008-08-26
+KGZ	NurTelecom LLC	O!	O!	O!	900 (GSM)	437	09		8999609	2008-08-26
+KHM	CamGSM	Cellcard	Cellcard	Cellcard	900 (GSM)	456	01	5	8985501	2013-07-19
+KHM	Cambodia Advance Communications Co. Ltd (CADCOMMS)	CADCOMMS	CADCOMMS	CADCOMMS	1800 (GSM)	456	04		8985504	2012-07-05
+KHM	Cambodia Advance Communications Co. Ltd (CADCOMMS)	CADCOMMS	CADCOMMS	CADCOMMS	2100 (3G)	456	04		8985504	2012-07-05
+KHM	"Latelz Co., Ltd"	SMART	SMART	SMART	2100 (3G)	456	06		"8985505, 8985506"	2012-07-05
+KHM	"Latelz Co., Ltd"	SMART	SMART	SMART	2100 (3G)	456	05		"8985505, 8985506"	2012-07-05
+KHM	"Latelz Co., Ltd"	SMART	SMART	SMART	1800 (GSM)	456	06	3	8985506	2012-01-17
+KHM	"Latelz Co., Ltd"	SMART	SMART	SMART	900 (GSM)	456	06	3	8985506	2012-01-17
+KHM	"Mfone Co., Ltd"	Mfone	Mfone	Mfone	1800 (GSM)	456	18	7	8985518	2012-07-05
+KHM	"Mfone Co., Ltd"	Mfone	Mfone	Mfone	2100 (3G)	456	18		8985518	2012-07-05
+KHM	Sotelco Ltd.	Beeline-KH	Beeline KH	Beeline	900 (GSM)	456	09	"0,7"	"8985509090, 8985509081"	2011-09-15
+KHM	Sotelco Ltd.	Beeline-KH	Beeline KH	Beeline	1800 (GSM)	456	09	"0,7"	"8985509090, 8985509081"	2011-09-15
+KHM	"VIETTEL (CAMBODIA) PTE., LTD"	Metfone	Metfone	Metfone	1800 (GSM)	456	08	"0,7"	8985508	2012-07-05
+KHM	"VIETTEL (CAMBODIA) PTE., LTD"	Metfone	Metfone	Metfone	900 (GSM)	456	08	"0,7"	8985508	2012-07-05
+KIR	Telecom Services Kiribati Limited (TSKL)	Kiribati Frigate	KL-Frigate	KI-FRIG	900 (GSM)	545	09		8968672	2004-04-16
+KNA	Cable & Wireless St. Kitts & Nevis Ltd	LIME	LIME	LIME	850 (GSM)	356	110	4	8901020	2012-05-18
+KNA	Cable & Wireless St. Kitts & Nevis Ltd	LIME	LIME	LIME	1900 (GSM)	356	110	4	8901020	2012-05-18
+KOR	CHEO Technology JV Company	Koryolink	Koryolink	KL-DPRK	2100 (3G)	467	05		8985005	2011-03-10
+KOR	KT Corporation	KT	KT	KT	2100 (3G)	450	08		"8945002, 8945008"	2009-06-26
+KOR	KT Corporation	KT	KT	KT	2100 (3G)	450	02		"8945002, 8945008"	2009-06-26
+KOR	LG Uplus Corp.	LG Uplus Corp	KOR LG Uplus	LG U+	2100 (LTE)	450	06		898206	2012-11-07
+KOR	LG Uplus Corp.	LG Uplus Corp	KOR LG Uplus	LG U+	800 (LTE)	450	06		898206	2012-11-07
+KOR	SK Telecom	SK Telecom	KOR SK Telecom	SKT	2100 (3G)	450	05		898205	2005-03-14
+KWT	Kuwait Telecom Company	VIVA KUWAIT	"KT, VIVA"	VIVA	1800 (GSM)	419	04		8996504	2012-03-26
+KWT	Kuwait Telecom Company	VIVA KUWAIT	"KT, VIVA"	VIVA	1900 (3G)	419	04		8996504	2012-02-21
+KWT	Kuwait Telecom Company	VIVA KUWAIT	"KT, VIVA"	VIVA	900 (GSM)	419	04		8996504	2012-03-26
+KWT	Mobile Telecommunications Co.	zain KW	Zain KW	zain KW	2100 (3G)	419	02		899659	2012-07-05
+KWT	Mobile Telecommunications Co.	zain KW	Zain KW	zain KW	900 (GSM)	419	02	"2,3,4,5"	899659	2012-07-05
+KWT	Mobile Telecommunications Co.	zain KW	Zain KW	zain KW	1800 (GSM)	419	02	"2,3,4,5"	899659	2012-07-05
+KWT	National Mobile Telecommunications Company (K.S.C)	Ooredoo	Ooredoo	Ooredoo	2100 (3G)	419	03		8996503	2014-06-09
+KWT	National Mobile Telecommunications Company (K.S.C)	Ooredoo	Ooredoo	Ooredoo	1800 (GSM)	419	03		8996503	2014-06-09
+KWT	National Mobile Telecommunications Company (K.S.C)	Ooredoo	Ooredoo	Ooredoo	1800 (LTE)	419	03		8996503	2014-06-09
+KWT	National Mobile Telecommunications Company (K.S.C)	Ooredoo	Ooredoo	Ooredoo	900 (GSM)	419	03		8996503	2014-06-09
+LAO	ETL Public Company	ETL MOBILE	ETL MOBILE NETWORK	ETLMNW	900 (GSM)	457	02	"0,2"	8945702	2012-07-05
+LAO	"Lao Telecommunications Co., Ltd."	LAO TELECOMMUNICATIONS	LAO GSM	LAO GSM	900 (GSM)	457	01			2014-09-16
+LAO	Star Telecom Company Limited (STL)	LAT	Unitel	UNITEL	1800 (GSM)	457	03	"0,8"	8945703	2012-07-05
+LAO	Star Telecom Company Limited (STL)	LAT	Unitel	UNITEL	900 (GSM)	457	03	"0,8"	8945703	2012-07-05
+LAO	"VimpelCom Lao, Ltd"	Beeline	TIGO LAO	TIGO	900 (GSM)	457	08	0	8985608	2009-09-20
+LAO	"VimpelCom Lao, Ltd"	Beeline	TIGO LAO	TIGO	1800 (GSM)	457	08	0	8985608	2009-09-20
+LBN	MIC 1	Alfa	alfa	alfa	900 (GSM)	415	01	7	8996101	2004-11-11
+LBN	Ogero Telecom	Ogero Mobile (OM)	LBN OGERO Mobile	OM	900 (GSM)	415	05	5	8996105	2008-04-21
+LBR	"Cellcom Telecommunications, Inc"	Cellcom	Celcom GSM	Celcom	1800 (GSM)	618	07	"0,7"	8923103	2012-07-05
+LBR	"Cellcom Telecommunications, Inc"	Cellcom	Celcom GSM	Celcom	900 (GSM)	618	07	"0,7"	8923103	2012-07-05
+LBR	Lonestar Communications Corporation	Lonestar Cell	LBR Lonestar Cell	LoneStar	900 (GSM)	618	01	"0,1"	8923101	2012-03-05
+LBR	Novafone Inc.	Novafone Inc	Novafone 4G	Novafone	1800 (GSM)	618	04		8923105	2014-03-20
+LBR	Novafone Inc.	Novafone Inc	Novafone 4G	Novafone	2100 (3G)	618	04		8923105	2014-03-20
+LBR	Novafone Inc.	Novafone Inc	Novafone 4G	Novafone	900 (GSM)	618	04		8923105	2014-03-20
+LBY	AL MADAR AL JADID	MADAR	Al Madar	Al Madar	900 (GSM)	606	01		8921801	2010-03-10
+LBY	Libyana Mobile Phone	Libyana Mobile Phone	Libyana	L	900 (GSM)	606	00	"0,1"	89218000	2012-07-05
+LCA	Cable & Wireless (St. Lucia) Ltd	LIME	LIME	LIME	850 (GSM)	358	110	5	8901021	2012-05-18
+LCA	Digicel (St Lucia) Limited	Digicel (St Lucia)	DIGICEL	DIGICEL	900 (GSM)	358	050			2004-11-05
+LCA	Digicel (St Lucia) Limited	Digicel (St Lucia)	DIGICEL	DIGICEL	1900 (GSM)	358	050			2004-11-05
+LCA	Digicel (St Lucia) Limited	Digicel (St Lucia)	DIGICEL	DIGICEL	1800 (GSM)	358	050			2004-11-05
+LIE	Mobilkom (Liechtenstein) AG	FL1	FL1	FL1	900 (GSM)	295	05	2	8942305	2002-10-10
+LIE	Mobilkom (Liechtenstein) AG	FL1	FL1	FL1	2100 (3G)	295	05		8942305	2007-03-20
+LIE	Mobilkom (Liechtenstein) AG	FL1	FL1	FL1	1800 (GSM)	295	05	2	8942305	2002-10-10
+LIE	Orange (Liechtenstein) AG	Orange FL	Orange FL	OFL	1800 (GSM)	295	02	2	8942302	2004-04-16
+LIE	Orange (Liechtenstein) AG	Orange FL	Orange FL	OFL	900 (GSM)	295	02	2	8942302	2004-04-16
+LIE	Swisscom (Switzerland) Ltd (Liechtenstein)	Swisscom	SwisscomFL	Swiss FL	1800 (GSM)	295	01	"1,5"	894101	2012-09-12
+LIE	Swisscom (Switzerland) Ltd (Liechtenstein)	Swisscom	SwisscomFL	Swiss FL	900 (GSM)	295	01	"1,5"	894101	2012-09-12
+LIE	Swisscom (Switzerland) Ltd (Liechtenstein)	Swisscom	SwisscomFL	Swiss FL	2100 (3G)	295	01		894101	2013-02-20
+LKA	Bharti Airtel Lanka (Private) Limited	airtel	SRI AIRTEL	Airtel	2100 (3G)	413	05		899405	2014-04-17
+LKA	Bharti Airtel Lanka (Private) Limited	airtel	SRI AIRTEL	Airtel	900 (GSM)	413	05		899405	2014-04-17
+LKA	Bharti Airtel Lanka (Private) Limited	airtel	SRI AIRTEL	Airtel	1800 (GSM)	413	05		899405	2014-04-17
+LKA	Dialog Axiata Plc	DIALOG	DIALOG	DIALOG	900 (GSM)	413	02	7	899402	2014-11-13
+LKA	Dialog Axiata Plc	DIALOG	DIALOG	DIALOG	2100 (3G)	413	02		899402	2014-11-13
+LKA	Dialog Axiata Plc	DIALOG	DIALOG	DIALOG	1800 (LTE)	413	02		899402	2014-11-13
+LKA	Dialog Axiata Plc	DIALOG	DIALOG	DIALOG	1800 (GSM)	413	02	7	899402	2014-11-13
+LKA	Hutchison Telecommunications Lanka (Pte) Limited	Hutchison Telecommunications Lanka (Pte)	Hutch	Hutch	1800 (GSM)	413	08	2	899408	2004-11-30
+LKA	Hutchison Telecommunications Lanka (Pte) Limited	Hutchison Telecommunications Lanka (Pte)	Hutch	Hutch	900 (GSM)	413	08	2	899408	2004-11-30
+LSO	Econet Telecom Lesotho (Pty) Ltd (ETL)	Econet Telecom Lesotho (Pty) Ltd	LS-ETL	ETL	900 (GSM)	651	02	"0,5"	8926602	2012-03-05
+LTU	OMNITEL	OMNITEL	OMNITEL LT	OMT	900 (GSM)	246	01	3	8937001	2003-02-07
+LTU	UAB Bit? Lietuva	BITE GSM	LT BITE GSM	BITE	1800 (GSM)	246	02	7	8937002	2004-04-16
+LTU	UAB Bit? Lietuva	BITE GSM	LT BITE GSM	BITE	900 (GSM)	246	02	7	8937002	2004-04-16
+LTU	UAB TELE2	TELE2	Tele2 LT	Tele2 LT	1800 (GSM)	246	03	3	8937003	2010-03-30
+LTU	UAB TELE2	TELE2	Tele2 LT	Tele2 LT	900 (GSM)	246	03	3	8937003	2010-03-30
+LUX	Orange Communications Luxembourg S.A.	Orange	L Orange-LU	Orange	2100 (3G)	270	99		8935299	2009-10-05
+LUX	Orange Communications Luxembourg S.A.	Orange	L Orange-LU	Orange	900 (GSM)	270	99		8935299	2009-10-05
+LUX	Orange Communications Luxembourg S.A.	Orange	L Orange-LU	Orange	1800 (GSM)	270	99		8935299	2009-10-05
+LUX	P & T Luxembourg	LUXGSM	L LUXGSM	LUXGSM	1800 (GSM)	270	01	2	8935201	2005-01-06
+LUX	P & T Luxembourg	LUXGSM	L LUXGSM	LUXGSM	900 (GSM)	270	01	2	8935201	2005-01-06
+LUX	TANGO SA	TANGO	L TANGO	TANGO	900 (GSM)	270	77	"0,2"	8935277	2012-07-05
+LUX	TANGO SA	TANGO	L TANGO	TANGO	1800 (GSM)	270	77	"0,2"	8935277	2012-07-05
+LVA	Latvijas Mobilais Telefons	LMT	LV LMT	LMT	1800 (GSM)	247	01	2	8937101	2012-09-12
+LVA	Latvijas Mobilais Telefons	LMT	LV LMT	LMT	900 (GSM)	247	01	2	8937101	2012-09-12
+LVA	Latvijas Mobilais Telefons	LMT	LV LMT	LMT	900 (3G)	247	01		8937101	2012-09-12
+LVA	Latvijas Mobilais Telefons	LMT	LV LMT	LMT	2100 (3G)	247	01		8937101	2012-09-12
+LVA	SIA Bite Latvija	Bite Latvija	BITE LV	BITE LV	2100 (3G)	247	05		8937105	2012-07-05
+LVA	SIA Bite Latvija	Bite Latvija	BITE LV	BITE LV	1800 (GSM)	247	05	4	8937105	2005-09-21
+LVA	SIA Bite Latvija	Bite Latvija	BITE LV	BITE LV	900 (GSM)	247	05	4	8937105	2005-09-21
+LVA	TELE2	TELE2	Tele2 LV	Tele2 LV	1800 (GSM)	247	02	6	8937102	2010-03-30
+LVA	TELE2	TELE2	Tele2 LV	Tele2 LV	900 (GSM)	247	02	6	8937102	2010-03-30
+MAC	CTM	CTM	CTM	CTM	2100 (3G)	455	04		8985301	2007-06-13
+MAC	CTM	CTM	CTM	CTM	900 (GSM)	455	01	5	8985301	2006-07-04
+MAC	CTM	CTM	CTM	CTM	1800 (GSM)	455	01	5	8985301	2006-07-04
+MAC	Hutchison Telephone (Macau) Company Ltd	3 Macau	3 Macau	3 Macau	900 (3G)	455	03		8985303	2012-10-26
+MAC	Hutchison Telephone (Macau) Company Ltd	3 Macau	3 Macau	3 Macau	900 (GSM)	455	03	3	8985303	2012-10-19
+MAC	Hutchison Telephone (Macau) Company Ltd	3 Macau	3 Macau	3 Macau	2100 (3G)	455	03		8985303	2012-10-26
+MAC	Hutchison Telephone (Macau) Company Ltd	3 Macau	3 Macau	3 Macau	1800 (GSM)	455	03	3	8985303	2012-10-19
+MAC	SmarTone Mobile Communications (Macau) Ltd	SmarTone	SmarTone MAC	SMC MAC	1800 (GSM)	455	00	0	8985300	2011-11-09
+MAC	SmarTone Mobile Communications (Macau) Ltd	SmarTone	SmarTone MAC	SMC MAC	900 (GSM)	455	00	0	8985300	2011-11-09
+MAF	United Telecommunications Services Caraibe SARL	Tel Cell	CHIPPIE	CHIPPIE	900 (GSM)	340	03	"0,7"	895999	2009-12-04
+MAF	United Telecommunications Services Caraibe SARL	Tel Cell	CHIPPIE	CHIPPIE	1800 (GSM)	340	03	"0,7"	895999	2009-12-04
+MCO	Monaco Telecom S.A.M.	Monaco Telecom	Monaco	MONACO	2100 (3G)	212	10		8921210	2012-07-05
+MCO	Monaco Telecom S.A.M.	Monaco Telecom	vala	vala	900 (GSM)	212	01	"0,1"	8937701	2012-03-13
+MDA	MOLDTELECOM	UNITE	UNITE	UNITE	2100 (3G)	259	05		8937303	2011-09-15
+MDA	MOLDTELECOM	UNITE	UNITE	UNITE	1900 (3G)	259	05		8937303	2011-09-15
+MDA	Moldcell SA	MOLDCELL	MD MOLDCELL	MDCELL	900 (GSM)	259	02	2	8937302	2004-04-16
+MDA	Orange Moldova S.A.	VoXtel	Orange MD	Orange	900 (GSM)	259	01	1	8937301	2007-03-20
+MDG	Airtel Madagascar SA	Airtel	Airtel	Airtel	1800 (GSM)	646	01	"0,7"	8926101	2014-07-21
+MDG	Airtel Madagascar SA	Airtel	Airtel	Airtel	900 (GSM)	646	01	"0,7"	8926101	2014-07-21
+MDG	Orange Madagascar S.A.	Orange Madagascar	Orange MG	OrangeMG	900 (GSM)	646	02	0	8926102	2011-09-15
+MDG	Telma Mobile SA	Telma Mobile	TELMA	TELMA	900 (GSM)	646	04			2006-10-02
+MDV	Dhivehi Raajjeyge Gulhun Private Ltd	DHIRAAGU	DHIRAAGU	DHIRAAGU	900 (GSM)	472	01	0	8996001	2013-05-01
+MDV	Ooredoo Maldives Private Ltd	Ooredoo Maldives PVT LTD	Ooredoo Maldives PVT LTD	Ooredoo	2100 (3G)	472	02		8996002	2014-04-07
+MDV	Ooredoo Maldives Private Ltd	Ooredoo Maldives PVT LTD	Ooredoo Maldives PVT LTD	Ooredoo	900 (GSM)	472	02	"0,2"	8996002	2014-04-07
+MEX	Iusacell S.A. de C.V.	Iusacell 4G	Iusacell 4G	Iusacell	1900 (3G)	334	50		8952050	2012-07-05
+MEX	Iusacell S.A. de C.V.	Iusacell 4G	Iusacell 4G	Iusacell	850 (3G)	334	050		8952050	2012-07-05
+MEX	Iusacell S.A. de C.V.	Iusacell GSM	Iusacell GSM	Iusacell	1900 (GSM)	334	050	"0,7"	8952050	2012-07-05
+MEX	Iusacell S.A. de C.V.	Iusacell GSM	Iusacell GSM	Iusacell	850 (GSM)	334	050	"0,7"	8952050	2012-07-05
+MEX	"NII Digital, S. de R.L. de C.V."	Nextel Mexico	Nextel 3G	Nextel3G	1700 (3G)	334	090		8952090	2013-02-26
+MEX	"NII Digital, S. de R.L. de C.V."	Nextel Mexico	Nextel 3G	Nextel3G	2100 (3G)	334	090		8952090	2013-02-26
+MEX	"Pegaso PCS, S.A. de C.V."	Movistar	Movistar	Movistar	1900 (GSM)	334	03	"0,6"	895203	2014-11-13
+MEX	Radiomovil Dipsa SA de CV (TELCEL)	TELCEL	TELCEL	TELCEL	850 (3G)	334	020		8952020	2012-07-05
+MEX	Radiomovil Dipsa SA de CV (TELCEL)	TELCEL GSM	TELCEL	TELCEL	1900 (GSM)	334	020	2	8952020	2011-07-22
+MKD	ONE Telecommunications Services DOO Skopje	ONE	ONE MK	ONE	1900 (3G)	294	02		8938902	2012-09-12
+MKD	ONE Telecommunications Services DOO Skopje	ONE	ONE MK	ONE	2100 (3G)	294	02		8938902	2012-09-12
+MKD	ONE Telecommunications Services DOO Skopje	ONE	ONE MK	ONE	900 (GSM)	294	02	6	8938902	2012-09-12
+MKD	T-Mobile Macedonia	T-Mobile Macedonia	T-Mobile MK	TMO MK	900 (GSM)	294	01	2	8938901	2006-09-14
+MKD	VIP OPERATOR DOOEL Skopje	VIP MKD	Vip MKD	Vip MKD	900 (GSM)	294	03	4	8938903	2007-10-08
+MKD	VIP OPERATOR DOOEL Skopje	VIP MKD	Vip MKD	Vip MKD	1800 (GSM)	294	03	4	8938903	2007-10-08
+MLI	Malitel SA	MALITEL	MALITEL ML	MALITEL	900 (GSM)	610	01		8922301	2004-04-16
+MLI	Orange Mali SA	Orange MALI	ORANGE ML	OML	900 (GSM)	610	02		8922302	2006-11-13
+MLT	Melita Mobile Ltd.	Melita Mobile Ltd	Telecoms Malta	MT	900 (3G)	278	77		8935677	2013-06-04
+MLT	Melita Mobile Ltd.	Melita Mobile Ltd	3GT MT	3GT	2100 (3G)	278	77		8935677	2013-03-12
+MLT	Mobisle Communications Limited	go mobile	go mobile	gomobile	1800 (GSM)	278	21	4	8935621	2004-04-16
+MLT	Vodafone Malta Limited	vodafone	vodafone MT	voda MT	900 (GSM)	278	01	"0,5"	8935601	2012-07-05
+MMR	Myanmar Posts and Telecommunications	MPT GSM Network	MM 900	MPTGSM	900 (GSM)	414	01	1	8995011	2004-04-16
+MMR	Ooredoo Myanmar Limited	Ooredoo	Ooredoo	Ooredoo	2100 (3G)	414	05		899505	2014-12-02
+MMR	Ooredoo Myanmar Limited	Ooredoo	Ooredoo	Ooredoo	900 (3G)	414	05		899505	2014-12-02
+MNE	Crnogorski Telekom a.d. Podgorica 	Telekom.me	Telekom.me	T.me	2100 (3G)	297	02		8938200	2014-08-13
+MNE	Crnogorski Telekom a.d. Podgorica 	Telekom.me	Telekom.me	T.me	900 (GSM)	297	02	3	8938200	2014-08-13
+MNE	Crnogorski Telekom a.d. Podgorica 	Telekom.me	Telekom.me	T.me	1800 (GSM)	297	02	3	8938200	2014-08-13
+MNE	Crnogorski Telekom a.d. Podgorica 	Telekom.me	Telekom.me	T.me	1800 (LTE)	297	02		8938200	2014-08-13
+MNE	Telenor D.o.o. Podgorica	Telenor	Telenor	Telenor	1800 (GSM)	297	01	7	8938201	2013-06-17
+MNE	Telenor D.o.o. Podgorica	Telenor	Telenor	Telenor	1800 (LTE)	297	01		8938201	2013-07-31
+MNE	Telenor D.o.o. Podgorica	Telenor	Telenor	Telenor	900 (GSM)	297	01	7	8938201	2013-06-17
+MNE	Telenor D.o.o. Podgorica	Telenor	Telenor	Telenor	2100 (3G)	297	01		8938201	2013-06-17
+MNG	G- Mobile Corporation	G-Mobile Corporation	GMOBILE_MN	GMOBILE	1900 (3G)	428	06		8997606	2012-08-03
+MNG	G- Mobile Corporation	G-Mobile Corporation	GMOBILE_MN	GMOBILE	2100 (3G)	428	06		8997606	2012-08-03
+MNG	MobiCom	MobiCom	MN MobiCom	MobiCom	900 (GSM)	428	99	3	8997699	2004-04-16
+MNG	SKYTEL LLC	Skytel	Skytel MN	Skytel	2100 (3G)	428	01		8997691	2014-03-20
+MNG	Unitel LLC	Unitel	MONGOLIA UNITEL LLC	UNTLMN	900 (GSM)	428	88		8997688	2006-09-01
+MNG	Unitel LLC	Unitel	MONGOLIA UNITEL LLC	UNTLMN	1800 (GSM)	428	88		8997688	2006-09-01
+MNG	Unitel LLC	Unitel	MONGOLIA UNITEL LLC	UNTLMN	2100 (3G)	428	88		8997688	2012-10-04
+MNP	"Docomo Pacific, Inc."	DOCOMO PACIFIC	DOCOMO PACIFIC	DOCOMOPA	1900 (GSM)	310	370		891377 	2014-10-07
+MNP	"Docomo Pacific, Inc."	DOCOMO PACIFIC	DOCOMO PACIFIC	DOCOMOPA	1900 (3G)	310	370		891377 	2014-10-07
+MNP	"Docomo Pacific, Inc."	DOCOMO PACIFIC	DOCOMO PACIFIC	DOCOMOPA	850 (3G)	310	370		891377 	2014-10-07
+MOR	Itissalat Al-Maghrib S.A.	IAM	MOR IAM	IAM	900 (GSM)	604	01	1	8921201	2011-10-21
+MOR	Itissalat Al-Maghrib S.A.	IAM	MOR IAM	IAM	2100 (3G)	604	01		8921201	2013-08-06
+MOR	Itissalat Al-Maghrib S.A.	IAM	MOR IAM	IAM	1800 (GSM)	604	01	1	8921201	2013-08-06
+MOR	Medi Telecom	MEDITEL	MOR MEDITEL	MEDITEL	900 (GSM)	604	00	3	8921200	2002-11-14
+MOZ	Mocambique Celular S.A.R.L (mcel)	mcel	MOZ - mCel	mCel	1800 (GSM)	643	01	0	8925801	2003-08-20
+MOZ	Mocambique Celular S.A.R.L (mcel)	mcel	MOZ - mCel	mCel	900 (GSM)	643	01	0	8925801	2003-08-20
+MOZ	Movitel S.A.	MOVITEL	MOVITEL	MOVITEL	1800 (GSM)	643	03		8925803	2012-03-27
+MOZ	Movitel S.A.	MOVITEL	MOVITEL	MOVITEL	2100 (3G)	643	03		8925803	2012-07-10
+MOZ	Movitel S.A.	MOVITEL	MOVITEL	MOVITEL	900 (GSM)	643	03		8925803	2012-03-27
+MOZ	"VM, S.A."	Vodacom Mozambique	VodaCom-MZ	VodaCom	900 (GSM)	643	04		8925804	2014-06-13
+MOZ	"VM, S.A."	Vodacom Mozambique	VodaCom-MZ	VodaCom	1800 (GSM)	643	04		8925804	2014-06-13
+MRT	CHINGUITEL S.A.	Chinguitel	MR Expresso	EMR	2100 (3G)	609	02		8922202	2012-07-05
+MRT	CHINGUITEL S.A.	Chinguitel	MR Expresso	EMR	900 (GSM)	609	02	"0,4"	8922202	2012-03-05
+MRT	CHINGUITEL S.A.	Chinguitel	MR Expresso	EMR	1800 (GSM)	609	02	"0,4"	8922202	2012-03-05
+MRT	MATTEL	MATTEL	MR MATTEL	MATTEL	900 (GSM)	609	01	5	8922201	2004-04-16
+MRT	MAURITEL MOBILES	MAURITEL	MAURITEL	MAURITEL	900 (GSM)	609	10		8922210	2012-10-19
+MRU	Cellplus Mobile Communications Ltd.	ORANGE MRU	CELLPLUS-MRU	CELL +	900 (GSM)	617	01	0	8923001	2003-03-11
+MRU	Emtel Ltd	EMTEL	EMTEL-MRU	EMTEL	900 (GSM)	617	10	"0,1"	8923002	2012-07-05
+MSR	Cable & Wireless (West Indies) Ltd	LIME	LIME	LIME	850 (GSM)	354	860	3	8901019	2012-05-18
+MUS	Mahanagar Telephone (Mauritius) Ltd	MTML	MTML	MTML	900 (GSM)	617	03		8923003	2012-02-21
+MWI	Airtel Malawi Limited	Airtel	Airtel	Airtel	900 (GSM)	650	10	0	8926502	2014-07-21
+MWI	Telekom Networks Malawi Ltd	TNM	TNM	TNM	900 (GSM)	650	01	0	8926501	2008-04-01
+MWI	Telekom Networks Malawi Ltd	TNM	TNM	TNM	1800 (GSM)	650	01	0	8926501	2008-04-01
+MYS	ALTEL Communications Sdn Bhd	ALTEL	MYSALTEL	ALTEL	2600 (LTE)	502	156		8960156	2014-10-31
+MYS	Celcom Axiata Berhad	CELCOM GSM	MY CELCOM	CELCOM	900 (GSM)	502	19	"3,7"	896019	2012-07-05
+MYS	Celcom Axiata Berhad	Celcom Malaysia	MY CELCOM 3G	CELCOM	2100 (3G)	502	13		896019	2005-03-14
+MYS	DiGi Telecommunications Sdn Bhd	DiGi	DiGi	DiGi	1800 (GSM)	502	16	"0,1"	896016	2012-07-05
+MYS	Maxis Communications Berhad	MMS & MB	MY MAXIS	MY MAXIS	900 (GSM)	502	12	5	896001	2004-04-16
+MYS	Maxis Communications Berhad	MMS & MB	MY MAXIS	MY MAXIS	1800 (GSM)	502	12	5	896001	2004-04-16
+MYS	U Mobile Sdn. Bhd.	U Mobile	U MOBILE	U MOBILE	2100 (3G)	502	18		896018	2013-08-06
+Mar	Wana Corporate S.A.	WANA	inwi	inwi	1800 (GSM)	604	02		8921202	2013-03-15
+Mar	Wana Corporate S.A.	WANA	inwi	inwi	900 (GSM)	604	02		8921202	2013-03-15
+NAM	MTC Namibia	MTC	MTC NAMIBIA	MTCNAM	1800 (GSM)	649	01	0	8926401	2004-04-16
+NAM	MTC Namibia	MTC	MTC NAMIBIA	MTCNAM	900 (GSM)	649	01	0	8926401	2004-04-16
+NAM	Telecom Namibia Limited	tnmobile?	tnmobile	tnmobile	900 (GSM)	649	03		8926403	2013-07-17
+NAM	Telecom Namibia Limited	tnmobile?	tnmobile	tnmobile	1800 (GSM)	649	03		8926403	2013-07-17
+NCL	OPT New Caledonia	MOBILIS	NCL MOBILIS	MOBNCL	900 (GSM)	546	01	3	8968701	2003-09-04
+NER	Celtel Niger S.A.	Airtel	Airtel	Airtel	900 (GSM)	614	02	"0,5"	8922702	2014-07-02
+NER	Orange Niger S.A	Orange Niger	Orange NE	Orange	1800 (GSM)	614	04		8922704	2009-02-26
+NER	Orange Niger S.A	Orange Niger	Orange NE	Orange	900 (GSM)	614	04		8922704	2009-02-26
+NER	Telecel Niger SA	ETISALAT	ETISALAT NER	ETISALAT	900 (GSM)	614	03	"0,7"	8922703	2012-01-16
+NFK	Norfolk Telecom	Norfolk Telecom	Norfolk Telecom	NT	900 (GSM)	505	10	0	8967210	2011-11-01
+NGA	Airtel Networks Limited	Airtel	Airtel	Airtel	900 (GSM)	621	20		8923462120	2014-07-02
+NGA	Airtel Networks Limited	Airtel	Airtel	Airtel	1800 (GSM)	621	20		8923462120	2014-07-02
+NGA	Emerging Markets Telecommunication Services Ltd	Etisalat Nigeria	Etisalat Nigeria	Etisalat	1800 (GSM)	621	60		8923460	2013-07-31
+NGA	Emerging Markets Telecommunication Services Ltd	Etisalat Nigeria	Etisalat Nigeria	Etisalat	900 (GSM)	621	60		8923460	2013-07-31
+NGA	Globacom Limited	Glo Mobile	Glo NG	glo	900 (GSM)	621	50		8923450	2014-12-02
+NGA	Globacom Limited	Glo Mobile	Glo NG	glo	1800 (GSM)	621	50		8923450	2014-12-02
+NGA	MTN Nigeria Communications Limited	MTN Nigeria	MTN - NG	MTN-NG	1800 (GSM)	621	30	"0,7"	8923430	2012-07-05
+NGA	MTN Nigeria Communications Limited	MTN Nigeria	MTN - NG	MTN-NG	900 (GSM)	621	30	"0,7"	8923430	2012-07-05
+NIC	Empresa Nicaraguense de Telecomunicaciones S.A. - ENITEL	CLARO NIC	CLARO NIC	ClaroNIC	850 (GSM)	710	73		8950573	2012-09-25
+NIC	Empresa Nicaraguense de Telecomunicaciones S.A. - ENITEL	CLARO NIC	CLARO NIC	ClaroNIC	1900 (GSM)	710	21		8950573	2012-09-25
+NIC	Empresa Nicaraguense de Telecomunicaciones S.A. - ENITEL	CLARO NIC	CLARO NIC	ClaroNIC	1900 (GSM)	710	73		8950573	2012-09-25
+NIC	Empresa Nicaraguense de Telecomunicaciones S.A. - ENITEL	CLARO NIC	CLARO NIC	ClaroNIC	850 (GSM)	710	21		8950573	2012-09-25
+NIC	Empresa Nicaraguense de Telecomunicaciones S.A. - ENITEL	CLARO NIC	CLARO NIC	ClaroNIC	850 (3G)	710	73		8950521	2012-09-25
+NIC	Empresa Nicaraguense de Telecomunicaciones S.A. - ENITEL	CLARO NIC	CLARO NIC	ClaroNIC	850 (3G)	710	21		8950521	2012-09-25
+NIC	Telefonia Celular de Nicaragua S.A.	movistarNI	MOVISTARNI	movistar	850 (GSM)	710	300	"0,4"	8950530	2012-07-05
+NLD	KPN B.V.	KPN B.V.	NL KPN	NL KPN	1800 (GSM)	204	08	0	893108	2014-10-02
+NLD	KPN B.V.	KPN B.V.	NL KPN	NL KPN	900 (GSM)	204	08	0	893108	2014-10-02
+NLD	KPN B.V.	Telfort B.V.	NL Telfort	NL Tlfrt	1800 (GSM)	204	12	"0,7"	893126	2014-10-02
+NLD	T-Mobile Netherlands B.V	T-Mobile NL	T-Mobile NL	TMO NL	1800 (GSM)	204	16		8931169	2004-11-15
+NLD	T-Mobile Netherlands B.V	T-Mobile NL	T-Mobile NL	TMO NL	2100 (3G)	204	16		8931169	2005-08-30
+NLD	Tele2 Mobiel B.V.	Tele2 Nederland	Tele2 NL	Tele2	2600 (LTE)	204	02		8931422	2014-10-02
+NLD	Tele2 Mobiel B.V.	Tele2 Nederland	Tele2 NL	Tele2	800 (LTE)	204	02		8931422	2014-10-02
+NLD	Vodafone Libertel B.V.	vodafone	vodafone NL	voda NL	900 (GSM)	204	04	4	893144	2014-07-02
+NLD	Vodafone Libertel B.V.	vodafone	vodafone NL	voda NL	2100 (3G)	204	04		893144	2014-07-02
+NLD	Vodafone Libertel B.V.	vodafone	vodafone NL	voda NL	1800 (LTE )	204	04		893144	2014-07-02
+NLD	Vodafone Libertel B.V.	vodafone	vodafone NL	voda NL	800 (LTE )	204	04		893144	2014-07-02
+NLD	Vodafone Libertel B.V.	vodafone	vodafone NL	voda NL	1800 (GSM)	204	04	4	893144	2014-07-02
+NLD	Vodafone Libertel B.V.	vodafone	vodafone NL	voda NL	2600 (LTE )	204	04		893144	2014-07-02
+NOR	Mobile Norway AS	Mobile Norway	Mobile Norway	Mobile N	900 (GSM)	242	05	5	894705	2009-12-11
+NOR	Mobile Norway AS	Mobile Norway	Mobile Norway	Mobile N	2100 (3G)	242	04		894704	2012-07-05
+NOR	Mobile Norway AS	Mobile Norway	Mobile Norway	Mobile N	2100 (3G)	242	05		894704	2012-07-05
+NOR	Telenor Norge AS.	TELENOR	N Telenor	TELENOR	1800 (GSM)	242	01	3	894701	2004-04-16
+NOR	Telenor Norge AS.	TELENOR	N Telenor	TELENOR	900 (GSM)	242	01	3	894701	2004-04-16
+NOR	TeliaSonera Norge AS	NetCom	N NetCom	NetCom	1800 (GSM)	242	02		894708	2005-02-24
+NOR	TeliaSonera Norge AS	NetCom	N NetCom	NetCom	900 (GSM)	242	02		894708	2005-02-24
+NPL	Spice Nepal Private Ltd	Ncell	Ncell	Ncell	900 (GSM)	429	02	"5,7"	8997702	2010-02-02
+NPL	Spice Nepal Private Ltd	Ncell	Ncell	Ncell	1800 (GSM)	429	02	"5,7"	8997702	2010-02-02
+NZL	Spark New Zealand	Spark New Zealand Trading Limited	Spark NZ	Spark NZ	700 (LTE)	530	05		896405	2014-10-17
+NZL	Spark New Zealand	Spark New Zealand Trading Limited	Spark NZ	Spark NZ	850 (3G)	530	05		896405	2014-10-17
+NZL	Spark New Zealand	Spark New Zealand Trading Limited	Spark NZ	Spark NZ	2100 (3G)	530	05		896405	2014-10-17
+NZL	Two Degrees Mobile Limited	2degrees	2degrees	2degrees	1800 (GSM)	530	24	5	896424	2009-05-08
+NZL	Two Degrees Mobile Limited	2degrees	2degrees	2degrees	900 (GSM)	530	24	5	896424	2009-05-08
+NZL	Vodafone Mobile NZ Limited	vodafone	vodafone NZ	voda NZ	900 (GSM)	530	01	1	896401	2002-12-17
+OMN	Oman Telecommunications Company S.A.O.G.	Omantel Oman	Omantel	Omantel	2300 (TD LTE )	422	02		8996800	2014-12-02
+OMN	Oman Telecommunications Company S.A.O.G.	Omantel Oman	Omantel	Omantel	900 (GSM)	422	02	4	8996800	2014-12-02
+OMN	Oman Telecommunications Company S.A.O.G.	Omantel Oman	Omantel	Omantel	1800 (LTE)	422	02		8996800	2014-12-02
+OMN	Omani Qatari Telecommunication Company SAOG	nawras	nawras	nawras	900 (3G)	422	03		8996803	2014-11-13
+OMN	Omani Qatari Telecommunication Company SAOG	nawras	nawras	nawras	900 (GSM)	422	03	"0,3"	8996803	2014-11-13
+OMN	Omani Qatari Telecommunication Company SAOG	nawras	nawras	nawras	1800 (LTE)	422	03		8996803	2014-11-13
+PAK	CMPak Limited	ZONG	ZONG	ZONG	900 (GSM)	410	04	"0,4"	899204	2012-07-05
+PAK	CMPak Limited	ZONG	ZONG	ZONG	1800 (GSM)	410	04	"0,4"	899204	2012-07-05
+PAK	Mobilink-PMCL	Mobilink	Mobilink	Mobilink	900 (GSM)	410	01		"89921, 89922"	2005-04-26
+PAK	Pakistan Telecommunication Mobile Ltd	Ufone	PK-UFONE	UFONE	900 (GSM)	410	03	2	8941003	2004-04-16
+PAK	Telenor Pakistan (Pvt) Ltd.	Telenor Pakistan (Pvt) Ltd.	Telenor PK	TELENOR	1800 (GSM)	410	06	"0,4"	8941006	2012-07-05
+PAK	Telenor Pakistan (Pvt) Ltd.	Telenor Pakistan (Pvt) Ltd.	Telenor PK	TELENOR	900 (GSM)	410	06	"0,4"	8941006	2012-07-05
+PAK	Warid Telecom (PVT) Ltd	Warid Telecom	WaridTel	WaridTel	900 (GSM)	410	07	"0,5"	899207	2012-07-05
+PAK	Warid Telecom (PVT) Ltd	Warid Telecom	WaridTel	WaridTel	1800 (GSM)	410	07	"0,5"	899207	2012-07-05
+PAN	Cable & Wireless Panama	Cable & Wireless Panama	+Movil - C&W PAN	PANCW	850 (GSM)	714	01		8950701	2012-05-18
+PAN	Claro Panama S.A.	Claro Panama	CLARO PA	CLARO PA	1900 (GSM)	714	03		8950703	2011-09-15
+PAN	Digicel (Panama) S.A.	Digicel Panama	DIGICEL	DIGICEL	1900 (GSM)	714	04		8950704	2012-09-13
+PAN	"TELEFONICA MOVILES PANAMA, S.A."	Movistar	Movistar	Movistar	850 (GSM)	714	020	4	8950702	2010-07-12
+PER	America Movil Peru S.A.C	CLARO PER	CLARO PER	ClaroPER	1900 (GSM)	716	10	"0,2"	895110x	2012-07-05
+PER	Entel Per? S.A.	Nextel Peru	PERN3	NXT3	1900 (3G)	716	17		895117	2014-11-13
+PER	Telefonica Moviles S.A.	Movistar Peru	MOVISTAR	MOVISTAR	850 (GSM)	716	06	"0,8"	895106	2012-03-05
+PER	Viettel Peru S.A.C.	Viettel Peru S.A.C	Viettel Peru	VTP	1900 (GSM)	716	15		895115	2013-04-09
+PER	Viettel Peru S.A.C.	Viettel Peru S.A.C.	Viettel Peru	VTP	900 (GSM)	716	15		895115	2013-04-09
+PHL	ACeS International Limited (AIL)	ACeS Philippines - ACeS Philippines Cellular Corp	ACeS	ACeS	Satellite (GSM)	515	11		896311	2012-02-21
+PHL	"Digitel Mobile Philippines, Inc"	Digitel Mobile/Sun Cellular	PH Sun Cellular	SUN	2100 (3G)	515	05		896305	2012-10-04
+PHL	"Digitel Mobile Philippines, Inc"	Digitel Mobile/Sun Cellular	PH Sun Cellular	SUN	1800 (GSM)	515	05	5	896305	2004-04-16
+PHL	Globe Telecom	Globe Telecom	Globe Telecom-PH	GLOBE	900 (GSM)	515	02	"2,3"	896302	2004-04-16
+PHL	Globe Telecom	Globe Telecom	Globe Telecom-PH	GLOBE	1800 (GSM)	515	02	"2,3"	896302	2004-04-16
+PHL	"Smart Communications, Inc"	SMART Gold	SMART	SMART	900 (GSM)	515	03	3	896303	2004-04-16
+PHL	"Smart Communications, Inc"	SMART Gold	SMART	SMART	1800 (GSM)	515	03	3	896303	2004-04-16
+PLW	Palau Mobile Corporation	Palau Mobile	PLWPMC	PLWPMC	900 (GSM)	552	80	"2,4"	8968080	2012-07-05
+PLW	Palau Mobile Corporation	Palau Mobile	PLWPMC	PLWPMC	1800 (GSM)	552	80	"2,4"	8968080	2012-07-05
+PLW	Palau National Communications Corp (PNCC)	PalauCel	PalauCel	PalauCel	900 (GSM)	552	01	"0,1"	8968001	2012-11-21
+PNG	BMobile Limited	bmobile	bmobile	bmobile	900 (GSM)	537	01	"0,1"	8967501	2014-05-07
+PNG	Digicel PNG Ltd.	Digicel PNG	DIGICEL	DIGICEL	900 (GSM)	537	03		8967503	2011-08-05
+POL	P4 Sp. z o.o	P4	Play	Play	900 (GSM)	260	06		894806	2012-09-07
+POL	P4 Sp. z o.o	P4	Play	Play	2100 (3G)	260	06		894806	2011-09-15
+POL	PTK Centertel	Orange	Orange PL	Orange	2100 (3G)	260	03		894803	2012-07-05
+POL	PTK Centertel	Orange	Orange PL	Orange	900 (GSM)	260	03	"0,4"	894803	2012-07-05
+POL	PTK Centertel	Orange	Orange PL	Orange	1800 (GSM)	260	03	"0,4"	894803	2012-07-05
+POL	Polkomtel Sp. z o.o.	Plus	Plus	PLUS	1800 (GSM)	260	01	2	894801	2012-08-24
+POL	Polkomtel Sp. z o.o.	Plus	Plus	PLUS	900 (GSM)	260	01	2	894801	2012-08-24
+POL	Polkomtel Sp. z o.o.	Plus	Plus	PLUS	2100 (3G)	260	01		894801	2012-07-05
+POL	Polska Telefonia Cyfrowa	T-Mobile.pl	T-Mobile.pl	TM PL	1800 (GSM)	260	02	"0,6"	894802	2012-07-05
+POL	Polska Telefonia Cyfrowa	T-Mobile.pl	T-Mobile.pl	TM PL	900 (GSM)	260	02	"0,6"	894802	2012-07-05
+PRI	PR Wireless Inc	Open Mobile	Open Mob PRI	Open Mob	700 (LTE)	330	120		8901120	2013-08-27
+PRI	Puerto Rico Telephone Company Inc.	Claro GSM	PR Claro	Claro	1800 (GSM)	330	110		891787	2008-02-24
+PRI	Puerto Rico Telephone Company Inc.	Claro GSM	PR Claro	Claro	850 (GSM)	330	110		891787	2008-02-24
+PRT	MEO - Servi?os de Comunica??es e Multim?dia SA	MEO	MEO	MEO	1800 (GSM)	268	06	7	8935106	2014-10-07
+PRT	MEO - Servi?os de Comunica??es e Multim?dia SA	MEO	MEO	MEO	900 (GSM)	268	06	7	8935106	2014-10-07
+PRT	MEO - Servi?os de Comunica??es e Multim?dia SA	MEO	MEO	MEO	2100 (3G)	268	06		8935106	2014-10-07
+PRT	"NOS ¡V Comunica??es, S.A."	NOS	NOS	NOS	1800 (GSM)	268	03	"0,4"	8935103	2014-08-13
+PRT	"NOS ¡V Comunica??es, S.A."	NOS	NOS	NOS	900 (GSM)	268	03	"0,4"	8935103	2014-08-13
+PRT	Vodafone Portugal	vodafone	vodafone P	voda P	1800 (GSM)	268	01	"0,3"	8935101	2012-07-05
+PRT	Vodafone Portugal	vodafone	vodafone P	voda P	900 (GSM)	268	01	"0,3"	8935101	2012-07-05
+PRY	AMX Paraguay S.A.	CLARO PARAGUAY	CLARO PY	CLARO PY	1900 (GSM)	744	02	0	8959502	2008-03-18
+PRY	Hola Paraguay S.A.	VOX	HOLA PARAGUAY S.A.	HPGYSA	1900 (GSM)	744	01	"0,1"	8959501	2012-07-05
+PRY	Nucleo S.A	Personal	PY Personal	Personal	850 (GSM)	744	05	"0,4"	89744	2012-07-05
+PRY	Nucleo S.A	Personal	PY Personal	Personal	1900 (GSM)	744	05	"0,4"	89744	2012-07-05
+PRY	Telefonica Celular Del Paraguay S.A. (Telecel S.A.)	Telecel Paraguay	TIGO PY	TIGO	850 (GSM)	744	04	"0,2"	8959504	2011-12-21
+PSE	Palestine Telecomm Co Ltd	Palestine Telecommunications Co. P.L.C	JAWWAL-PALESTINE	JAWWAL	900 (GSM)	425	05	7	8997005	2014-03-20
+PSE	Wataniya Palestine Mobile Telecommunications Company	Wataniya Mobile	"PS, Wataniya Mobile"	WM	900 (GSM)	425	06	6	8997006	2011-09-15
+PSE	Wataniya Palestine Mobile Telecommunications Company	Wataniya Mobile	"PS, Wataniya Mobile"	WM	1800 (GSM)	425	06	6	8997006	2011-09-15
+PYF	Pacific Mobile Telecom s.a.s	Vodafone	Vodafone PF	VF PF	2100 (3G)	547	15		8968915	2012-12-19
+PYF	Pacific Mobile Telecom s.a.s	Vodafone	Vodafone PF	VF PF	900 (GSM)	547	15	1	8968915	2012-12-19
+PYF	Vini S.A.S.	VINI	F-VINI	VINI	900 (GSM)	547	20	1	8968920	2014-12-03
+PYF	Vini S.A.S.	VINI	F-VINI	VINI	2100 (3G)	547	20	1	8968920	2014-12-03
+QAT	Ooredoo QSC	Ooredoo	Ooredoo	Ooredoo	900 (3G)	427	01		8997401	2014-04-07
+QAT	Ooredoo QSC	Ooredoo	Ooredoo	Ooredoo	1800 (3G)	427	01		8997401	2014-04-07
+QAT	Ooredoo QSC	Ooredoo	Ooredoo	Ooredoo	800 (LTE)	427	01		8997401	2014-04-07
+QAT	Ooredoo QSC	Ooredoo	Ooredoo	Ooredoo	1800 (GSM)	427	01	"0,5"	8997401	2014-04-07
+QAT	Ooredoo QSC	Ooredoo	Ooredoo	Ooredoo	900 (GSM)	427	01	"0,5"	8997401	2014-04-07
+QAT	Ooredoo QSC	Ooredoo	Ooredoo	Ooredoo	1800 (LTE)	427	01		8997401	2014-04-07
+QAT	Ooredoo QSC	Ooredoo	Ooredoo	Ooredoo	2600 (LTE)	427	01		8997401	2014-04-07
+QAT	Vodafone Qatar Q.S.C.	Vodafone Qatar	vodafone	VF-QA	2100 (3G)	427	02		8942702	2012-07-05
+QAT	Vodafone Qatar Q.S.C.	Vodafone Qatar	vodafone	VF-QA	900 (GSM)	427	02	"2,3"	8942702	2011-09-15
+QAT	Vodafone Qatar Q.S.C.	Vodafone Qatar	vodafone	VF-QA	1800 (GSM)	427	02	"2,3"	8942702	2011-09-15
+REU	OUTREMER TELECOM	OUTREMER TELECOM	ONLY	OUTREMER	1800 (GSM)	647	02	"0,1"	8926202	2012-07-05
+REU	OUTREMER TELECOM	OUTREMER TELECOM	ONLY	OUTREMER	900 (GSM)	647	02	"0,1"	8926202	2012-07-05
+REU	Orange Reunion	Orange Reunion	Orange re	Orange	1800 (GSM)	647	00	0	8926200	2008-07-23
+REU	Orange Reunion	Orange Reunion	Orange re	Orange	900 (GSM)	647	00	0	8926200	2008-07-23
+REU	Societe Reunionnaise de Radiotelephone	SFR REUNION	SFR REUNION	SFR RU	900 (GSM)	647	10		893310	2008-07-23
+RMI	Marshall Islands National Telecommunications Authority	NTA	MH-NTA	NTA	900 (GSM)	551	01	"0,0,1"	8969201	2013-07-17
+RMI	Marshall Islands National Telecommunications Authority	NTA	MH-NTA	NTA	1800 (GSM)	551	01	"0,0,1"	8969201	2013-07-17
+ROU	Orange Romania SA	ORANGE	RO ORANGE	ORANGE	900 (GSM)	226	10	3	894010	2004-04-16
+ROU	Orange Romania SA	ORANGE	RO ORANGE	ORANGE	1800 (GSM)	226	10	3	894010	2004-04-16
+ROU	RCS & RDS	Digi.Mobil	RO Digi.Mobil	Digi	2100 (3G)	226	05		894005	2011-09-15
+ROU	Telekom Romania Mobile Communications S.A.	TELEKOM.RO	TELEKOM.RO	TELEKOM	1800 (GSM)	226	03	"0,1"	894003	2014-09-29
+ROU	Telekom Romania Mobile Communications S.A.	TELEKOM.RO	TELEKOM.RO	TELEKOM	900 (GSM)	226	03	"0,1"	894003	2014-09-29
+ROU	Vodafone Romania S.A.	Vodafone RO	RO Vodafone RO	VF-RO	900 (3G)	226	01		894001	2012-07-05
+ROU	Vodafone Romania S.A.	Vodafone RO	RO Vodafone RO	VF-RO	1800 (GSM)	226	01	"0,1,2,3,4"	894001	2012-07-05
+ROU	Vodafone Romania S.A.	Vodafone RO	RO Vodafone RO	VF-RO	900 (GSM)	226	01	"0,1,2,3,4"	894001	2012-07-05
+ROU	Vodafone Romania S.A.	Vodafone RO	RO Vodafone RO	VF-RO	2100 (3G)	226	01		894001	2012-07-05
+RUS	Baykalwestcom	Baykalwestcom	ROSTELECOM	RTC	1800 (GSM)	250	12		8970112	2013-01-21
+RUS	Baykalwestcom	Baykalwestcom	ROSTELECOM	RTC	900 (GSM)	250	12		8970112	2013-01-21
+RUS	Baykalwestcom	Baykalwestcom	ROSTELECOM	RTC	2100 (3G)	250	12		8970112	2013-01-21
+RUS	CJSC Volgograd Mobile	INDIGO	RUS INDIGO	INDIGO	1800 (GSM)	250	19		8970119	2002-06-25
+RUS	CJSC Yeniseytelecom	Yeniseytelecom	ROSTELECOM	RTC	1800 (GSM)	250	05		8970105	2014-10-31
+RUS	CJSC Yeniseytelecom	Yeniseytelecom	ROSTELECOM	RTC	900 (GSM)	250	05		8970105	2014-10-31
+RUS	LLC Ekaterinburg-2000	MOTIV	MOTIV	MOTIV	1800 (GSM)	250	35		8970135	2008-04-15
+RUS	"MegaFon, Open Joint Stock Company"	MegaFon	MegaFon RUS	MegaFon	900 (GSM)	250	02	1	8970102	2002-03-21
+RUS	"MegaFon, Open Joint Stock Company"	MegaFon	MegaFon RUS	MegaFon	1800 (GSM)	250	02	1	8970102	2002-03-21
+RUS	Mobile TeleSystems OJSC	MTS	MTS RUS	MTS RUS	1800 (GSM)	250	01	3	8970101	2014-12-02
+RUS	Mobile TeleSystems OJSC	MTS	MTS RUS	MTS RUS	900 (GSM)	250	01	3	8970101	2014-12-02
+RUS	Mobile TeleSystems OJSC	MTS	MTS RUS	MTS RUS	2100 (3G)	250	01		8970101	2014-12-02
+RUS	Mobile TeleSystems OJSC	MTS	MTS RUS	MTS RUS	800 (LTE FDD)	250	01		8970101	2014-12-02
+RUS	Mobile TeleSystems OJSC	MTS	MTS RUS	MTS RUS	2600 (LTE FDD)	250	01		8970101	2014-12-02
+RUS	Mobile TeleSystems OJSC	MTS	MTS RUS	MTS RUS	900 (3G)	250	01		8970101	2014-12-02
+RUS	Mobile TeleSystems OJSC	MTS	MTS RUS	MTS RUS	 2600  (LTE TDD)	250	01		8970101	2014-12-02
+RUS	Nizhegorodskaya Cellular Communications	Rostelecom OJSC	ROSTELECOM	RTC	900 (GSM)	250	03		8970103	2012-02-09
+RUS	OJSC Rostelecom	ROSTELECOM	ROSTELECOM	RTC	1800 (GSM)	250	17		8970139	2011-11-08
+RUS	OJSC Rostelecom	ROSTELECOM	ROSTELECOM	RTC	900 (GSM)	250	38		8970139	2011-11-10
+RUS	OJSC Rostelecom	ROSTELECOM	ROSTELECOM	RTC	900 (GSM)	250	17		8970139	2011-11-08
+RUS	OJSC Rostelecom	ROSTELECOM (RUSUT)	ROSTELECOM	RTC	900 (GSM)	250	39	6	8970139	2011-11-08
+RUS	OJSC Rostelecom	ROSTELECOM (RUSUT)	ROSTELECOM	RTC	1800 (GSM)	250	39	6	8970139	2011-11-08
+RUS	OJSC VimpelCom	Beeline	Beeline	Beeline	1800 (GSM)	250	99	0	8970199	2014-03-20
+RUS	OJSC VimpelCom	Beeline	Beeline	Beeline	2100 (3G)	250	99		8970199	2014-03-20
+RUS	OJSC VimpelCom	Beeline	Beeline	Beeline	900 (GSM)	250	99	0	8970199	2014-03-20
+RUS	OJSC VimpelCom	New Telephone Company	NTC	NTC	1800 (GSM)	250	16		8970116	2014-03-20
+RUS	OJSC VimpelCom	New Telephone Company	NTC	NTC	900 (GSM)	250	16		8970116	2014-03-20
+RUS	PJSC SMARTS	SMARTS	"RUS 07, RUS SMARTS"	SMARTS	1800 (GSM)	250	07		8970107	2003-04-28
+RUS	PJSC SMARTS	SMARTS	"RUS 07, RUS SMARTS"	SMARTS	900 (GSM)	250	07		8970107	2003-04-28
+RUS	PJSC SMARTS	SMARTS-Ufa	"RUS15, RUS SMARTS"	SMARTS	1800 (GSM)	250	15		8970115	2004-04-07
+RUS	Rostov Cellular Communications	TELE2	TELE2 RU	TELE2 RU	1800 (GSM)	250	20		8970120	2010-03-30
+RUS	ZAO Kodotel	KODOTEL	KODOTEL	KODOTEL	1800 (GSM)	250	37	"4,7,3"	8974732	2009-09-22
+RWA	Bharti Airtel Rwanda Holdings B.V.	Airtel	Airtel	Airtel	900 (GSM)	635	14		8925014	2014-07-28
+RWA	Bharti Airtel Rwanda Holdings B.V.	Airtel	Airtel	Airtel	2100 (3G)	635	14		8925014	2014-07-28
+RWA	Bharti Airtel Rwanda Holdings B.V.	Airtel	Airtel	Airtel	1800 (GSM)	635	14		8925014	2014-07-28
+RWA	Tigo Rwanda Ltd	TIGO RWANDA LTD	TIGO RWANDA	TIGO RW	1800 (GSM)	635	13		8925013	2014-04-07
+RWA	Tigo Rwanda Ltd	TIGO RWANDA LTD	TIGO RWANDA	TIGO RW	2100 (3G)	635	13		8925013	2014-04-07
+RWA	Tigo Rwanda Ltd	TIGO RWANDA LTD	TIGO RWANDA	TIGO RW	900 (GSM)	635	13		8925013	2014-04-07
+SAU	Etihad Etisalat Company	Mobily	Mobily-KSA	Mobily	900 (GSM)	420	03	"6,7"	8996603	2012-07-03
+SAU	Etihad Etisalat Company	Mobily	Mobily-KSA	Mobily	2100 (3G)	420	03		8996603	2012-07-03
+SAU	Etihad Etisalat Company	Mobily	Mobily-KSA	Mobily	2500 (TD-LTE)	420	03		8996603	2012-07-03
+SAU	MTC Saudi Arabia	Zain Saudi Arabia	Zain SA	Zain SA	2100 (3G)	420	04		8996604	2012-07-03
+SAU	MTC Saudi Arabia	Zain Saudi Arabia	Zain SA	Zain SA	1800 (GSM)	420	04		8996604	2012-07-03
+SAU	MTC Saudi Arabia	Zain Saudi Arabia	Zain SA	Zain SA	900 (GSM)	420	04		8996604	2012-07-03
+SAU	Saudi Telecom Company (STC)	STC	STC	STC	900 (GSM)	420	01	3	8996601	2008-08-29
+SAU	Saudi Telecom Company (STC)	STC	STC	STC	2100 (3G)	420	01		896601	2008-10-09
+SDN	MTN Sudan	MTN	MTN	MTN	900 (GSM)	634	02		8924902	2007-01-23
+SDN	MTN Sudan	MTN	MTN	MTN	2100 (3G)	634	02		8924902	2007-01-23
+SDN	MTN Sudan	MTN	MTN	MTN	1800 (GSM)	634	02		8924902	2007-01-23
+SDN	Sudanese Mobile Telephone (Zain) Co. Ltd	Zain Sudan	Zain SDN	Zain SD	900 (GSM)	634	01	"0,1,2,3"	8924901	2014-11-18
+SDN	Sudanese Mobile Telephone (Zain) Co. Ltd	Zain Sudan	Zain SDN	Zain SD	2100 (3G)	634	01		8924901	2014-11-18
+SDN	Sudanese Mobile Telephone (Zain) Co. Ltd	Zain Sudan	Zain SDN	Zain SD	1800 (GSM)	634	01	"0,1,2,3"	8924901	2014-11-18
+SEN	SENTEL GSM S.A.	SENTEL	SN-SENTEL SG	SENTEL	900 (GSM)	608	02	4	8922102	2012-08-13
+SEN	Sonatel	Orange Senegal	SN ALIZE	ALIZE	900 (GSM)	608	01		8922101	2012-08-13
+SEN	Sudan Telecom Company Ltd	Expresso Senegal	SEN expresso	Expresso	900 (GSM)	608	03		8922103	2012-08-13
+SEN	Sudan Telecom Company Ltd	Expresso Senegal	SEN expresso	Expresso	1800 (GSM)	608	03		8922103	2012-08-13
+SGP	M1 Limited	M1 Limited	SGP-M1	M1	2600 (LTE)	525	03		896503	2012-10-19
+SGP	M1 Limited	M1 Limited	SGP-M1	M1	2100 (3G)	525	03		896503	2012-10-03
+SGP	M1 Limited	M1 Limited	SGP-M1	M1	1800 (LTE)	525	03		896503	2012-10-19
+SGP	M1 Limited	M1 Limited	SGP-M1	M1	1800 (GSM)	525	03	"0,5,6"	896503	2012-10-03
+SGP	M1 Limited	M1 Limited	SGP-M1	M1	900 (GSM)	525	03	"0,5,6"	896503	2012-10-03
+SGP	SingTel Mobile Singapore Pte. Ltd.	SingTel	SingTel	SingTel	1800 (GSM)	525	02	"1,4,6"	896501	2013-08-20
+SGP	SingTel Mobile Singapore Pte. Ltd.	SingTel	SingTel	SingTel	900 (GSM)	525	01	"1,4,6"	896501	2003-10-29
+SGP	SingTel Mobile Singapore Pte. Ltd.	SingTel	SingTel	SingTel	1800 (LTE)	525	01		896501	2013-08-27
+SGP	SingTel Mobile Singapore Pte. Ltd.	SingTel	SingTel	SingTel	900 (3G)	525	01		896501	2013-09-13
+SGP	SingTel Mobile Singapore Pte. Ltd.	SingTel	SingTel	SingTel	2600 (LTE)	525	01		896501	2013-08-27
+SGP	SingTel Mobile Singapore Pte. Ltd.	SingTel	SingTel	SingTel	1800 (GSM)	525	01	"1,4,6"	896501	2003-10-29
+SGP	SingTel Mobile Singapore Pte. Ltd.	SingTel	SingTel	SingTel	2100 (3G)	525	01		896501	2013-09-13
+SGP	SingTel Mobile Singapore Pte. Ltd.	SingTel	SGP Call Zone	CallZone	2100 (3G)	525	07		896501	2013-09-13
+SGP	StarHub Mobile Pte Ltd	STARHUB	STARHUB	STARHUB	2100 (3G)	525	05		896505	2012-10-19
+SGP	StarHub Mobile Pte Ltd	STARHUB	STARHUB	STARHUB	1800 (GSM)	525	05	"0,2,4,6,7"	896505	2012-10-19
+SLB	BMobile Limited	bmobile	bmobile	bmobile	1800 (GSM)	540	02		8967702	2014-05-07
+SLB	BMobile Limited	bmobile	bmobile	bmobile	900 (GSM)	540	02		8967702	2014-05-07
+SLB	Solomon Telekom Co Ltd	BREEZE	SI BREEZE	BREEZE	900 (GSM)	540	01		8954001	2005-08-17
+SLE	Airtel (SL) Limited	Airtel	Airtel	Airtel	900 (GSM)	619	01		8923201	2014-07-02
+SLE	LINTEL (Sierra Leone) Limited	Africell	Africell	Africell	900 (GSM)	619	05		89	2013-02-20
+SLV	CTE Telecom Personal SA de CV	CLARO SLV	CLARO SLV	ClaroSLV	1900 (GSM)	706	01	"0,1"	8950301	2012-07-05
+SLV	"DIGICEL, S.A. de C.V."	Digicel	Digicel	DIGICEL	900 (GSM)	706	02	"0,2"	8950302	2012-07-05
+SLV	"Telef?nica M?viles El Salvador, S.A de C.V."	Telefonica	Movistar	Movistar	1900 (GSM)	706	04	4	8950304	2014-09-16
+SLV	"Telef?nica M?viles El Salvador, S.A de C.V."	Telefonica	Movistar	Movistar	850 (GSM)	706	04	4	8950304	2014-09-16
+SLV	Telemovil EL Salvador S.A	TIGO	TELEMOVIL	TM	850 (GSM)	706	03	"0,3"	8970603	2012-07-05
+SMR	San Marino Telecom Spa	San Marino Telecom	SMT	SMT	900 (GSM)	292	01		8937801	2013-07-04
+SMR	San Marino Telecom Spa	San Marino Telecom	SMT	SMT	1800 (GSM)	292	01		8937801	2013-07-04
+SOM	Golis Telecommunications Company Ltd	Golis Telecom Somalia	Som Golis	Golis	900 (GSM)	637	30		8925251	2012-08-17
+SOM	Somafone FZLLC	SOMAFONE	SOMAFONE	SOMAFONE	1800 (GSM)	637	04	"0,3"	8925260	2012-07-05
+SOM	Somafone FZLLC	SOMAFONE	SOMAFONE	SOMAFONE	900 (GSM)	637	04	"0,3"	8925260	2012-07-05
+SOM	Somnet Telecom Inc	Somnet TELECOM Inc	Somnet TELECOM Inc	SOMNET	1800 (GSM)	637	20		8925268	2013-01-22
+SOM	Somnet Telecom Inc	Somnet TELECOM Inc	Somnet TELECOM Inc	SOMNET	900 (GSM)	637	20		8925268	2013-01-22
+SOM	Somtel GSM FZCO  (Somtel International Ltd.)	SOMTEL	SOMTEL	SOMTEL	1800 (GSM)	637	71		8925271	2008-11-26
+SOM	Somtel GSM FZCO  (Somtel International Ltd.)	SOMTEL	SOMTEL	SOMTEL	900 (GSM)	637	71		8925271	2008-11-26
+SOM	Telesom Company	Telesom	SO Telesom	Tele	900 (GSM)	637	01	1	8925222	2009-01-05
+SPM	SPM Telecom	AMERIS	SPM AMERIS	AMERIS	900 (GSM)	308	01	0	8950801	2008-07-23
+SRB	Telekom Srbija	Telekom Srbija	mt:s	MTS	2100 (3G)	220	03		8938103	2012-09-19
+SRB	Telekom Srbija	Telekom Srbija	mt:s	MTS	1800 (GSM)	220	03	3	8938103	2012-09-19
+SRB	Telekom Srbija	Telekom Srbija	mt:s	MTS	900 (GSM)	220	03	3	8938103	2012-09-19
+SRB	Telenor D.o.o.	Telenor	Telenor SRB	Telenor	900 (GSM)	220	01	"3,7"	8938101	2012-07-05
+SRB	Telenor D.o.o.	Telenor	Telenor SRB	Telenor	1800 (GSM)	220	01	"3,7"	8938101	2012-07-05
+SRB	Vip mobile d.o.o.	Vip	Vip SRB	Vip SRB	1800 (GSM)	220	05	4	8938105	2007-06-26
+SRB	Vip mobile d.o.o.	Vip	Vip SRB	Vip SRB	2100 (3G)	220	05		8938105	2012-07-05
+SRB	Vip mobile d.o.o.	Vip	Vip SRB	Vip SRB	900 (GSM)	220	05	4	8938105	2007-06-26
+SRI	ETISALAT Lanka (Private) Limited	ETISALAT	SRI Etisalat	Etisalat	900 (GSM)	413	03	"3,5"	899403	2010-03-19
+SRI	ETISALAT Lanka (Private) Limited	ETISALAT	SRI Etisalat	Etisalat	1800 (GSM)	413	03	"3,5"	899403	2010-03-19
+SRI	Mobitel (Pvt) Limited	Mobitel	Mobitel	MOBITEL	1800 (GSM)	413	01	"0,1"	899401	2012-07-05
+SSD	Gemtel Ltd	Gemtel Ltd	Gemtel	Gemtel	1800 (GSM)	659	03	1	8965903	2012-05-18
+SSD	Gemtel Ltd	Gemtel Ltd	Gemtel	Gemtel	900 (GSM)	659	03	1	8965903	2012-05-18
+SSD	MTN South Sudan Ltd	MTN South Sudan	MTN	MTN	900 (GSM)	659	02	4	8921102	2012-03-15
+SSD	MTN South Sudan Ltd	MTN South Sudan	MTN	MTN	1800 (GSM)	659	02	4	8921102	2012-03-15
+SSD	MTN South Sudan Ltd	MTN South Sudan Ltd	MTN	MTN	2100 (3G)	659	02		8921102	2012-05-09
+SSD	Network of The World	Vivacell	Vivacell	Vivacell	1800 (GSM)	659	04		8921104	2012-01-24
+SSD	Network of The World	Vivacell	Vivacell	Vivacell	900 (GSM)	659	04		8921104	2012-01-24
+SSD	Sudanese Mobile Telephone (Zain) Co.Ltd	Sudanese Mobile Telephone (ZAIN) CO.LTD	ZAIN SS	ZAIN SS	900 (GSM)	659	06	"0,1"	8921101	2014-11-18
+SSD	Sudanese Mobile Telephone (Zain) Co.Ltd	Sudanese Mobile Telephone (ZAIN) CO.LTD	ZAIN SS	ZAIN SS	1800 (GSM)	659	06	"0,1"	8921101	2014-11-18
+STP	Companhia Santomense de Telecomunicacoes SARL	CSTmovel	STP CSTmovel	CSTmovel	900 (GSM)	626	01	"0,1"	8923901	2012-07-05
+STP	Unitel STP S.a.r.l.	Unitel STP	Unitel STP	Unitel	1900 (3G)	626	02		8923902	2014-06-09
+STP	Unitel STP S.a.r.l.	Unitel STP	Unitel STP	Unitel	900 (3G)	626	02		8923902	2014-06-09
+STP	Unitel STP S.a.r.l.	Unitel STP	Unitel STP	Unitel	900 (GSM)	626	02	7	8923902	2014-06-09
+STP	Unitel STP S.a.r.l.	Unitel STP	Unitel STP	Unitel	2100 (3G)	626	02		8923902	2014-06-09
+SUR	Digicel Suriname NV	Digicel Suriname NV	DIGICEL	DIGICEL	1800 (GSM)	746	03		8959703	2008-07-23
+SUR	Digicel Suriname NV	Digicel Suriname NV	DIGICEL	DIGICEL	900 (GSM)	746	03		8959703	2008-07-23
+SUR	Intelsur N.V.	Intelsur N.V.	UNIQA	UNIQA	900 (GSM)	746	04		89597	2008-04-01
+SUR	Telesur	TELESUR.GSM	SR.TELESUR.GSM	TeleG	1800 (GSM)	746	02	"0,1"	8959702	2012-07-05
+SUR	Telesur	TELESUR.GSM	SR.TELESUR.GSM	TeleG	900 (GSM)	746	02	"0,1"	8959702	2012-07-05
+SVK	"O2 Slovakia, s.r.o."	O2 - SK	O2 - SK	O2 - SK	900 (GSM)	231	06		8942104	2014-06-13
+SVK	"O2 Slovakia, s.r.o."	O2 - SK	O2 - SK	O2 - SK	1800 (GSM)	231	06		8942104	2014-06-13
+SVK	Orange Slovensko a.s.	Orange SK	Orange SK	Orange	900 (GSM)	231	01	"0,3"	8942101	2012-07-05
+SVK	Orange Slovensko a.s.	Orange SK	Orange SK	Orange	1800 (GSM)	231	01	"0,3"	8942101	2012-07-05
+SVK	"Slovak Telekom, a. s."	Telekom	Telekom SK	Telekom	2100 (3G)	231	02		8942102	2012-07-05
+SVK	"Slovak Telekom, a. s."	Telekom	Telekom SK	Telekom	900 (GSM)	231	02	"3,7"	8942102	2012-02-21
+SVK	"Slovak Telekom, a. s."	Telekom	Telekom SK	Telekom	1800 (GSM)	231	02	"3,7"	8942102	2012-02-21
+SVN	SI.MOBIL d.d.	SI.mobil d.d	Si.mobil	Si.mobil	900 (GSM)	293	40		8938840	2008-07-17
+SVN	SI.MOBIL d.d.	SI.mobil d.d	Si.mobil	Si.mobil	1800 (GSM)	293	40		8938840	2008-07-17
+SVN	T-2 d.o.o.	T-2	T-2	T-2	2100 (3G)	293	64		8938664	2011-07-22
+SVN	Telekom Slovenije d.d.	MOBITEL	MOBITEL	MOBITEL	900 (GSM)	293	41	"3,7"	8938641	2012-07-05
+SVN	Telekom Slovenije d.d.	MOBITEL	MOBITEL	MOBITEL	1800 (GSM)	293	41	"3,7"	8938641	2012-07-05
+SVN	Tusmobil d.o.o.	Tusmobil	SI TUSMOBIL	TUS	1800 (GSM)	293	70		8938670	2007-04-23
+SVN	Tusmobil d.o.o.	Tusmobil	SI TUSMOBIL	TUS	900 (GSM)	293	70		8938670	2007-04-23
+SWE	Hi3G Access AB	3	3 SE	3 SE	2100 (3G)	240	02		894607	2014-06-17
+SWE	Hi3G Access AB	Hi3G Access AB / Telenor Sverige AB	SWEDEN	SWE	2100 (3G)	240	04		894608	2014-06-17
+SWE	Tele 2 AB	COMVIQ GSM shared with TeliaSonera MobileNetworks	Sweden 3G	Sweden3G	2100 (3G)	240	05		894620	2008-07-23
+SWE	Tele 2 AB	Tele 2 AB	Tele2	Tele2 SE	1800 (GSM)	240	07	6	8946100	2013-08-16
+SWE	Tele 2 AB	Tele 2 AB	Tele2	Tele2 SE	900 (GSM)	240	07	6	8946100	2013-08-16
+SWE	Tele 2 AB	Tele 2 AB / Telenor Sverige AB	Sweden Mobile	MobileS	900 (GSM)	240	24		8946100	2012-12-17
+SWE	Telenor Sverige AB	Telenor	Telenor SE	TelenorS	800 (LTE)	240	08		894608	2014-10-07
+SWE	Telenor Sverige AB	Telenor	Telenor SE	TelenorS	2100 (3G)	240	08		894608	2014-10-07
+SWE	Telenor Sverige AB	Telenor	Telenor SE	TelenorS	1800 (GSM)	240	24		894608	2014-10-07
+SWE	Telenor Sverige AB	Telenor	Telenor SE	TelenorS	900 (GSM)	240	24		894608	2014-10-07
+SWE	Telenor Sverige AB	Telenor	Telenor SE	TelenorS	1800 (LTE)	240	08		894608	2014-10-07
+SWE	Telenor Sverige AB	Telenor	Telenor SE	TelenorS	2600 (LTE)	240	08		894608	2014-10-07
+SWE	Telenor Sverige AB	Telenor	Telenor SE	TelenorS	900 (LTE)	240	08		894608	2014-10-07
+SWE	Telenor Sverige AB	Telenor Sverige AB / Hi3G Access AB	SWEDEN	SWE	2100 (3G)	240	04		894608	2014-10-07
+SWE	TeliaSonera Mobile Networks AB Sweden	TeliaSonera	TELIA S	TELIA	1800 (GSM)	240	01	2	894601	2003-12-12
+SWE	TeliaSonera Mobile Networks AB Sweden	TeliaSonera	TELIA S	TELIA	900 (GSM)	240	01	2	894601	2003-12-12
+SWE	TeliaSonera Mobile Networks AB Sweden	TeliaSonera shared with COMVIQ GSM	Sweden 3G	Sweden3G	2100 (3G)	240	05		894601	2008-07-23
+SWZ	Swazi MTN Limited	Swazi MTN	Swazi-MTN	SwaziMTN	900 (GSM)	653	10	2	8926810	2004-04-16
+SYC	Airtel (Seychelles) Limited	Airtel	Airtel	Airtel	900 (GSM)	633	10	"0,3"	8924810	2014-07-02
+SYC	Cable & Wireless (Seychelles)	CABLE & WIRELESS	C&W SEY	C&W SEY	900 (GSM)	633	01		8924801	2012-05-18
+SYR	MTN Syria (JSC)	MTN Syria	MTN	MTN	900 (GSM)	417	02	"0,1"	89963	2012-07-05
+SYR	MTN Syria (JSC)	MTN Syria	MTN	MTN	1800 (GSM)	417	02	"0,1"	89963	2012-07-05
+SYR	Syriatel Mobile Telecom SA	SYRIATEL	SYRIATEL	SYRIATEL	900 (GSM)	417	01	4	8996301	2002-10-01
+SYR	Syriatel Mobile Telecom SA	SYRIATEL	SYRIATEL	SYRIATEL	1800 (GSM)	417	01	4	8996301	2002-10-01
+TCA	Cable & Wireless (TCI) Ltd	LIME	LIME	LIME	850 (GSM)	376	350		8901024	2012-05-18
+TCA	Islandcom Telecommunications	Islandcom Telecommunications	IslandCom TCI	Islandco	850 (3G)	376	360		891376	2014-06-13
+TCD	Airtel Tchad	Airtel	Airtel	Airtel	900 (GSM)	622	01		8923501	2014-10-31
+TCD	MILLICOM TCHAD	Millicom Tchad	Tigo TD	Tigo	900 (GSM)	622	03		8923503	2013-02-11
+TCD	Mobilsotel S.A.	SALAM	SALAM	SALAM	1800 (GSM)	622	07	"1,2,3,4"	8923504	2013-03-12
+TCD	Mobilsotel S.A.	SALAM	SALAM	SALAM	900 (GSM)	622	07	"1,2,3,4"	8923504	2013-03-12
+TGO	Telecel Togo	ETISALAT	ETISALAT TOGO	ETISALAT	900 (GSM)	615	03		8922803	2012-01-16
+TGO	Togo Telecom	TOGO CELL	TG-TOGO CELL	TGCELL	900 (GSM)	615	01	1		2013-05-16
+THA	ACeS International Limited (AIL)	ACeS Thailand - ACeS Regional Services Co Ltd	ACeS	ACeS	Satellite (GSM)	520	20		896620	2012-02-21
+THA	Advanced Info Service PLC	AIS GSM	TH GSM	TH GSM	900 (GSM)	520	01	1	896601	2004-04-16
+THA	Advanced Wireless Network Company Ltd	AIS	AIS 3G	AIS 3G	2100 (3G)	520	03		896603	2014-03-20
+THA	CAT Telecom Public Company	CAT Telecom PLC	TH 3G+	TH 3G+	850 (3G)	520	00		896600	2012-04-20
+THA	"DTAC Network Co., Ltd"	dtac TriNet	dtac TriNet	dtac	2100 (3G)	520	05		896605	2013-05-17
+THA	Digital Phone Co Ltd	GSM 1800	TH GSM 1800	GSM 1800	1800 (GSM)	520	23	6	8952023	2004-04-16
+THA	Real Future Company Limited	Real Future	TRUE 3G+	TRUE 3G+	2100 (3G)	520	04		896604	2013-03-19
+THA	TOT PLC	TOT Mobile	TOT3G	TOT3G	2100 (3G)	520	15		896615	2012-07-05
+THA	Total Access Communications Co	DTAC	TH-DTAC	DTAC	1800 (GSM)	520	18	1	8952018	2004-04-16
+THA	True Move Company Ltd	True Move	TRUE	TRUE	1800 (GSM)	520	99	2	896699	2006-07-27
+TJK	CJSC Babilon-Mobile	Babilon-M	Babilon-M	Babilon	900 (GSM)	436	04	"0,1"	8999204	2012-07-05
+TJK	Indigo Tajikistan CJSC	TCELL	TCELL	TCELL	900 (GSM)	436	01		8999292	2012-11-05
+TJK	Indigo Tajikistan CJSC	TCELL	TCELL	TCELL	1800 (GSM)	436	02		8999293	2012-10-19
+TJK	Indigo Tajikistan CJSC	TCELL	TCELL	TCELL	900 (GSM)	436	02		8999293	2012-10-19
+TJK	Indigo Tajikistan CJSC	TCELL	TCELL	TCELL	2100 (3G)	436	02		"8999292, 8999293"	2012-11-05
+TJK	Indigo Tajikistan CJSC	TCELL	TCELL	TCELL	2100 (3G)	436	01		"8999292, 8999293"	2012-11-05
+TJK	Indigo Tajikistan CJSC	TCELL	TCELL	TCELL	1800 (GSM)	436	01		8999292	2012-11-05
+TJK	"TT Mobile, Closed Joint Stock Company"	MegaFon Tajikistan	MegaFon TJK	MegaFon	1800 (GSM)	436	03	2	8999203	2011-12-01
+TJK	"TT Mobile, Closed Joint Stock Company"	MegaFon Tajikistan	MegaFon TJK	MegaFon	900 (GSM)	436	03	2	8999203	2011-12-01
+TJK	"TT Mobile, Closed Joint Stock Company"	MegaFon Tajikistan	MegaFon TJK	MegaFon	2100 (3G)	436	03		8999203	2012-07-05
+TJK	Tacom LLC	BEELINE TJ	BEELINE TJ	BEELINE	1800 (GSM)	436	05		8999291	2006-09-01
+TJK	Tacom LLC	BEELINE TJ	BEELINE TJ	BEELINE	900 (GSM)	436	05		8999291	2006-09-01
+TKM	Altyn Asyr MC	Altyn Asyr	TM CELL	TM CELL	900 (GSM)	438	02	"0,6"	8999302	2012-07-05
+TKM	Altyn Asyr MC	Altyn Asyr	TM CELL	TM CELL	1800 (GSM)	438	02	"0,6"	8999302	2012-07-05
+TKM	Economy Society MTS-Turkmenistan	MTS Turkmenistan	MTS TM	MTS TM	900 (GSM)	438	01	"0,7"	8999301	2012-07-05
+TKM	Economy Society MTS-Turkmenistan	MTS Turkmenistan	MTS TM	MTS TM	1800 (GSM)	438	01	"0,7"	8999301	2012-07-05
+TLS	Timor Telecom	Timor Telecom	TLS-TT	TT	900 (GSM)	514	02	5	8967072	2003-08-20
+TON	Digicel (Tonga) Limited	Digicel (Tonga) Limited	Digicel Tonga	Digicel	900 (GSM)	539	88	0	8967688	2014-09-16
+TON	Tonga Communications Corporation	U-CALL	U-CALL	U-CALL	900 (GSM)	539	01	"0,1"	8967601	2012-07-05
+TTO	Telecommunications Services of Trinidad and Tobago Ltd	TSTT	TSTT	TSTT	1800 (GSM)	374	12	1		2008-07-23
+TUN	"ORANGE TUNISIE, SA"	Orange Tunisie	Orange	Orange	1800 (GSM)	605	01		8921601	2009-12-02
+TUN	"ORANGE TUNISIE, SA"	Orange Tunisie	Orange	Orange	900 (GSM)	605	01		8921601	2009-12-02
+TUN	TUNISIANA S.A.	TUNISIANA	TUNISIANA	TUNSIANA	900 (GSM)	605	03		8921603	2002-09-09
+TUN	Tunisie Telecom	TUNTEL	TUNISIE TELECOM	TUNTEL	900 (GSM)	605	02		8921602	2004-04-16
+TUR	Avea Iletisim Hizmetleri A.S.	AVEA	AVEA	AVEA	1800 (GSM)	286	03	"0,2"	8990286	2012-07-05
+TUR	Turkcell Iletisim Hizmetleri A.S.	Turkcell Iletisim Hizmetleri	TR TURKCELL	TCELL	900 (GSM)	286	01	2	899001	2004-04-16
+TUR	Vodafone Telekomunikasyon A.S	Vodafone Turkey	VODAFONE TR	VF TR	900 (GSM)	286	02	6	"8,9 9002"	2007-04-16
+TWN	ACeS International Limited (AIL)	ACeS Taiwan - ACeS Taiwan Telecommunications Co Ltd	ACeS	ACeS	Satellite (GSM)	466	68		8988668	2012-02-21
+TWN	Chunghwa Telecom	Chunghwa Telecom	Chunghwa Telecom	Chunghwa	2100 (3G)	466	92		8988692	2012-07-05
+TWN	Chunghwa Telecom	Chunghwa Telecom	Chunghwa Telecom	Chunghwa	1800 (GSM)	466	92	"0,1,2"	8988692	2012-11-26
+TWN	Chunghwa Telecom	Chunghwa Telecom	Chunghwa Telecom	Chunghwa	900 (GSM)	466	92	"0,1,2"	8988692	2012-11-26
+TWN	Far EasTone Telecommunications Co Ltd	Far EasTone	Far EasTone	FET	900 (GSM)	466	01		8988601	2014-09-16
+TWN	Far EasTone Telecommunications Co Ltd	Far EasTone	Far EasTone	FET	2100 (3G)	466	01		8988601	2014-09-16
+TWN	Far EasTone Telecommunications Co Ltd	Far EasTone	Far EasTone	FET	900 (GSM)	466	01		8988602	2014-09-16
+TWN	Far EasTone Telecommunications Co Ltd	Far EasTone	Far EasTone	FET	1800 (GSM)	466	01		8988602	2014-09-16
+TWN	Far EasTone Telecommunications Co Ltd	Far EasTone	Far EasTone	FET	2100 (3G)	466	01		8988602	2014-09-16
+TWN	Far EasTone Telecommunications Co Ltd	Far EasTone	KGT-Online	KGT	1800 (GSM)	466	88	1	8988688	2014-09-16
+TWN	Far EasTone Telecommunications Co Ltd	Far EasTone	Far EasTone	FET	1800 (GSM)	466	01		8988601	2014-09-16
+TWN	Taiwan Mobile Co.Ltd	MOBITAI	TWN MOBITAI	TW MOB	900 (GSM)	466	93	"0,2"	8988693	2012-07-05
+TWN	Taiwan Mobile Co.Ltd	Taiwan Mobile	TW Mobile	TWM	1800 (GSM)	466	97	"7,3"	8988697	2012-07-05
+TWN	Taiwan Star Telecom Corporation Limited	T Star	T Star	T Star	900 (LTE)	466	89		8988689	2014-11-18
+TWN	Taiwan Star Telecom Corporation Limited	T Star	T Star	T Star	2100 (3G)	466	89		8988689	2014-11-18
+TZA	Airtel Tanzania Limited	Airtel	Airtel	Airtel	400 (GSM)	640	05	"0,1"	8925505	2014-08-13
+TZA	Airtel Tanzania Limited	Airtel	Airtel	Airtel	900 (GSM)	640	05	"0,1"	8925505	2014-08-13
+TZA	Airtel Tanzania Limited	Airtel	Airtel	Airtel	1800 (GSM)	640	05	"0,1"	8925505	2014-08-13
+TZA	MIC Tanzania Limited	Tigo	TIGO - TZ	TIGO	1800 (GSM)	640	02	"3,4,5,6"	8925502	2012-07-05
+TZA	MIC Tanzania Limited	Tigo	TIGO - TZ	TIGO	900 (GSM)	640	02	"3,4,5,6"	8925502	2012-07-05
+TZA	Vodacom Tanzania Limited	Vodacom Tanzania Limited	VodaCom	VodaCom	900 (GSM)	640	04	0	8925504	2004-04-16
+TZA	Vodacom Tanzania Limited	Vodacom Tanzania Limited	VodaCom	VodaCom	1800 (GSM)	640	04	0	8925504	2004-04-16
+TZA	Zanzibar Telecom Ltd	ZANTEL	ZANTEL-TZ	ZANTEL	900 (GSM)	640	03	"0,7"	8925503	2012-07-05
+TZA	Zanzibar Telecom Ltd	ZANTEL	ZANTEL-TZ	ZANTEL	1800 (GSM)	640	03	"0,7"	8925503	2012-07-05
+UGA	Airtel Uganda Limited	Airtel 	Airtel 	Airtel 	1800 (GSM)	641	22		8964170	2014-09-29
+UGA	Airtel Uganda Limited	Airtel 	Airtel	Airtel	900 (GSM)	641	01		8925601	2014-09-29
+UGA	Airtel Uganda Limited	Airtel 	Airtel 	Airtel 	1800 (GSM)	641	01		8925601	2014-09-29
+UGA	Airtel Uganda Limited	Airtel 	Airtel 	Airtel 	900 (GSM)	641	22		8964170	2014-09-29
+UGA	MTN Uganda Ltd	MTN-UGANDA	MTN-UGANDA	MTN-UG	900 (GSM)	641	10	6	8925610	2012-08-07
+UGA	Orange Uganda Limited	ORANGE UGANDA LIMITED	ORANGE UGANDA	OUL	900 (GSM)	641	14		8925614	2009-07-16
+UGA	Orange Uganda Limited	ORANGE UGANDA LIMITED	ORANGE UGANDA	OUL	1800 (GSM)	641	14		8925614	2009-07-16
+UGA	Suretelcom Uganda Limited	SMART Uganda	Suretelcom	suretel	900 (GSM)	641	18		8925618	2014-10-07
+UGA	Suretelcom Uganda Limited	SMART Uganda	Suretelcom	suretel	1800 (GSM)	641	18		8925618	2014-10-07
+UGA	Uganda Telecom Ltd	Uganda Telecom	Uganda Telecom	UTL	2100 (3G)	641	11		8925611	2013-02-20
+UGA	Uganda Telecom Ltd	Uganda Telecom	Uganda Telecom	UTL	900 (GSM)	641	11	"7,1"	8925611	2012-08-13
+UKR	Astelit LLC	life:)	life:)	life:)	1800 (GSM)	255	06		8938006	2006-01-30
+UKR	Astelit LLC	life:)	life:)	life:)	900 (GSM)	255	06		8938006	2006-01-30
+UKR	Golden Telecom LLC	GOLDEN TELECOM	UA-GT	GT	1800 (GSM)	255	05	1	8938005	2004-04-16
+UKR	"Kyivstar, Private Joint Stock Company"	Beeline UA	Beeline UA	Beeline	1800 (GSM)	255	02	1	8938002	2006-11-22
+UKR	"Kyivstar, Private Joint Stock Company"	Beeline UA	Beeline UA	Beeline	900 (GSM)	255	02	1	8938002	2006-11-22
+UKR	"Kyivstar, Private Joint Stock Company"	KYIVSTAR	UA-KYIVSTAR	UA-KS	1800 (GSM)	255	03	5	8938003	2004-04-16
+UKR	"Kyivstar, Private Joint Stock Company"	KYIVSTAR	UA-KYIVSTAR	UA-KS	900 (GSM)	255	03	5	8938003	2004-04-16
+UKR	MTS Ukraine	MTS UKR	MTS UKR	MTS UKR	1800 (GSM)	255	01	5	8938001	2007-05-28
+UKR	MTS Ukraine	MTS UKR	MTS UKR	MTS UKR	900 (GSM)	255	01	5	8938001	2007-05-28
+UKR	TriMob LLC	TriMob	TriMob	TriMob	2100 (3G)	255	07		8938007	2012-02-15
+URY	AM Wireless Uruguay S.A.	CLARO URUGUAY	CLARO URUGUAY	CLARO UY	1900 (GSM)	748	10	1	8959100	2012-08-14
+URY	ANTEL	Antel	Antel	Antel	1800 (GSM)	748	01		8959801	2012-11-21
+URY	Telefonica Moviles Del Uruguay S.A.	MOVISTAR	Movistar	Movistar	850 (GSM)	748	07	"0,1"	8959807	2012-07-05
+URY	Telefonica Moviles Del Uruguay S.A.	MOVISTAR	Movistar	Movistar	1900 (GSM)	748	07	"0,1"	8959807	2012-07-05
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	850 (3G)	310	030		8901030	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	1900 (GSM)	310	150	1	8901150	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	850 (GSM)	310	170	0	8931017	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	700 (LTE)	310	150		8901150	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	850 (GSM)	310	410	0	8931041	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	850 (3G)	310	410		8931041	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	1900 (3G)	310	170		8931017	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	1900 (GSM)	310	030		8901030	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	1900 (GSM)	310	380	1	8901438	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	1900 (3G)	310	380		8901438	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	850 (3G)	310	170		8931017	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	850 (GSM)	310	150	0	8901150	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	850 (3G)	310	380		8901438	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	1700/2100 (LTE)	310	030		8901030	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	1700/2100 (LTE)	310	280		8901280	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	700 (LTE)	310	280		8901280	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	700 (LTE)	310	410		8931041	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	700 (LTE)	310	380		8901438	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	700 (LTE)	310	030		8901030	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	1700/2100 (LTE)	310	150		8901150	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	1700/2100 (LTE)	310	410		8931041	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	1700/2100 (LTE)	310	380		8901438	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	1700/2100 (LTE)	310	170		8931017	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	850 (GSM)	310	380	0	8901438	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	850 (3G)	310	150		8901150	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	850 (GSM)	310	280		8901280	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	850 (3G)	310	280		8901280	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	1900 (GSM)	310	410	1	8931041	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	1900 (3G)	310	030		8901030	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	1900 (3G)	310	410		8931041	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	1900 (3G)	310	150		8901150	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	1900 (GSM)	310	280		8901280	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	1900 (GSM)	310	170	1	8931017	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	1900 (3G)	310	280		8901280	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	850 (GSM)	310	030		8901030	2014-03-21
+USA	AT&T Mobility	AT&T Mobility	AT&T	AT&T	700 (LTE)	310	170		8931017	2014-03-21
+USA	Advantage Cellular Systems Inc	Advantage	USAACSI	ACSIAC	850 (GSM)	310	880		8901880	2004-01-28
+USA	Airadigm Communications	Airadigm Communications	USA AE Airadigm	ARDGMC	1900 (GSM)	310	640		8931064	2003-01-29
+USA	Arctic Slope Telephone Association Cooperative	Artic Slope Telephone Association Cooperative	USA ASTAC	ASTAC	850 (GSM)	310	710			2005-11-15
+USA	Bluegrass Wireless LLC	Bluegrass Wireless	Bluegrass Wireless	BW	1700 (LTE)	311	810		8931100	2014-09-16
+USA	"C T Cube, LP"	West Central Wireless	West Central Wireless	WCW	850 (GSM)	310	180		8901180	2014-07-28
+USA	"C T Cube, LP"	West Central Wireless	West Central Wireless	WCW	1900 (GSM)	310	180		8901180	2014-07-28
+USA	"CTC Telcom, Inc."	CTC Telcom Wireless	MOSAIC	MOSAIC	1700 (3G)	311	500		8901500	2013-05-21
+USA	"CTC Telcom, Inc."	CTC Telcom Wireless	MOSAIC	MOSAIC	2100 (3G)	311	500		8901500	2013-05-21
+USA	"Cellular Properties, Inc"	Cellular One of East Central Illinois	USAC1ECI	C1ECI	850 (GSM)	311	190	0	8901190	2008-07-23
+USA	Choice Wireless LC	CellularOne of Texoma	USA AmeriLink	AMERLINK	1900 (GSM)	310	630		8901310	2004-05-11
+USA	Cincinnati Bell Wireless	Cincinnati Bell Wireless	Cinti Bell	CBW	1900 (GSM)	310	420		8901420	2013-02-20
+USA	"Commnet Wireless, LLC"	Commnet	USA - Commnet	Commnet	850 (GSM)	311	040			2014-06-09
+USA	"Commnet Wireless, LLC"	Commnet	USA - Commnet	Commnet	1900 (GSM)	311	040			2014-06-09
+USA	Cordova Wireless Communications LLC	Cordova Wireless Communications	USACWCI	CWCI	850 (3G)	311	240		8901240	2014-06-13
+USA	Corr Wireless Communications	Corr Wireless Communications	Corr Wireless	Corr	1900 (GSM)	310	080		8901080	2005-05-03
+USA	E.N.M.R. Telephone Cooperative	Plateau Wireless	US PLATEAU	PLATEAU	850 (GSM)	310	100		8901100	2004-01-22
+USA	"IT&E Overseas, Inc"	IT&E Wireless	IT&E	IT&E	1900 (GSM)	310	032		8931032	2005-08-22
+USA	"Indigo Wireless, Inc"	Indigo Wireless	Indigo	Indigo	1900 (GSM)	311	030		8901030	2011-11-07
+USA	"Iowa Wireless Services, LLC"	i wireless	Iowa Wireless USA	IWS	1900 (GSM)	310	770	"4,2"	"8901530, 8901770"	2011-11-01
+USA	"Iowa Wireless Services, LLC"	i wireless	Iowa Wireless USA	IWS	1900 (GSM)	310	530	"4,2"	"8901530, 8901770"	2011-11-01
+USA	"Jasper Technologies, inc"	Jasper	Jasper	Jasper	850 (GSM)	310	650		8901650	2014-09-29
+USA	"Kaplan Telephone Company,Inc"	PACE	US	PACE	850 (GSM)	310	870	"0,1"	890187	2012-09-27
+USA	"Limitless Mobile, LLC"	Limitless Mobile LLC	Limitless Mobile USA	LmtlsUSA	1900 (GSM)	310	690		891690	2014-05-13
+USA	Long Lines Wireless LLC	Long Lines Wireless	USASXLP	SXLP	1900 (GSM)	311	090	"0,5"	891090	2012-07-05
+USA	"MTPCS, LLC"	Cellular One	Chinook	Chinook	1900 (GSM)	310	570		8901570	2012-08-16
+USA	"Michigan Wireless, LLC"	Bug Tussel Wireless	BTW	BTW	1900 (GSM)	311	330		8901330	2008-04-01
+USA	"NEP Cellcorp, Inc"	NEP Wireless	NEP Wireless	NEPW	1900 (GSM)	310	290		891009	2012-08-13
+USA	"NetGenuity, Inc"	"NetGenuity, Inc"	NetGenuity	NetGenui	1900 (GSM)	312	630		891042	2014-07-04
+USA	"NetGenuity, Inc"	"NetGenuity, Inc"	NetGenuity	NetGenui	1800 (GSM)	312	630		891042	2014-07-04
+USA	New Mexico RSA 4 East Ltd Partnership	Plateau Wireless	US PLATEAU	PLATEAU	1700 (3G)	310	100		8901100	2012-10-04
+USA	New Mexico RSA 4 East Ltd Partnership	Plateau Wireless	US PLATEAU	PLATEAU	850 (GSM)	310	100		8901100	2004-01-22
+USA	New Mexico RSA 4 East Ltd Partnership	Plateau Wireless	US PLATEAU	PLATEAU	1900 (GSM)	310	100		8901100	2004-01-22
+USA	New Mexico RSA 4 East Ltd Partnership	Plateau Wireless	US PLATEAU	PLATEAU	2100 (3G)	310	100		8901100	2012-10-04
+USA	"NewCore Wireless, LLC"	NewCore Wireless LLC	USANW	USANW	1900 (GSM)	311	530		891530	2012-07-26
+USA	"NewCore Wireless, LLC"	"NewCore Wireless, LLC"	USACL	USACL	1900 (LTE)	312	260		891530	2013-03-28
+USA	"NewCore Wireless, LLC"	"NewCore Wireless, LLC"	USA1L	USA1L	1900 (GSM)	310	460		891460	2012-07-26
+USA	North Dakota Network Company	SRT Wireless	SRT Wireless	SRTW	1900 (LTE)	312	230		8914010	2013-06-17
+USA	"North East Colorado Cellular, Inc (NECCI)"	Viaero Wireless	Cell One of NE Colorado	NECCI	1900 (GSM)	310	450		8901450	2013-05-21
+USA	"North East Colorado Cellular, Inc (NECCI)"	Viaero Wireless	Cell One of NE Colorado	NECCI	850 (GSM)	310	450	"0,1"	8901450	2012-10-19
+USA	"Northeast Wireless Networks, LLC"	Northeast Wireless Networks	Northeast Wireless	NEWN	1900 (GSM)	311	710			2011-03-10
+USA	OTZ Telecommunications Inc.	OTZ Cellular	USA OTZ	OTZ	850 (GSM)	310	740		8901740	2008-11-11
+USA	Pine Telephone Company	Pine Cellular	Pine Cellular	PINECell	850 (GSM)	311	080	"0,5"	8901080	2012-07-05
+USA	"Proximiti Mobility, Inc"	Proximiti Mobility	USA Proximiti	ProxMo	850 (GSM)	311	540	2	"8901540, 8901730"	2011-11-01
+USA	"Proximiti Mobility, Inc"	Proximiti Mobility	USA Proximiti	ProxMo	850 (GSM)	311	730	2	"8901540, 8901730"	2011-11-01
+USA	"Sagebrush Cellular, Inc."	Sagebrush	Sagebrush	SGB	1900 (GSM)	312	480	0.4	891480	2014-04-07
+USA	"Sagebrush Cellular, Inc."	Sagebrush	Sagebrush	SGB	700 (LTE)	312	480		891480	2014-04-07
+USA	"Sagebrush Cellular, Inc."	Sagebrush	Sagebrush	SGB	850 (GSM)	312	480	0.4	891480	2014-04-07
+USA	"Smith Bagley, Inc."	CellularOne	USA - CellularOne	Cell	1900 (GSM)	310	320		8901320	2002-11-01
+USA	"Smith Bagley, Inc."	CellularOne	USA - CellularOne	Cell	850 (GSM)	310	320		8901320	2002-11-01
+USA	Sprint Nextel Corporation	Sprint Nextel Coporation	Sprint	Sprint	1900 (LTE)	310	120			2012-07-10
+USA	"T-Mobile USA, Inc"	T-Mobile USA	T-Mobile	T-Mobile	1900 (GSM)	310	200	0	891200	2014-09-10
+USA	"T-Mobile USA, Inc"	T-Mobile USA	T-Mobile	T-Mobile	1900 (GSM)	310	260		891260	2014-09-10
+USA	"T-Mobile USA, Inc"	T-Mobile USA	T-Mobile	T-Mobile	1900 (GSM)	310	160		891160	2014-09-10
+USA	"T-Mobile USA, Inc"	T-Mobile USA	T-Mobile	T-Mobile	1900 (GSM)	310	270		891270	2014-09-10
+USA	"T-Mobile USA, Inc"	T-Mobile USA	T-Mobile	T-Mobile	1900 (GSM)	310	250		891250	2014-09-10
+USA	"T-Mobile USA, Inc"	T-Mobile USA	T-Mobile	T-Mobile	1900 (GSM)	310	490		891490	2014-09-10
+USA	"T-Mobile USA, Inc"	T-Mobile USA	T-Mobile	T-Mobile	1900 (GSM)	310	210		891210	2014-09-10
+USA	"T-Mobile USA, Inc"	T-Mobile USA	T-Mobile	T-Mobile	1900 (GSM)	310	240		891240	2014-09-10
+USA	"T-Mobile USA, Inc"	T-Mobile USA	T-Mobile	T-Mobile	1900 (GSM)	310	310	1	891310	2014-09-10
+USA	Telecom North America Mobile Inc.	telna Mobile	telna Mobile	telna	1900 (GSM)	310	840		891030	2011-10-13
+USA	Texas RSA 3 Ltd Partnership	Plateau Wireless	US PLATEAU	PLATEAU	850 (GSM)	310	100		8901100	2004-01-22
+USA	"The Alaska Wireless Network, LLC "	Alaska Communications	ACS	ACS	1900 (GSM)	310	50		890131	2014-04-10
+USA	"The Alaska Wireless Network, LLC "	Alaska Wireless	USA Dutch Harbor	D-HARBOR	850 (GSM)	310	190		8901190	2014-04-10
+USA	"The Alaska Wireless Network, LLC "	GCI Communications Corp.	GCI	GCI	1900 (GSM)	311	370		891026	2014-04-10
+USA	Union Telephone Company	Union Telephone Company	US - Union Telephone	UnionTel	1900 (GSM)	310	020	"0,5"	8901020	2012-07-05
+USA	Union Telephone Company	Union Telephone Company	US - Union Telephone	UnionTel	850 (GSM)	310	020	"0,5"	8901020	2012-07-05
+USA	United States Cellular Corporation	U.S.Cellular	U.S.Cellular	USCC	700 (LTE)	311	580		8901580	2014-03-20
+USA	United States Cellular Corporation	U.S.Cellular	U.S.Cellular	USCC	850 (GSM)	310	730		8901730	2014-03-20
+USA	United States Cellular Corporation	U.S.Cellular	U.S.Cellular	USCC	850 (LTE)	311	580		8901580	2014-03-20
+USA	United States Cellular Corporation	U.S.Cellular	U.S.Cellular	USCC	2100 (LTE)	311	580		8901580	2014-03-20
+USA	United States Cellular Corporation	U.S.Cellular	U.S.Cellular	USCC	1900 (LTE)	311	580		8901580	2014-03-20
+USA	Vanu Coverage Co	Vanu Coverage Co	CoverageCo	CvgCo	1900 (GSM)	312	060			2012-09-25
+USA	Verizon Wireless	Verizon Wireless	Verizon	Verizon	1900 (GSM)	310	890		8901890	2012-10-19
+USA	Verizon Wireless	Verizon Wireless	Verizon	Verizon	700 (LTE)	311	480		8914800	2012-10-19
+USA	Verizon Wireless	Verizon Wireless	Verizon	Verizon	850 (GSM)	310	590			2012-10-19
+USA	Verizon Wireless	Verizon Wireless	Verizon	Verizon	1900 (GSM)	310	590			2012-10-19
+USA	WestLink Communications LLC	WestLink Communications	WestLink	WestLink	1900 (GSM)	310	340		8901340	2012-10-03
+USA	Western Union	Ymobile	Ymobile	Ymobile	1700 (3G)	440	00		898100	2014-07-28
+USA	Wilkes Cellular Inc	Via Wireless	Wilkes USA	WILKES	850 (GSM)	311	150	"0,1"	8901150	2012-08-13
+USA	"iSmart Mobile, LLC"	Big Sky Mobile	BigSkyUS	Big Sky	1900 (GSM)	310	300	1	8901300	2011-09-15
+UZB	FE Coscom LLC	Ucell	UZB Ucell	Ucell	900 (GSM)	434	05		8999893	2012-03-05
+UZB	FE Coscom LLC	Ucell	UZB Ucell	Ucell	2100 (3G)	434	05		8999893	2012-02-16
+UZB	FE Coscom LLC	Ucell	UZB Ucell	Ucell	1800 (GSM)	434	05		8999893	2012-03-05
+UZB	Unitel LLC	Beeline	Beeline UZ	Beeline	1800 (GSM)	434	04	4	8999804	2012-03-15
+UZB	Unitel LLC	Beeline	Beeline UZ	Beeline	900 (GSM)	434	04	4	8999804	2012-03-15
+UZB	Unitel LLC	UNITEL	Beeline UZ	Beeline	2100 (3G)	434	04		8999804	2012-03-15
+UZB	"Universal Mobile Systems, LLC"	UMS	UMS-UZB	UMS	1800 (GSM)	434	07		8999807	2014-11-13
+UZB	"Universal Mobile Systems, LLC"	UMS	UMS-UZB	UMS	900 (GSM)	434	07		8999807	2014-11-13
+UZB	"Universal Mobile Systems, LLC"	UMS	UMS-UZB	UMS	800 (LTE)	434	07		8999807	2014-11-13
+UZB	"Universal Mobile Systems, LLC"	UMS	UMS-UZB	UMS	2100 (3G)	434	07		8999807	2014-11-13
+UZB	"Universal Mobile Systems, LLC"	UMS	UMS-UZB	UMS	2500 (LTE)	434	07		8999807	2014-11-13
+VCT	Cable & Wireless (St. Vincent & the Grenadines) Ltd	LIME	LIME	LIME	850 (GSM)	360	110	1	8901022	2012-05-18
+VCT	Digicel (St. Vincent and the Grenadines) Limited	Digicel (St. Vincent and Grenadines)	DIGICEL	DIGICEL	1800 (GSM)	360	070			2004-11-05
+VCT	Digicel (St. Vincent and the Grenadines) Limited	Digicel (St. Vincent and Grenadines)	DIGICEL	DIGICEL	900 (GSM)	360	070			2004-11-05
+VEN	Corporacion Digitel C.A.	DIGITEL GSM	DIGITEL GSM	DIGITEL	1800 (GSM)	734	02	4	895802	2013-03-12
+VEN	Corporacion Digitel C.A.	DIGITEL GSM	DIGITEL GSM	DIGITEL	900 (GSM)	734	02	4	895802	2013-03-12
+VEN	Telcel C.A.	Movistar	Movistar	Movistar	850 (GSM)	734	04	1	895804	2014-10-07
+VEN	Telecomunicaciones Movilnet C.A.	Telecomunicaciones Movilnet	VE_MOVILNET	Movilnet	850 (GSM)	734	06		8958060	2007-11-19
+VGB	Cable & Wireless (BVI) Ltd	LIME	LIME	LIME	850 (GSM)	348	170		8901014	2012-05-18
+VGB	Caribbean Cellular Telephone	CCT	CCT Boatphone	CCTBVI	900 (GSM)	348	570	"0,1"	8901570	2012-07-05
+VGB	Caribbean Cellular Telephone	CCT	CCT Boatphone	CCTBVI	1900 (GSM)	348	570	"0,1"	8901570	2012-07-05
+VNM	GTEL Mobile Joint Stock Company (GTEL Mobile)	Gmobile	Gmobile	Gmobile	1800 (GSM)	452	07	"0,7"	898407	2012-09-25
+VNM	Hanoi Telecom Joint Stock Company	Vietnamobile	VN Vietnamobile	VNMOBILE	900 (GSM)	452	05	0		2012-07-13
+VNM	Vietnam Mobile Telecom Services Company	Mobifone	VN Mobifone	Mobifone	1800 (GSM)	452	01	"0,1"	898401	2014-06-03
+VNM	Vietnam Mobile Telecom Services Company	Mobifone	VN Mobifone	Mobifone	2100 (3G)	452	01		898401	2014-06-03
+VNM	Vietnam Mobile Telecom Services Company	Mobifone	VN Mobifone	Mobifone	900 (GSM)	452	01	"0,1"	898401	2014-06-03
+VNM	Vietnam Telecom Services Company (VinaPhone)	VINAPHONE	VN VINAPHONE	GPC	900 (GSM)	452	02		898402	2012-07-05
+VNM	Viettel Corporation	Viettel	VIETTEL	VIETTEL	2100 (3G)	452	04		898404	2012-07-05
+VNM	Viettel Corporation	Viettel Mobile	VNM and VIETTEL	VIETTEL	1800 (GSM)	452	04		898404	2010-12-20
+VNM	Viettel Corporation	Viettel Mobile	VNM and VIETTEL	VIETTEL	900 (GSM)	452	04		898404	2010-12-20
+VUT	Digicel (Vanuatu) Ltd	Digicel	Digicel	Digicel	900 (GSM)	541	05		8967805	2011-12-16
+VUT	Digicel (Vanuatu) Ltd	Digicel	Digicel	Digicel	900 (3G)	541	05		8967805	2012-01-09
+VUT	TELECOM VANUATU LIMITED	SMILE	VUT SMILE	SMILE	900 (GSM)	541	01	0	8967801	2008-07-23
+WSM	Bluesky Samoa Limited	Bluesky Samoa Limited	Bluesky	Bluesky	900 (3G)	549	27		8968527	2012-10-19
+WSM	Bluesky Samoa Limited	Bluesky Samoa Limited	Bluesky	Bluesky	900 (GSM)	549	27		8968527	2012-10-19
+WSM	Digicel (Samoa) Limited	Digicel	DIGICEL	DIGICEL	900 (GSM)	549	00		8968500	2011-04-15
+YEM	MTN Yemen	MTN	MTN	MTN	900 (GSM)	421	02		8996702	2014-10-31
+YEM	Y-Telecom	Y-Telecom	Y-Telecom	Y	900 (GSM)	421	04	"6,7"	8996704	2014-04-11
+YEM	Yemen Mobile Phone Company - Sabafon	Yemen Company for Mobile Telephony	SabaFon	SABAFON	900 (GSM)	421	01	"0,3"	8996701	2012-07-05
+ZAF	Cell C (Pty) Ltd	Cell C	Cell C	Cell C	1800 (GSM)	655	07	7	892703	2004-04-16
+ZAF	Cell C (Pty) Ltd	Cell C	Cell C	Cell C	900 (GSM)	655	07	7	892703	2004-04-16
+ZAF	MTN - Mobile Telephone Networks (Pty) Ltd.	MTN-SA	MTN-SA	MTN	900 (GSM)	655	10	4	892701	2004-04-16
+ZAF	Telkom SA Ltd	Telkom SA Ltd	TelkomSA	TelkomSA	1800 (GSM)	655	02		892702	2013-03-28
+ZAF	Telkom SA Ltd	Telkom SA Ltd	TelkomSA	TelkomSA	2100 (3G)	655	02		892702	2013-03-28
+ZAF	Vodacom Group Pty Ltd.	VodaCom	VodaCom-SA	VODA	900 (GSM)	655	01	0	8965501	2011-11-08
+ZMB	Airtel Networks Zambia Plc.	Airtel	Airtel	Airtel	900 (GSM)	645	01	"0,1"	8926001	2014-07-02
+ZMB	MTN (Zambia) Ltd	MTN ZAMBIA	MTN ZM	MTN ZM	900 (GSM)	645	02	2	8964502	2008-07-08
+ZWE	Econet Wireless (Private) Limited	ECONET	ZW ECONET	ECONET	900 (GSM)	648	04	1	8926304	2004-04-21
+ZWE	Net*One Cellular (Pvt) Ltd	Net*One Cellular	ZW NET*ONE	NETONE	900 (GSM)	648	01		8926301	2004-04-16
+ZWE	Telecel Zimbabwe (PVT) Ltd	TELECEL	TELECEL ZW	TELECEL	900 (GSM)	648	03	"0,3"	8926303	2012-07-05

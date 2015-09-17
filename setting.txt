@@ -1,0 +1,19 @@
+主表(Ts25)設定
+ts25
+
+filename = ts25.txt
+hasHeader = true
+MccPosition = 6
+MncPosition = 7
+PpciPosition = 3
+AbrevPosition = 4
+
+副表設定
+machine
+
+filename = compare.txt
+hasHeader = false
+MccPosition = 0
+MncPosition = 1
+PpciPosition = -1
+AbrevPosition = 2
